@@ -1,11 +1,21 @@
 {
   "user123": {
-    "followers": ["user8", "user9", "user10"],
-    "follows": ["user66", "user33"],
+    "followers": [
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "follows": [
+      "user66",
+      "user33"
+    ],
     "timestamp": 1734504834775
   },
   "jde.blue": {
     "followers": [
+      "yourdevocean.bsky.social",
+      "kjstok.bsky.social",
+      "unity-vibes.bsky.social",
       "strasek.follows.tech",
       "karlhorky.com",
       "samhincks.bsky.social",
@@ -295,6 +305,6 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734556676104
+    "timestamp": 1734557906870
   }
 }
