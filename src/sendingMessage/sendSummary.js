@@ -56,15 +56,15 @@ const messageText = async (followChanges, agent) => {
     .map((following) => `@${following}`)
     .join(", ");
   const text = new RichText({
-    text: `Hey Justin,\n\nHere's a summary of the connection changes over the last 24 hours:\n\nNew Followers: [${
+    text: `Hey Justin,\n\nHere's a summary of the connection changes over the last 24 hours:\n\nNew Followers: ${
       newFollowersString ? newFollowersString : "NONE🙅"
-    }]\n\nNew Follows: [${
+    }\n\nNew Follows: ${
       newFollowingString ? newFollowingString : "NONE🙅"
-    }]\n\nLost Followers: [${
+    }\n\nLost Followers: ${
       lostFollowersString ? lostFollowersString : "NONE🙅"
-    }]\n\nUnfollowed Accounts: [${
+    }\n\nUnfollowed Accounts: ${
       lostFollowingString ? lostFollowingString : "NONE🙅"
-    }]`,
+    }`,
   });
 
   await text.detectFacets(agent);
