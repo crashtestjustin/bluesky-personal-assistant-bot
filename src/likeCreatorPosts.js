@@ -1,6 +1,6 @@
 import fetch, { Headers, Response, Request } from "node-fetch"; // Polyfill fetch, Headers, Response, and Request
 import { FormData } from "formdata-node"; // Polyfill FormData
-import { authenticateAgent } from "./authenticateAgent.js";
+import { authenticateAgent } from "./src/authenticating/authenticateAgent.js";
 
 // Polyfill fetch, Headers, FormData, Request, and Response for the Node.js environment
 globalThis.Headers = Headers;
