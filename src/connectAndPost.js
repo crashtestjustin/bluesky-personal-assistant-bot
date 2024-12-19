@@ -53,6 +53,7 @@ export const run = async () => {
     const difference = await compareFollowData(followData, targetUser);
     //send message summarizing changes to the same conversation id
     const message = await sendUpdateMessage(
+      targetUser[0].handle,
       conversation.convo.id,
       accountPDS,
       proxyHeader,

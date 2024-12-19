@@ -2,6 +2,7 @@ import { RichText } from "@atproto/api";
 import { authenticateAgent } from "../authenticating/authenticateAgent.js";
 
 export const sendUpdateMessage = async (
+  accountHandle,
   convoId,
   accountPDS,
   proxyHeader,
@@ -9,7 +10,7 @@ export const sendUpdateMessage = async (
   followChanges
 ) => {
   const agent = await authenticateAgent();
-  const text = await messageText(followChanges, agent);
+  const text = await messageText(followChanges, agent, accountHandle);
 
   const url = "chat.bsky.convo.sendMessage";
 
@@ -42,7 +43,7 @@ export const sendUpdateMessage = async (
   }
 };
 
-const messageText = async (followChanges, agent) => {
+const messageText = async (followChanges, agent, accountHandle) => {
   const newFollowersString = followChanges.newFollowers
     .map((follower) => `@${follower}`)
     .join(", ");
@@ -56,7 +57,7 @@ const messageText = async (followChanges, agent) => {
     .map((following) => `@${following}`)
     .join(", ");
   const text = new RichText({
-    text: `Hey Justin,\n\nHere's a summary of the connection changes over the last 24 hours:\n\nNew Followers: ${
+    text: `Hey Justin,\n\nHere's a summary of the connection changes for @${accountHandle} over the last 24 hours:\n\nNew Followers: ${
       newFollowersString ? newFollowersString : "NONE🙅"
     }\n\nNew Follows: ${
       newFollowingString ? newFollowingString : "NONE🙅"
