@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "vancesolar.bsky.social",
       "yourdevocean.bsky.social",
       "kjstok.bsky.social",
       "unity-vibes.bsky.social",
@@ -21,7 +22,6 @@
       "samhincks.bsky.social",
       "devavocado.bsky.social",
       "daniel-majer.github.io",
-      "raincitycor.bsky.social",
       "kristenbrowne3.bsky.social",
       "bluesterb.bsky.social",
       "robbierobot.bsky.social",
@@ -305,6 +305,6 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734558484608
+    "timestamp": 1734571352120
   }
 }
