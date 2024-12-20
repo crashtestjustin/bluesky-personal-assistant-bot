@@ -215,6 +215,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "theyearprogress.bsky.social",
       "wes.dev",
       "heymattia.bsky.social",
       "listifications.app",
@@ -222,7 +223,6 @@
       "xmascountdown.bsky.social",
       "biptopposts.bsky.social",
       "jmckinven.com",
-      "theyearprogress.bsky.social",
       "danielcranney.bsky.social",
       "rafal.fyi",
       "yongfook.bsky.social",
@@ -312,7 +312,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734675510006
+    "timestamp": 1734678904988
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -351,7 +351,7 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734675510005
+    "timestamp": 1734678904985
   },
   "biptopposts.bsky.social": {
     "followers": [
@@ -452,10 +452,11 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734675510002
+    "timestamp": 1734678904983
   },
   "theyearprogress.bsky.social": {
     "followers": [
+      "jde.blue",
       "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
       "beasuperdad.bsky.social",
@@ -466,8 +467,7 @@
       "gregormay.com",
       "xmascountdown.bsky.social",
       "biptopposts.bsky.social",
-      "crashtestjustin.bsky.social",
-      "jde.blue"
+      "crashtestjustin.bsky.social"
     ],
     "follows": [
       "bluesky-anim8or.bsky.social",
@@ -483,6 +483,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734675510005
+    "timestamp": 1734678904987
   }
 }
