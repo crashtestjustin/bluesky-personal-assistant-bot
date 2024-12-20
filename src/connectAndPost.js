@@ -16,6 +16,7 @@ import { getPersonalBotConvo } from "./matching and getting data/findMatchingCon
 import { compareFollowData } from "./matching and getting data/compareToPriorFollowData.js";
 import { getFollowersAndFollowingHandles } from "./data/getFollowerandFollowingHandles.js";
 import { sendUpdateMessage } from "./sendingMessage/sendSummary.js";
+import { loadHandles } from "./data/readWriteHandles.js";
 
 dotenv.config();
 
@@ -43,23 +44,32 @@ export const run = async () => {
     const targetUser = conversation.convo.members.filter(
       (handle) => handle !== "crashtestjustin.bsky.social"
     );
-    //get follows and followers via the agent
+
+    //create handle array for subsequent actions
+    const otherHandles = loadHandles();
+    const handles = [...otherHandles.handles, targetUser[0].handle];
+    // console.log("All handles", handles);
+
+    //get follows and followers
     const followData = await getFollowersAndFollowingHandles(
       accountPDS,
       session.accessJwt,
-      targetUser
+      handles
     );
-    //get prior informatino from database (aka json file for now)
-    const difference = await compareFollowData(followData, targetUser);
-    //send message summarizing changes to the same conversation id
-    const message = await sendUpdateMessage(
-      targetUser[0].handle,
-      conversation.convo.id,
-      accountPDS,
-      proxyHeader,
-      session.accessJwt,
-      difference
-    );
+
+    // console.log(followData);
+    // //get prior informatino from database (aka json file for now)
+    const difference = await compareFollowData(followData, handles);
+    console.log(difference);
+    // //send message summarizing changes to the same conversation id
+    // const message = await sendUpdateMessage(
+    //   targetUser[0].handle,
+    //   conversation.convo.id,
+    //   accountPDS,
+    //   proxyHeader,
+    //   session.accessJwt,
+    //   difference
+    // );
   } catch (error) {
     console.log("Error sending message", error);
   }
