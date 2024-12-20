@@ -1,7 +1,14 @@
 {
   "user123": {
-    "followers": ["user8", "user9", "user10"],
-    "follows": ["user66", "user33"],
+    "followers": [
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "follows": [
+      "user66",
+      "user33"
+    ],
     "timestamp": 1734504834775
   },
   "jde.blue": {
@@ -305,7 +312,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734678904988
+    "timestamp": 1734679430594
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -344,7 +351,7 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734678904985
+    "timestamp": 1734679430593
   },
   "biptopposts.bsky.social": {
     "followers": [
@@ -445,7 +452,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734678904983
+    "timestamp": 1734679430593
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -476,6 +483,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734678904987
+    "timestamp": 1734679430594
   }
 }
