@@ -62,14 +62,14 @@ export const run = async () => {
     const difference = await compareFollowData(followData, handles);
     console.log(difference);
     // //send message summarizing changes to the same conversation id
-    // const message = await sendUpdateMessage(
-    //   targetUser[0].handle,
-    //   conversation.convo.id,
-    //   accountPDS,
-    //   proxyHeader,
-    //   session.accessJwt,
-    //   difference
-    // );
+    const message = await sendUpdateMessage(
+      handles,
+      conversation.convo.id,
+      accountPDS,
+      proxyHeader,
+      session.accessJwt,
+      difference
+    );
   } catch (error) {
     console.log("Error sending message", error);
   }
