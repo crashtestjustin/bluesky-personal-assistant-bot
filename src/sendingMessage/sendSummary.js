@@ -50,18 +50,50 @@ const messageText = async (followChanges, agent, handles) => {
   for (const account of Object.keys(followChanges)) {
     const changes = followChanges[account];
 
-    const newFollowersString = changes.newFollowers
-      .map((follower) => `@${follower}`)
-      .join(", ");
-    const newFollowingString = changes.newFollowing
-      .map((following) => `@${following}`)
-      .join(", ");
-    const lostFollowersString = changes.lostFollowers
-      .map((follower) => `@${follower}`)
-      .join(", ");
-    const lostFollowingString = changes.newUnFollows
-      .map((following) => `@${following}`)
-      .join(", ");
+    // const newFollowersString = changes.newFollowers
+    //   .map((follower) => `@${follower}`)
+    //   .join(", ");
+    // const newFollowingString = changes.newFollowing
+    //   .map((following) => `@${following}`)
+    //   .join(", ");
+    // const lostFollowersString = changes.lostFollowers
+    //   .map((follower) => `@${follower}`)
+    //   .join(", ");
+    // const lostFollowingString = changes.newUnFollows
+    //   .map((following) => `@${following}`)
+    //   .join(", ");
+
+    const limit = 5;
+
+    const getChangeString = (changes, type) => {
+      const displayedChanges = changes
+        .slice(0, limit)
+        .map((item) => `@${item}`);
+      const remainingCount = changes.length - limit;
+
+      if (remainingCount > 0) {
+        displayedChanges.push(`+ ${remainingCount} more`);
+      }
+
+      return displayedChanges.join(", ");
+    };
+
+    const newFollowersString = getChangeString(
+      changes.newFollowers,
+      "newFollowers"
+    );
+    const newFollowingString = getChangeString(
+      changes.newFollowing,
+      "newFollowing"
+    );
+    const lostFollowersString = getChangeString(
+      changes.lostFollowers,
+      "lostFollowers"
+    );
+    const lostFollowingString = getChangeString(
+      changes.newUnFollows,
+      "lostFollowing"
+    );
 
     let text;
 
@@ -107,6 +139,6 @@ const messageText = async (followChanges, agent, handles) => {
   });
 
   await richText.detectFacets(agent);
-
+  console.log("grapheme lenght:", richText.graphemeLength);
   return { text: richText.text, facets: richText.facets };
 };
