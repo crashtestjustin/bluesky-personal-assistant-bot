@@ -26,6 +26,3 @@ export const loadHandles = () => {
     }
   }
 };
-
-const handles = loadHandles();
-console.log(handles);
