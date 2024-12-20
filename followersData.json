@@ -1,14 +1,7 @@
 {
   "user123": {
-    "followers": [
-      "user8",
-      "user9",
-      "user10"
-    ],
-    "follows": [
-      "user66",
-      "user33"
-    ],
+    "followers": ["user8", "user9", "user10"],
+    "follows": ["user66", "user33"],
     "timestamp": 1734504834775
   },
   "jde.blue": {
@@ -306,5 +299,20 @@
       "bsky.app"
     ],
     "timestamp": 1734571352120
+  },
+  "xmascountdown.bsky.social": {
+    "followers": [],
+    "follows": [],
+    "timestamp": null
+  },
+  "biptopposts.bsky.social": {
+    "followers": [],
+    "follows": [],
+    "timestamp": null
+  },
+  "theyearprogress.bsky.social": {
+    "followers": [],
+    "follows": [],
+    "timestamp": null
   }
 }
