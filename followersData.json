@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "william-jin.bsky.social",
+      "3463w3.bsky.social",
+      "xmok.bsky.social",
       "vancesolar.bsky.social",
       "yourdevocean.bsky.social",
       "kjstok.bsky.social",
@@ -209,6 +212,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "wes.dev",
       "heymattia.bsky.social",
       "listifications.app",
       "mikestrives.bsky.social",
@@ -305,6 +309,6 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734571352120
+    "timestamp": 1734657516243
   }
 }
