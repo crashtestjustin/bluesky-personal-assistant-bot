@@ -48,7 +48,6 @@ export const run = async () => {
     //create handle array for subsequent actions
     const otherHandles = loadHandles();
     const handles = [...otherHandles.handles, targetUser[0].handle];
-    // console.log("All handles", handles);
 
     //get follows and followers
     const followData = await getFollowersAndFollowingHandles(
@@ -57,10 +56,8 @@ export const run = async () => {
       handles
     );
 
-    // console.log(followData);
     // //get prior informatino from database (aka json file for now)
     const difference = await compareFollowData(followData, handles);
-    console.log(difference);
     // //send message summarizing changes to the same conversation id
     const message = await sendUpdateMessage(
       handles,
