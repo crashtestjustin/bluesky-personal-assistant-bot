@@ -2,7 +2,7 @@ import { RichText } from "@atproto/api";
 import { authenticateAgent } from "../authenticating/authenticateAgent.js";
 
 export const sendUpdateMessage = async (
-  accountHandle,
+  handles,
   convoId,
   accountPDS,
   proxyHeader,
@@ -10,7 +10,7 @@ export const sendUpdateMessage = async (
   followChanges
 ) => {
   const agent = await authenticateAgent();
-  const text = await messageText(followChanges, agent, accountHandle);
+  const text = await messageText(followChanges, agent, handles);
 
   const url = "chat.bsky.convo.sendMessage";
 
@@ -34,7 +34,8 @@ export const sendUpdateMessage = async (
 
     const respsonse = await resp.json();
     if (resp.ok) {
-      console.log("message sent successfully", respsonse);
+      // console.log("message sent successfully", respsonse);
+      console.log("message sent successfully");
     } else {
       console.log("issue sending messsage", respsonse);
     }
@@ -43,32 +44,69 @@ export const sendUpdateMessage = async (
   }
 };
 
-const messageText = async (followChanges, agent, accountHandle) => {
-  const newFollowersString = followChanges.newFollowers
-    .map((follower) => `@${follower}`)
-    .join(", ");
-  const newFollowingString = followChanges.newFollowing
-    .map((following) => `@${following}`)
-    .join(", ");
-  const lostFollowersString = followChanges.lostFollowers
-    .map((follower) => `@${follower}`)
-    .join(", ");
-  const lostFollowingString = followChanges.newUnFollows
-    .map((following) => `@${following}`)
-    .join(", ");
-  const text = new RichText({
-    text: `Hey Justin,\n\nHere's a summary of the connection changes for @${accountHandle} over the last 24 hours:\n\nNew Followers: ${
-      newFollowersString ? newFollowersString : "NONE🙅"
-    }\n\nNew Follows: ${
-      newFollowingString ? newFollowingString : "NONE🙅"
-    }\n\nLost Followers: ${
-      lostFollowersString ? lostFollowersString : "NONE🙅"
-    }\n\nUnfollowed Accounts: ${
-      lostFollowingString ? lostFollowingString : "NONE🙅"
-    }`,
+const messageText = async (followChanges, agent, handles) => {
+  const textObj = {};
+
+  for (const account of Object.keys(followChanges)) {
+    const changes = followChanges[account];
+
+    const newFollowersString = changes.newFollowers
+      .map((follower) => `@${follower}`)
+      .join(", ");
+    const newFollowingString = changes.newFollowing
+      .map((following) => `@${following}`)
+      .join(", ");
+    const lostFollowersString = changes.lostFollowers
+      .map((follower) => `@${follower}`)
+      .join(", ");
+    const lostFollowingString = changes.newUnFollows
+      .map((following) => `@${following}`)
+      .join(", ");
+
+    let text;
+
+    if (account === "jde.blue") {
+      text = `Hey Justin,\n\nHere's a summary of the connection changes for @${account} over the last 24 hours:\n\nNew Followers: ${
+        newFollowersString ? newFollowersString : "NONE🙅"
+      }\nNew Follows: ${
+        newFollowingString ? newFollowingString : "NONE🙅"
+      }\nLost Followers: ${
+        lostFollowersString ? lostFollowersString : "NONE🙅"
+      }\nUnfollowed Accounts: ${
+        lostFollowingString ? lostFollowingString : "NONE🙅"
+      }`;
+    } else {
+      text = `--- 24 hour changes for @${account} ---\n\nNew Followers: ${
+        newFollowersString ? newFollowersString : "NONE🙅"
+      }\nNew Follows: ${
+        newFollowingString ? newFollowingString : "NONE🙅"
+      }\nLost Followers: ${
+        lostFollowersString ? lostFollowersString : "NONE🙅"
+      }\nUnfollowed Accounts: ${
+        lostFollowingString ? lostFollowingString : "NONE🙅"
+      }`;
+    }
+
+    textObj[account] = text;
+  }
+
+  // Ensure jde.blue is the first block
+  const jdeBlueText = textObj["jde.blue"];
+  delete textObj["jde.blue"]; // Remove jde.blue from the object
+
+  // Concatenate the text string
+  const textString = [
+    jdeBlueText, // Add jde.blue text first
+    ...Object.values(textObj), // Add the remaining text blocks
+  ]
+    .filter(Boolean) // Remove any undefined/null values
+    .join("\n\n");
+
+  const richText = new RichText({
+    text: textString,
   });
 
-  await text.detectFacets(agent);
+  await richText.detectFacets(agent);
 
-  return text;
+  return { text: richText.text, facets: richText.facets };
 };
