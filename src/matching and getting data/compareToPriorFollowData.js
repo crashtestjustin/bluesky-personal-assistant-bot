@@ -3,44 +3,55 @@ import {
   storeFollowersAndFollows,
 } from "../data/readWriteFollowData.js";
 
-export const compareFollowData = async (followData, targetUser) => {
+export const compareFollowData = async (followData, handles) => {
   const pastData = loadPreviousData();
-  const pastTargetData = pastData[targetUser[0].handle];
+  const result = {};
 
-  const currentFollowers = followData.followers;
-  const currentFollowing = followData.following;
-  const pastFollowers = pastTargetData.followers;
-  const pastFollowing = pastTargetData.follows;
+  for (const actor of handles) {
+    try {
+      const pastTargetData = pastData[actor] || {
+        followers: [],
+        following: [],
+      };
+      const currentFollowData = followData[actor];
 
-  // Compare followers
-  const newFollowers = currentFollowers.filter(
-    (follower) => !pastFollowers.includes(follower)
-  );
-  const lostFollowers = pastFollowers.filter(
-    (follower) => !currentFollowers.includes(follower)
-  );
+      const currentFollowers = currentFollowData.followers || [];
+      const currentFollowing = currentFollowData.following || [];
+      const pastFollowers = pastTargetData.followers || [];
+      const pastFollowing = pastTargetData.follows || [];
 
-  // Compare following
-  const newFollowing = currentFollowing.filter(
-    (follow) => !pastFollowing.includes(follow)
-  );
-  const newUnFollows = pastFollowing.filter(
-    (follow) => !currentFollowing.includes(follow)
-  );
+      // Compare followers
+      const newFollowers = currentFollowers.filter(
+        (follower) => !pastFollowers.includes(follower)
+      );
+      const lostFollowers = pastFollowers.filter(
+        (follower) => !currentFollowers.includes(follower)
+      );
 
-  //update the json with the latest data for next day's comparison
-  storeFollowersAndFollows(
-    targetUser[0].handle,
-    followData.followers,
-    followData.following
-  );
+      // Compare following
+      const newFollowing = currentFollowing.filter(
+        (follow) => !pastFollowing.includes(follow)
+      );
+      const newUnFollows = pastFollowing.filter(
+        (follow) => !currentFollowing.includes(follow)
+      );
 
-  const returnData = {
-    newFollowers,
-    lostFollowers,
-    newFollowing,
-    newUnFollows,
-  };
+      //update the json with the latest data for next day's comparison
+      storeFollowersAndFollows(actor, currentFollowers, currentFollowing);
 
-  return returnData;
+      result[actor] = {
+        newFollowers,
+        lostFollowers,
+        newFollowing,
+        newUnFollows,
+      };
+    } catch (error) {
+      console.error(`Error processing actor ${actor}: ${error.message}`);
+      result[actor] = {
+        error: `Failed to process actor ${actor}`,
+      };
+    }
+  }
+
+  return result;
 };
