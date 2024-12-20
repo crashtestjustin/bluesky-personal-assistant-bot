@@ -1,18 +1,18 @@
 export const getFollowersAndFollowingHandles = async (
   accountPDS,
   accessJwt,
-  targetUser
+  handles
 ) => {
   const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-  const fetchHandles = async (url, paramsKey, resultKey) => {
+  const fetchHandles = async (url, paramsKey, resultKey, actor) => {
     let handles = [];
     let cursor = null;
 
     do {
       try {
         const params = new URLSearchParams({
-          actor: targetUser[0].handle,
+          actor: actor,
           limit: "100",
           ...(cursor && { cursor }),
         });
@@ -46,11 +46,27 @@ export const getFollowersAndFollowingHandles = async (
     return handles;
   };
 
-  // Fetch followers and following
-  const [followers, following] = await Promise.all([
-    fetchHandles("app.bsky.graph.getFollowers", "followers", "followers"),
-    fetchHandles("app.bsky.graph.getFollows", "follows", "follows"),
-  ]);
+  // Fetch followers and following for each handles of handles and return as an object layered
+  const result = {};
 
-  return { followers, following };
+  for (const actor of handles) {
+    try {
+      const [followers, following] = await Promise.all([
+        fetchHandles(
+          "app.bsky.graph.getFollowers",
+          "followers",
+          "followers",
+          actor
+        ),
+        fetchHandles("app.bsky.graph.getFollows", "follows", "follows", actor),
+      ]);
+
+      result[actor] = { followers, following };
+    } catch (error) {
+      console.error(`Error processing actor ${actor}:`, error);
+      result[actor] = { followers: [], following: [] }; // Fallback for errors
+    }
+  }
+
+  return result;
 };
