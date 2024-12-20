@@ -1,18 +1,12 @@
 {
   "user123": {
-    "followers": [
-      "user8",
-      "user9",
-      "user10"
-    ],
-    "follows": [
-      "user66",
-      "user33"
-    ],
+    "followers": ["user8", "user9", "user10"],
+    "follows": ["user66", "user33"],
     "timestamp": 1734504834775
   },
   "jde.blue": {
     "followers": [
+      "akhromieiev.com",
       "techdaily.bsky.social",
       "monalisadarling.bsky.social",
       "drkeenerj.bsky.social",
@@ -312,7 +306,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734679430594
+    "timestamp": 1734681539017
   },
   "xmascountdown.bsky.social": {
     "followers": [
