@@ -1,11 +1,21 @@
 {
   "user123": {
-    "followers": ["user8", "user9", "user10"],
-    "follows": ["user66", "user33"],
+    "followers": [
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "follows": [
+      "user66",
+      "user33"
+    ],
     "timestamp": 1734504834775
   },
   "jde.blue": {
     "followers": [
+      "juno.do",
+      "mubashariqbal.com",
+      "bonsontimus.bsky.social",
       "akhromieiev.com",
       "techdaily.bsky.social",
       "monalisadarling.bsky.social",
@@ -53,7 +63,6 @@
       "ibrahimbagalwa.bsky.social",
       "stanmangohr.bsky.social",
       "leonardom.com",
-      "jjude.com",
       "eshat.bsky.social",
       "the-last-username.bsky.social",
       "stackfactor.bsky.social",
@@ -209,6 +218,8 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "dankulkov.bsky.social",
+      "bonsontimus.bsky.social",
       "theyearprogress.bsky.social",
       "wes.dev",
       "heymattia.bsky.social",
@@ -306,7 +317,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734681539017
+    "timestamp": 1734743828513
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -345,10 +356,13 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734679430593
+    "timestamp": 1734743828512
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "sundip.bsky.social",
+      "blog.volunge.net",
+      "czied.bsky.social",
       "dropservicing.bsky.social",
       "downpay.bsky.social",
       "manishsaraan.bsky.social",
@@ -398,6 +412,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "czied.bsky.social",
+      "blog.volunge.net",
+      "sundip.bsky.social",
       "dropservicing.bsky.social",
       "downpay.bsky.social",
       "manishsaraan.bsky.social",
@@ -446,7 +463,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734679430593
+    "timestamp": 1734743828512
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -477,6 +494,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734679430594
+    "timestamp": 1734743828512
   }
 }
