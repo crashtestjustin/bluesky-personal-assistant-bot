@@ -70,6 +70,11 @@ export const run = async () => {
   } catch (error) {
     console.log("Error sending message", error);
   }
+  //GET main account posts for the today and compile the engagement to send as a separate messafe
+  try {
+  } catch (error) {
+    console.log("Error sending the daily stats message", error);
+  }
 };
 
 run().catch(console.error);
