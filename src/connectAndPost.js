@@ -17,6 +17,7 @@ import { compareFollowData } from "./matching and getting data/compareToPriorFol
 import { getFollowersAndFollowingHandles } from "./data/getFollowerandFollowingHandles.js";
 import { sendUpdateMessage } from "./sendingMessage/sendSummary.js";
 import { loadHandles } from "./data/readWriteHandles.js";
+import { sendAccountPostSummary } from "./sendingMessage/sendMainActPostSummary.js";
 
 dotenv.config();
 
@@ -67,13 +68,21 @@ export const run = async () => {
       session.accessJwt,
       difference
     );
+
+    //GET main account posts for the today and compile the engagement to send as a separate messafe
+    try {
+      const summaryMessage = await sendAccountPostSummary(
+        targetUser[0].handle,
+        session,
+        accountPDS,
+        conversation.convo.id,
+        proxyHeader
+      );
+    } catch (error) {
+      console.log("Error sending the daily stats message", error);
+    }
   } catch (error) {
     console.log("Error sending message", error);
-  }
-  //GET main account posts for the today and compile the engagement to send as a separate messafe
-  try {
-  } catch (error) {
-    console.log("Error sending the daily stats message", error);
   }
 };
 

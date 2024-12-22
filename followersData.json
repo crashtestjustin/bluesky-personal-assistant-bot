@@ -1,18 +1,13 @@
 {
   "user123": {
-    "followers": [
-      "user8",
-      "user9",
-      "user10"
-    ],
-    "follows": [
-      "user66",
-      "user33"
-    ],
+    "followers": ["user8", "user9", "user10"],
+    "follows": ["user66", "user33"],
     "timestamp": 1734504834775
   },
   "jde.blue": {
     "followers": [
+      "sintrastellar.bsky.social",
+      "jessica965.bsky.social",
       "sintrastellar.bsky.social",
       "jessica965.bsky.social",
       "juno.do",
@@ -91,6 +86,7 @@
       "derpycoder.bsky.social",
       "bajjuri6.bsky.social",
       "sam-oputa.bsky.social",
+      "batubora.com",
       "batubora.com",
       "markhallen.dev",
       "brijsingh.bsky.social",
@@ -223,6 +219,10 @@
       "hmpxvt.bsky.social",
       "akash03.bsky.social",
       "william-jin.bsky.social",
+      "garymarcus.bsky.social",
+      "hmpxvt.bsky.social",
+      "akash03.bsky.social",
+      "william-jin.bsky.social",
       "dankulkov.bsky.social",
       "bonsontimus.bsky.social",
       "theyearprogress.bsky.social",
@@ -327,6 +327,7 @@
   "xmascountdown.bsky.social": {
     "followers": [
       "heybennyjohnson.bsky.social",
+      "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
@@ -345,6 +346,7 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "heybennyjohnson.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "bluesky-anim8or.bsky.social",
@@ -367,6 +369,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "sintrastellar.bsky.social",
+      "vulct.bsky.social",
+      "creativewith.in",
       "sintrastellar.bsky.social",
       "vulct.bsky.social",
       "creativewith.in",
@@ -422,6 +427,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "sintrastellar.bsky.social",
+      "vulct.bsky.social",
+      "creativewith.in",
       "sintrastellar.bsky.social",
       "vulct.bsky.social",
       "creativewith.in",
