@@ -219,6 +219,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "garymarcus.bsky.social",
       "hmpxvt.bsky.social",
       "akash03.bsky.social",
       "william-jin.bsky.social",
@@ -321,7 +322,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734830655519
+    "timestamp": 1734843165405
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -362,7 +363,7 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734830655517
+    "timestamp": 1734843165404
   },
   "biptopposts.bsky.social": {
     "followers": [
@@ -421,6 +422,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "sintrastellar.bsky.social",
       "vulct.bsky.social",
       "creativewith.in",
       "czied.bsky.social",
@@ -474,7 +476,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734830655517
+    "timestamp": 1734843165403
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -505,6 +507,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734830655518
+    "timestamp": 1734843165404
   }
 }
