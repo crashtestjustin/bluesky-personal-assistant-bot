@@ -45,39 +45,38 @@ export const run = async () => {
     const targetUser = conversation.convo.members.filter(
       (handle) => handle !== "crashtestjustin.bsky.social"
     );
-    //pause functionality START here
 
-    // //create handle array for subsequent actions
-    // const otherHandles = loadHandles();
-    // const handles = [...otherHandles.handles, targetUser[0].handle];
+    //create handle array for subsequent actions
+    const otherHandles = loadHandles();
+    const handles = [...otherHandles.handles, targetUser[0].handle];
 
-    // //get follows and followers
-    // const followData = await getFollowersAndFollowingHandles(
-    //   accountPDS,
-    //   session.accessJwt,
-    //   handles
-    // );
+    //get follows and followers
+    const followData = await getFollowersAndFollowingHandles(
+      accountPDS,
+      session.accessJwt,
+      handles
+    );
 
-    // // //get prior informatino from database (aka json file for now)
-    // const difference = await compareFollowData(followData, handles);
-    // // //send message summarizing changes to the same conversation id
-    // const message = await sendUpdateMessage(
-    //   handles,
-    //   conversation.convo.id,
-    //   accountPDS,
-    //   proxyHeader,
-    //   session.accessJwt,
-    //   difference
-    // );
-
-    //pause functionality END here
+    // //get prior informatino from database (aka json file for now)
+    const difference = await compareFollowData(followData, handles);
+    // //send message summarizing changes to the same conversation id
+    const message = await sendUpdateMessage(
+      handles,
+      conversation.convo.id,
+      accountPDS,
+      proxyHeader,
+      session.accessJwt,
+      difference
+    );
 
     //GET main account posts for the today and compile the engagement to send as a separate messafe
     try {
       const summaryMessage = await sendAccountPostSummary(
         targetUser[0].handle,
         session,
-        accountPDS
+        accountPDS,
+        conversation.convo.id,
+        proxyHeader
       );
     } catch (error) {
       console.log("Error sending the daily stats message", error);
