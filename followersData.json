@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "sintrastellar.bsky.social",
+      "jessica965.bsky.social",
       "juno.do",
       "mubashariqbal.com",
       "bonsontimus.bsky.social",
@@ -89,7 +91,7 @@
       "derpycoder.bsky.social",
       "bajjuri6.bsky.social",
       "sam-oputa.bsky.social",
-      "cenab.bsky.social",
+      "batubora.com",
       "markhallen.dev",
       "brijsingh.bsky.social",
       "wirtzdan.bsky.social",
@@ -136,7 +138,6 @@
       "tsejero.me",
       "lourencoponces.bsky.social",
       "colhountech.com",
-      "alex-mano.bsky.social",
       "abanks.bsky.social",
       "jtzero.bsky.social",
       "muellermoritz.dev",
@@ -218,6 +219,9 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "hmpxvt.bsky.social",
+      "akash03.bsky.social",
+      "william-jin.bsky.social",
       "dankulkov.bsky.social",
       "bonsontimus.bsky.social",
       "theyearprogress.bsky.social",
@@ -317,10 +321,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734743828513
+    "timestamp": 1734830655519
   },
   "xmascountdown.bsky.social": {
     "followers": [
+      "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
@@ -339,6 +344,7 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "bluesky-anim8or.bsky.social",
       "codenvector.secondlife.bio",
@@ -356,10 +362,13 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734743828512
+    "timestamp": 1734830655517
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "sintrastellar.bsky.social",
+      "vulct.bsky.social",
+      "creativewith.in",
       "sundip.bsky.social",
       "blog.volunge.net",
       "czied.bsky.social",
@@ -412,6 +421,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "vulct.bsky.social",
+      "creativewith.in",
       "czied.bsky.social",
       "blog.volunge.net",
       "sundip.bsky.social",
@@ -463,7 +474,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734743828512
+    "timestamp": 1734830655517
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -494,6 +505,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734743828512
+    "timestamp": 1734830655518
   }
 }
