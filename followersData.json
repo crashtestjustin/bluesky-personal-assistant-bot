@@ -1,13 +1,20 @@
 {
   "user123": {
-    "followers": ["user8", "user9", "user10"],
-    "follows": ["user66", "user33"],
+    "followers": [
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "follows": [
+      "user66",
+      "user33"
+    ],
     "timestamp": 1734504834775
   },
   "jde.blue": {
     "followers": [
-      "sintrastellar.bsky.social",
-      "jessica965.bsky.social",
+      "leobuildsanapp.bsky.social",
+      "gui.do",
       "sintrastellar.bsky.social",
       "jessica965.bsky.social",
       "juno.do",
@@ -24,7 +31,6 @@
       "yourdevocean.bsky.social",
       "kjstok.bsky.social",
       "unity-vibes.bsky.social",
-      "strasek.follows.tech",
       "karlhorky.com",
       "samhincks.bsky.social",
       "devavocado.bsky.social",
@@ -83,10 +89,8 @@
       "informationbd.bsky.social",
       "anthonygermain.bsky.social",
       "serkanbodur.com",
-      "derpycoder.bsky.social",
       "bajjuri6.bsky.social",
       "sam-oputa.bsky.social",
-      "batubora.com",
       "batubora.com",
       "markhallen.dev",
       "brijsingh.bsky.social",
@@ -215,10 +219,8 @@
       "blog.volunge.net"
     ],
     "follows": [
-      "garymarcus.bsky.social",
-      "hmpxvt.bsky.social",
-      "akash03.bsky.social",
-      "william-jin.bsky.social",
+      "asmartbear.com",
+      "akhromieiev.com",
       "garymarcus.bsky.social",
       "hmpxvt.bsky.social",
       "akash03.bsky.social",
@@ -322,11 +324,10 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1734843165405
+    "timestamp": 1734916785189
   },
   "xmascountdown.bsky.social": {
     "followers": [
-      "heybennyjohnson.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "codenvector.secondlife.bio",
@@ -347,7 +348,6 @@
     ],
     "follows": [
       "heybennyjohnson.bsky.social",
-      "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "bluesky-anim8or.bsky.social",
       "codenvector.secondlife.bio",
@@ -365,13 +365,11 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1734843165404
+    "timestamp": 1734916785188
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "sintrastellar.bsky.social",
-      "vulct.bsky.social",
-      "creativewith.in",
+      "gui.do",
       "sintrastellar.bsky.social",
       "vulct.bsky.social",
       "creativewith.in",
@@ -427,9 +425,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
-      "sintrastellar.bsky.social",
-      "vulct.bsky.social",
-      "creativewith.in",
+      "gui.do",
       "sintrastellar.bsky.social",
       "vulct.bsky.social",
       "creativewith.in",
@@ -484,7 +480,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1734843165403
+    "timestamp": 1734916785188
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -515,6 +511,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1734843165404
+    "timestamp": 1734916785189
   }
 }
