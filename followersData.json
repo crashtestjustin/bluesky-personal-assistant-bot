@@ -325,7 +325,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735003102362
+    "timestamp": 1735017949969
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -366,10 +366,11 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735003102361
+    "timestamp": 1735017949968
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "stratecta.exchange",
       "zachdaniel.dev",
       "christinalattimer.bsky.social",
       "typonomy.bsky.social",
@@ -429,6 +430,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "zachdaniel.dev",
       "christinalattimer.bsky.social",
       "typonomy.bsky.social",
       "gui.do",
@@ -486,7 +488,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735003102361
+    "timestamp": 1735017949968
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -517,6 +519,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735003102362
+    "timestamp": 1735017949969
   }
 }
