@@ -13,8 +13,11 @@
   },
   "jde.blue": {
     "followers": [
-      "stv-l.bsky.social",
       "strasek.follows.tech",
+      "license-token.com",
+      "techtexan.bsky.social",
+      "isabelajones.bsky.social",
+      "stv-l.bsky.social",
       "raincoast.bsky.social",
       "leobuildsanapp.bsky.social",
       "gui.do",
@@ -28,7 +31,6 @@
       "monalisadarling.bsky.social",
       "drkeenerj.bsky.social",
       "william-jin.bsky.social",
-      "3463w3.bsky.social",
       "xmok.bsky.social",
       "vancesolar.bsky.social",
       "kjstok.bsky.social",
@@ -131,7 +133,6 @@
       "rhyskentish.bsky.social",
       "tobiasbutz.com",
       "alexborie.bsky.social",
-      "sachingk.bsky.social",
       "zivkar.bsky.social",
       "jakobjelling.bsky.social",
       "twinningstrategy.bsky.social",
@@ -325,10 +326,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735017949969
+    "timestamp": 1735089442306
   },
   "xmascountdown.bsky.social": {
     "followers": [
+      "hahndler.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "codenvector.secondlife.bio",
@@ -348,6 +350,7 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "hahndler.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "bluesky-anim8or.bsky.social",
@@ -366,7 +369,7 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735017949968
+    "timestamp": 1735089442305
   },
   "biptopposts.bsky.social": {
     "followers": [
@@ -430,6 +433,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "stratecta.exchange",
       "zachdaniel.dev",
       "christinalattimer.bsky.social",
       "typonomy.bsky.social",
@@ -488,7 +492,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735017949968
+    "timestamp": 1735089442305
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -519,6 +523,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735017949969
+    "timestamp": 1735089442306
   }
 }
