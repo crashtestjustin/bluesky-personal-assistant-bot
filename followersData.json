@@ -13,8 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "drjlivingston.bsky.social",
+      "s3th.me",
       "strasek.follows.tech",
-      "license-token.com",
       "techtexan.bsky.social",
       "isabelajones.bsky.social",
       "stv-l.bsky.social",
@@ -326,10 +327,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735089442306
+    "timestamp": 1735175863104
   },
   "xmascountdown.bsky.social": {
     "followers": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
       "hahndler.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
@@ -350,6 +353,8 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
       "hahndler.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
@@ -369,10 +374,13 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735089442305
+    "timestamp": 1735175863102
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
+      "leeps.bsky.social",
       "stratecta.exchange",
       "zachdaniel.dev",
       "christinalattimer.bsky.social",
@@ -433,6 +441,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
+      "leeps.bsky.social",
       "stratecta.exchange",
       "zachdaniel.dev",
       "christinalattimer.bsky.social",
@@ -492,10 +503,12 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735089442305
+    "timestamp": 1735175863101
   },
   "theyearprogress.bsky.social": {
     "followers": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
       "jde.blue",
       "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
@@ -510,6 +523,8 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "doinaa.bsky.social",
+      "drjlivingston.bsky.social",
       "bluesky-anim8or.bsky.social",
       "codenvector.secondlife.bio",
       "beasuperdad.bsky.social",
@@ -523,6 +538,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735089442306
+    "timestamp": 1735175863103
   }
 }
