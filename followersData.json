@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "dailystatsdm.bsky.social",
+      "fedyarakov.bsky.social",
       "drjlivingston.bsky.social",
       "s3th.me",
       "strasek.follows.tech",
@@ -222,6 +224,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "dailystatsdm.bsky.social",
       "asmartbear.com",
       "akhromieiev.com",
       "garymarcus.bsky.social",
@@ -289,7 +292,7 @@
       "benjiminio.bsky.social",
       "dagorenouf.com",
       "rrhoover.bsky.social",
-      "screenfluent.bsky.social",
+      "szymonraczka.com",
       "ramen.tools",
       "threehourcoffee.bsky.social",
       "petecodes.bsky.social",
@@ -327,7 +330,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735175863104
+    "timestamp": 1735262274085
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -336,7 +339,6 @@
       "hahndler.bsky.social",
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
-      "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
       "fullperm.com",
       "ayrtongampfer.bsky.social",
@@ -359,7 +361,6 @@
       "heybennyjohnson.bsky.social",
       "stompythedestroyer.bsky.social",
       "bluesky-anim8or.bsky.social",
-      "codenvector.secondlife.bio",
       "fullperm.com",
       "ayrtongampfer.bsky.social",
       "redsky.pirhoo.com",
@@ -374,10 +375,13 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735175863102
+    "timestamp": 1735262274085
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "stevo14u.bsky.social",
+      "dailystatsdm.bsky.social",
+      "ashpak.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "leeps.bsky.social",
@@ -405,7 +409,6 @@
       "rebeccabardess.bsky.social",
       "bucklajean.bsky.social",
       "the-writer-dev.bsky.social",
-      "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
       "markos.dev",
       "fullperm.com",
@@ -441,6 +444,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "stevo14u.bsky.social",
+      "dailystatsdm.bsky.social",
+      "ashpak.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "leeps.bsky.social",
@@ -469,7 +475,6 @@
       "bucklajean.bsky.social",
       "the-writer-dev.bsky.social",
       "bluesky-anim8or.bsky.social",
-      "codenvector.secondlife.bio",
       "markos.dev",
       "modou15.bsky.social",
       "fullperm.com",
@@ -503,14 +508,14 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735175863101
+    "timestamp": 1735262274084
   },
   "theyearprogress.bsky.social": {
     "followers": [
+      "dailystatsdm.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "jde.blue",
-      "codenvector.secondlife.bio",
       "bluesky-anim8or.bsky.social",
       "beasuperdad.bsky.social",
       "fullperm.com",
@@ -523,10 +528,10 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "dailystatsdm.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "bluesky-anim8or.bsky.social",
-      "codenvector.secondlife.bio",
       "beasuperdad.bsky.social",
       "fullperm.com",
       "ayrtongampfer.bsky.social",
@@ -538,6 +543,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735175863103
+    "timestamp": 1735262274085
   }
 }
