@@ -63,7 +63,7 @@ const messageText = async (followChanges, agent, handles) => {
     //   .map((following) => `@${following}`)
     //   .join(", ");
 
-    const limit = 5;
+    const limit = 3;
 
     const getChangeString = (changes, type) => {
       const displayedChanges = changes
