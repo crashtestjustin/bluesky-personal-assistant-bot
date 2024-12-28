@@ -13,8 +13,11 @@
   },
   "jde.blue": {
     "followers": [
+      "2naphish.bsky.social",
+      "laura4ever.bsky.social",
+      "myspacetom2003.bsky.social",
+      "ciarawearen.bsky.social",
       "dailystatsdm.bsky.social",
-      "fedyarakov.bsky.social",
       "drjlivingston.bsky.social",
       "s3th.me",
       "strasek.follows.tech",
@@ -186,7 +189,6 @@
       "heyitmy3.bsky.social",
       "joe-watson.com",
       "eelco.dev",
-      "jasonsuriano.bsky.social",
       "amp-engineer.bsky.social",
       "wartburggraaf.bsky.social",
       "handle.invalid",
@@ -224,6 +226,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "jasonfried.bsky.social",
       "dailystatsdm.bsky.social",
       "asmartbear.com",
       "akhromieiev.com",
@@ -330,7 +333,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735262274085
+    "timestamp": 1735348592021
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -375,10 +378,18 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735262274085
+    "timestamp": 1735348592020
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "valyent.bsky.social",
+      "ciarawearen.bsky.social",
+      "knsl-io.bsky.social",
+      "notanomad.bsky.social",
+      "lukafilajdic.bsky.social",
+      "openmeet.bsky.social",
+      "william-jin.bsky.social",
+      "jenny-ouyang.bsky.social",
       "stevo14u.bsky.social",
       "dailystatsdm.bsky.social",
       "ashpak.bsky.social",
@@ -444,6 +455,14 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "valyent.bsky.social",
+      "notanomad.bsky.social",
+      "knsl-io.bsky.social",
+      "ciarawearen.bsky.social",
+      "lukafilajdic.bsky.social",
+      "jenny-ouyang.bsky.social",
+      "william-jin.bsky.social",
+      "openmeet.bsky.social",
       "stevo14u.bsky.social",
       "dailystatsdm.bsky.social",
       "ashpak.bsky.social",
@@ -508,7 +527,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735262274084
+    "timestamp": 1735348592020
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -543,6 +562,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735262274085
+    "timestamp": 1735348592021
   }
 }
