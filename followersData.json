@@ -1,7 +1,14 @@
 {
   "user123": {
-    "followers": ["user8", "user9", "user10"],
-    "follows": ["user66", "user33"],
+    "followers": [
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "follows": [
+      "user66",
+      "user33"
+    ],
     "timestamp": 1734504834775
   },
   "jde.blue": {
@@ -16,7 +23,6 @@
       "dailystatsdm.bsky.social",
       "drjlivingston.bsky.social",
       "s3th.me",
-      "strasek.follows.tech",
       "techtexan.bsky.social",
       "isabelajones.bsky.social",
       "stv-l.bsky.social",
@@ -330,9 +336,29 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735435502491
+    "timestamp": 1735451975560
   },
-  "dailystatsdm.bsky.social": {},
+  "dailystatsdm.bsky.social": {
+    "followers": [
+      "alexi.build",
+      "builditn0w.bsky.social",
+      "s3th.me",
+      "theyearprogress.bsky.social",
+      "crashtestjustin.bsky.social",
+      "jde.blue",
+      "biptopposts.bsky.social"
+    ],
+    "follows": [
+      "alexi.build",
+      "builditn0w.bsky.social",
+      "s3th.me",
+      "biptopposts.bsky.social",
+      "jde.blue",
+      "crashtestjustin.bsky.social",
+      "theyearprogress.bsky.social"
+    ],
+    "timestamp": 1735451975559
+  },
   "xmascountdown.bsky.social": {
     "followers": [
       "alexi.build",
@@ -357,6 +383,7 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "alexi.build",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "hahndler.bsky.social",
@@ -377,10 +404,13 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735435502486
+    "timestamp": 1735451975559
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "itskofio.bsky.social",
+      "nursingfront.com",
+      "emdis.bsky.social",
       "littledesignhut.bsky.social",
       "peleliu.bsky.social",
       "codingjet.bsky.social",
@@ -460,6 +490,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "emdis.bsky.social",
+      "nursingfront.com",
       "peleliu.bsky.social",
       "littledesignhut.bsky.social",
       "fedyarakov.bsky.social",
@@ -538,7 +570,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735435502486
+    "timestamp": 1735451975558
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -575,6 +607,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735435502490
+    "timestamp": 1735451975560
   }
 }
