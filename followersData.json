@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "cpaindabay.bsky.social",
+      "puppydudley.bsky.social",
+      "cofoundersnik.bsky.social",
       "2naphish.bsky.social",
       "laura4ever.bsky.social",
       "myspacetom2003.bsky.social",
@@ -226,6 +229,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "cofoundersnik.bsky.social",
       "jasonfried.bsky.social",
       "dailystatsdm.bsky.social",
       "asmartbear.com",
@@ -333,10 +337,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735348592021
+    "timestamp": 1735435502491
   },
   "xmascountdown.bsky.social": {
     "followers": [
+      "alexi.build",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
       "hahndler.bsky.social",
@@ -378,10 +383,16 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735348592020
+    "timestamp": 1735435502486
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "littledesignhut.bsky.social",
+      "peleliu.bsky.social",
+      "codingjet.bsky.social",
+      "rough.app",
+      "fedyarakov.bsky.social",
+      "simonfrost.mx",
       "valyent.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
@@ -455,6 +466,12 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "peleliu.bsky.social",
+      "littledesignhut.bsky.social",
+      "fedyarakov.bsky.social",
+      "rough.app",
+      "codingjet.bsky.social",
+      "simonfrost.mx",
       "valyent.bsky.social",
       "notanomad.bsky.social",
       "knsl-io.bsky.social",
@@ -527,10 +544,11 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735348592020
+    "timestamp": 1735435502486
   },
   "theyearprogress.bsky.social": {
     "followers": [
+      "alexi.build",
       "dailystatsdm.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
@@ -547,6 +565,7 @@
       "crashtestjustin.bsky.social"
     ],
     "follows": [
+      "alexi.build",
       "dailystatsdm.bsky.social",
       "doinaa.bsky.social",
       "drjlivingston.bsky.social",
@@ -562,6 +581,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735348592021
+    "timestamp": 1735435502490
   }
 }
