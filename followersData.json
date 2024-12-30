@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "jusql.bsky.social",
+      "culturedmeat.bsky.social",
+      "joshuanoronha.bsky.social",
       "cpaindabay.bsky.social",
       "puppydudley.bsky.social",
       "cofoundersnik.bsky.social",
@@ -48,7 +51,6 @@
       "daniel-majer.github.io",
       "kristenbrowne3.bsky.social",
       "bluesterb.bsky.social",
-      "robbierobot.bsky.social",
       "jeffst.bsky.social",
       "calaverasintegrity.bsky.social",
       "rockylaster.bsky.social",
@@ -336,10 +338,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735451975560
+    "timestamp": 1735521646199
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
       "s3th.me",
@@ -349,6 +352,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
       "s3th.me",
@@ -357,7 +361,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735451975559
+    "timestamp": 1735521646197
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -404,10 +408,15 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735451975559
+    "timestamp": 1735521646198
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "softwareengineering.ca",
+      "lankeami.bsky.social",
+      "frankchiller.bsky.social",
+      "doodnat.bsky.social",
+      "razvanmuntian.com",
       "itskofio.bsky.social",
       "nursingfront.com",
       "emdis.bsky.social",
@@ -490,6 +499,11 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "lankeami.bsky.social",
+      "frankchiller.bsky.social",
+      "doodnat.bsky.social",
+      "itskofio.bsky.social",
+      "razvanmuntian.com",
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
@@ -570,7 +584,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735451975558
+    "timestamp": 1735521646197
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -607,6 +621,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735451975560
+    "timestamp": 1735521646198
   }
 }
