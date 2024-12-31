@@ -1,8 +1,3 @@
 {
-  "handles": [
-    "biptopposts.bsky.social",
-    "dailystatsdm.bsky.social",
-    "xmascountdown.bsky.social",
-    "theyearprogress.bsky.social"
-  ]
+  "handles": ["biptopposts.bsky.social", "dailystatsdm.bsky.social"]
 }
