@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "jaydog609.bsky.social",
+      "softwareengineering.ca",
+      "mgzeuthen.bsky.social",
       "jusql.bsky.social",
       "culturedmeat.bsky.social",
       "joshuanoronha.bsky.social",
@@ -20,7 +23,6 @@
       "puppydudley.bsky.social",
       "cofoundersnik.bsky.social",
       "2naphish.bsky.social",
-      "laura4ever.bsky.social",
       "myspacetom2003.bsky.social",
       "ciarawearen.bsky.social",
       "dailystatsdm.bsky.social",
@@ -47,7 +49,6 @@
       "kjstok.bsky.social",
       "unity-vibes.bsky.social",
       "karlhorky.com",
-      "devavocado.bsky.social",
       "daniel-majer.github.io",
       "kristenbrowne3.bsky.social",
       "bluesterb.bsky.social",
@@ -83,7 +84,7 @@
       "the-last-username.bsky.social",
       "stackfactor.bsky.social",
       "tylerborchers.com",
-      "professor-ben.bsky.social",
+      "professorbenkenobi.bsky.social",
       "drthurber.bsky.social",
       "sassylassiein2024.bsky.social",
       "asmartbear.com",
@@ -338,10 +339,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735521646199
+    "timestamp": 1735607863440
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "strasek.follows.tech",
       "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
@@ -352,6 +354,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "strasek.follows.tech",
       "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
@@ -361,7 +364,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735521646197
+    "timestamp": 1735607863439
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -408,10 +411,11 @@
       "itsclarkie.bsky.social",
       "crashtestjustin.bsky.social"
     ],
-    "timestamp": 1735521646198
+    "timestamp": 1735607863439
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "brunyview.bsky.social",
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
@@ -425,7 +429,6 @@
       "codingjet.bsky.social",
       "rough.app",
       "fedyarakov.bsky.social",
-      "simonfrost.mx",
       "valyent.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
@@ -499,6 +502,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "brunyview.bsky.social",
+      "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
       "doodnat.bsky.social",
@@ -511,7 +516,6 @@
       "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
-      "simonfrost.mx",
       "valyent.bsky.social",
       "notanomad.bsky.social",
       "knsl-io.bsky.social",
@@ -584,7 +588,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735521646197
+    "timestamp": 1735607863438
   },
   "theyearprogress.bsky.social": {
     "followers": [
@@ -621,6 +625,6 @@
       "crashtestjustin.bsky.social",
       "jde.blue"
     ],
-    "timestamp": 1735521646198
+    "timestamp": 1735607863439
   }
 }
