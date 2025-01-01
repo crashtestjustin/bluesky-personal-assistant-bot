@@ -38,7 +38,7 @@ export const run = async () => {
       },
     });
     const data = await resp.json();
-    //get the chat where the participants are only ctj and jde.blue
+    //get the chat where the participants are only ctj and jde.blue - adding test changes
     const conversation = getPersonalBotConvo(data.convos);
     //get the follower and following data for the main account
     //Get the handle of the user to target followData queries
