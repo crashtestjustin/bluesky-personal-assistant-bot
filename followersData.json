@@ -13,12 +13,12 @@
   },
   "jde.blue": {
     "followers": [
+      "tigs812.bsky.social",
+      "samthoyre.bsky.social",
       "lisabolynn.bsky.social",
       "directforpets.bsky.social",
       "oldman-sac.bsky.social",
       "deano-uk.bsky.social",
-      "panache.so",
-      "valyent.bsky.social",
       "ahlemmahroua.bsky.social",
       "alisonkmurray.bsky.social",
       "traveldream.bsky.social",
@@ -348,10 +348,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735694672841
+    "timestamp": 1735780647187
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "ahlemmahroua.bsky.social",
       "beasuperdad.bsky.social",
@@ -365,6 +366,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "beasuperdad.bsky.social",
       "ahlemmahroua.bsky.social",
@@ -377,7 +379,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735694672840
+    "timestamp": 1735780647187
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -428,7 +430,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "panache.so",
+      "sitescripterai.bsky.social",
+      "mustafacandan.bsky.social",
+      "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
       "iremkaraoglu.bsky.social",
       "brunyview.bsky.social",
@@ -445,7 +449,6 @@
       "codingjet.bsky.social",
       "rough.app",
       "fedyarakov.bsky.social",
-      "valyent.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
       "notanomad.bsky.social",
@@ -517,7 +520,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
-      "panache.so",
+      "sitescripterai.bsky.social",
+      "mustafacandan.bsky.social",
+      "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
       "iremkaraoglu.bsky.social",
       "brunyview.bsky.social",
@@ -534,7 +539,6 @@
       "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
-      "valyent.bsky.social",
       "notanomad.bsky.social",
       "knsl-io.bsky.social",
       "ciarawearen.bsky.social",
@@ -606,7 +610,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735694672840
+    "timestamp": 1735780647186
   },
   "theyearprogress.bsky.social": {
     "followers": [
