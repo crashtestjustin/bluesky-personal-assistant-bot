@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "krissmanngupta.bsky.social",
+      "timethridge2.bsky.social",
       "tigs812.bsky.social",
       "samthoyre.bsky.social",
       "lisabolynn.bsky.social",
@@ -239,6 +241,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "krissmanngupta.bsky.social",
       "softwareengineering.ca",
       "cofoundersnik.bsky.social",
       "jasonfried.bsky.social",
@@ -348,7 +351,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735780647187
+    "timestamp": 1735867101023
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -379,7 +382,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735780647187
+    "timestamp": 1735867101022
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -430,7 +433,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "sitescripterai.bsky.social",
+      "robinneel.bsky.social",
+      "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
@@ -520,7 +524,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
-      "sitescripterai.bsky.social",
+      "robinneel.bsky.social",
+      "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
@@ -610,7 +615,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735780647186
+    "timestamp": 1735867101022
   },
   "theyearprogress.bsky.social": {
     "followers": [
