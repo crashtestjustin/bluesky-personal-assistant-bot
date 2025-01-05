@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "indiekevin.bsky.social",
+      "jithinjude.bsky.social",
+      "youtrackdb.bsky.social",
       "paulksmith.bsky.social",
       "johnnybuilds.bsky.social",
       "krissmanngupta.bsky.social",
@@ -242,6 +245,7 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "lindmaa.bsky.social",
       "kaplich.me",
       "krissmanngupta.bsky.social",
       "softwareengineering.ca",
@@ -353,7 +357,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735953411246
+    "timestamp": 1736040249386
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -382,7 +386,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735953411245
+    "timestamp": 1736040249386
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -433,6 +437,11 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "laiew.bsky.social",
+      "covexapps.com",
+      "indiekevin.bsky.social",
+      "nuez.io",
+      "theethanyu.bsky.social",
       "johnnybuilds.bsky.social",
       "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
@@ -521,6 +530,10 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "indiekevin.bsky.social",
+      "covexapps.com",
+      "nuez.io",
+      "theethanyu.bsky.social",
       "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
@@ -609,7 +622,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735953411245
+    "timestamp": 1736040249385
   },
   "theyearprogress.bsky.social": {
     "followers": [
