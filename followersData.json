@@ -13,6 +13,10 @@
   },
   "jde.blue": {
     "followers": [
+      "tenuity.bsky.social",
+      "bigbenbong.bsky.social",
+      "dailycorrelation.bsky.social",
+      "kaplich.me",
       "dmoorewv.bsky.social",
       "julianding.bsky.social",
       "urethra-franklynn.bsky.social",
@@ -112,7 +116,6 @@
       "rasulkireev.com",
       "icebearlabs.com",
       "harpreetparmar.bsky.social",
-      "jaywalker67.bsky.social",
       "theyearprogress.bsky.social",
       "briacdev.bsky.social",
       "techonosophy.bsky.social",
@@ -360,10 +363,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1736212733723
+    "timestamp": 1736299117897
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "kaplich.me",
       "hadars.bsky.social",
       "jithinjude.bsky.social",
       "ahlemmahroua.bsky.social",
@@ -378,6 +382,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "kaplich.me",
       "hadars.bsky.social",
       "jithinjude.bsky.social",
       "beasuperdad.bsky.social",
@@ -391,7 +396,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1736212733722
+    "timestamp": 1736299117896
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -442,6 +447,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bigbenbong.bsky.social",
+      "dailycorrelation.bsky.social",
       "jeanmeijer.com",
       "leobuildsanapp.bsky.social",
       "adudor.bsky.social",
@@ -510,7 +517,6 @@
       "the-writer-dev.bsky.social",
       "bluesky-anim8or.bsky.social",
       "markos.dev",
-      "fullperm.com",
       "modou15.bsky.social",
       "ayrtongampfer.bsky.social",
       "redsky.pirhoo.com",
@@ -541,6 +547,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "dailycorrelation.bsky.social",
+      "bigbenbong.bsky.social",
       "leobuildsanapp.bsky.social",
       "jeanmeijer.com",
       "adudor.bsky.social",
@@ -608,7 +616,6 @@
       "bluesky-anim8or.bsky.social",
       "markos.dev",
       "modou15.bsky.social",
-      "fullperm.com",
       "ayrtongampfer.bsky.social",
       "redsky.pirhoo.com",
       "drcigarette.bsky.social",
@@ -639,7 +646,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1736212733722
+    "timestamp": 1736299117896
   },
   "theyearprogress.bsky.social": {
     "followers": [
