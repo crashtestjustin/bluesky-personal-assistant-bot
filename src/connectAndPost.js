@@ -70,17 +70,19 @@ export const run = async () => {
     );
 
     //GET main account posts for the today and compile the engagement to send as a separate messafe
-    try {
-      const summaryMessage = await sendAccountPostSummary(
-        targetUser[0].handle,
-        session,
-        accountPDS,
-        conversation.convo.id,
-        proxyHeader
-      );
-    } catch (error) {
-      console.log("Error sending the daily stats message", error);
-    }
+
+    //Removing this as this is nowhandles by the daily stats bot account
+    // try {
+    //   const summaryMessage = await sendAccountPostSummary(
+    //     targetUser[0].handle,
+    //     session,
+    //     accountPDS,
+    //     conversation.convo.id,
+    //     proxyHeader
+    //   );
+    // } catch (error) {
+    //   console.log("Error sending the daily stats message", error);
+    // }
   } catch (error) {
     console.log("Error sending message", error);
   }
