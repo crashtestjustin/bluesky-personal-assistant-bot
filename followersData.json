@@ -13,12 +13,22 @@
   },
   "jde.blue": {
     "followers": [
+      "dmoorewv.bsky.social",
+      "julianding.bsky.social",
+      "urethra-franklynn.bsky.social",
+      "deannaritter98.bsky.social",
+      "indiekevin.bsky.social",
+      "youtrackdb.bsky.social",
+      "paulksmith.bsky.social",
+      "johnnybuilds.bsky.social",
+      "krissmanngupta.bsky.social",
+      "timethridge2.bsky.social",
+      "tigs812.bsky.social",
+      "samthoyre.bsky.social",
       "lisabolynn.bsky.social",
       "directforpets.bsky.social",
       "oldman-sac.bsky.social",
       "deano-uk.bsky.social",
-      "panache.so",
-      "valyent.bsky.social",
       "ahlemmahroua.bsky.social",
       "alisonkmurray.bsky.social",
       "traveldream.bsky.social",
@@ -183,7 +193,6 @@
       "javayhu.com",
       "yairhaimo.bsky.social",
       "devarno.com",
-      "slavav.bsky.social",
       "mauriciorubio.com",
       "goranculibrk.com",
       "jssl.dev",
@@ -239,6 +248,9 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "lindmaa.bsky.social",
+      "kaplich.me",
+      "krissmanngupta.bsky.social",
       "softwareengineering.ca",
       "cofoundersnik.bsky.social",
       "jasonfried.bsky.social",
@@ -335,7 +347,7 @@
       "tonydinh.com",
       "d4m1n.bsky.social",
       "kevoncheung.com",
-      "ikoichi.bsky.social",
+      "lucarestagno.com",
       "xaviercoiffard.com",
       "nikitabier.bsky.social",
       "marckohlbrugge.com",
@@ -348,10 +360,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1735694672841
+    "timestamp": 1736212733723
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "hadars.bsky.social",
       "jithinjude.bsky.social",
       "ahlemmahroua.bsky.social",
       "beasuperdad.bsky.social",
@@ -365,6 +378,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "hadars.bsky.social",
       "jithinjude.bsky.social",
       "beasuperdad.bsky.social",
       "ahlemmahroua.bsky.social",
@@ -377,7 +391,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1735694672840
+    "timestamp": 1736212733722
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -428,14 +442,27 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "panache.so",
+      "jeanmeijer.com",
+      "leobuildsanapp.bsky.social",
+      "adudor.bsky.social",
+      "devibrahim.bsky.social",
+      "itsdarylldev.bsky.social",
+      "itszavier.bsky.social",
+      "laiew.bsky.social",
+      "covexapps.com",
+      "indiekevin.bsky.social",
+      "nuez.io",
+      "theethanyu.bsky.social",
+      "johnnybuilds.bsky.social",
+      "ahlemmahroua.bsky.social",
+      "mustafacandan.bsky.social",
+      "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
       "iremkaraoglu.bsky.social",
       "brunyview.bsky.social",
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
-      "doodnat.bsky.social",
       "razvanmuntian.com",
       "itskofio.bsky.social",
       "nursingfront.com",
@@ -445,7 +472,6 @@
       "codingjet.bsky.social",
       "rough.app",
       "fedyarakov.bsky.social",
-      "valyent.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
       "notanomad.bsky.social",
@@ -477,7 +503,6 @@
       "bonsontimus.bsky.social",
       "devtechnews.bsky.social",
       "thearchivalone.bsky.social",
-      "easbarbosa.bsky.social",
       "tyrendie.bsky.social",
       "devavocado.bsky.social",
       "rebeccabardess.bsky.social",
@@ -500,7 +525,6 @@
       "mainguyen.bsky.social",
       "alexi.build",
       "chenglonglu.bsky.social",
-      "johnnybuilds.bsky.social",
       "jde.blue",
       "apvarun.com",
       "techmag.bsky.social",
@@ -517,14 +541,25 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
-      "panache.so",
+      "leobuildsanapp.bsky.social",
+      "jeanmeijer.com",
+      "adudor.bsky.social",
+      "itsdarylldev.bsky.social",
+      "devibrahim.bsky.social",
+      "itszavier.bsky.social",
+      "indiekevin.bsky.social",
+      "covexapps.com",
+      "nuez.io",
+      "theethanyu.bsky.social",
+      "ahlemmahroua.bsky.social",
+      "mustafacandan.bsky.social",
+      "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
       "iremkaraoglu.bsky.social",
       "brunyview.bsky.social",
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
-      "doodnat.bsky.social",
       "itskofio.bsky.social",
       "razvanmuntian.com",
       "emdis.bsky.social",
@@ -534,7 +569,6 @@
       "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
-      "valyent.bsky.social",
       "notanomad.bsky.social",
       "knsl-io.bsky.social",
       "ciarawearen.bsky.social",
@@ -566,7 +600,6 @@
       "bonsontimus.bsky.social",
       "devtechnews.bsky.social",
       "thearchivalone.bsky.social",
-      "easbarbosa.bsky.social",
       "devavocado.bsky.social",
       "tyrendie.bsky.social",
       "rebeccabardess.bsky.social",
@@ -606,7 +639,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1735694672840
+    "timestamp": 1736212733722
   },
   "theyearprogress.bsky.social": {
     "followers": [
