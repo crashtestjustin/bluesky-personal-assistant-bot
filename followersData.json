@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "travdes.bsky.social",
       "l-m1.bsky.social",
       "logan1x.bsky.social",
       "ryanhefner.com",
@@ -181,7 +182,7 @@
       "namthanh.bsky.social",
       "pddt.bsky.social",
       "annedevj.bsky.social",
-      "gabloai.bsky.social",
+      "gablomo.com",
       "totalremoto.bsky.social",
       "dorian.blue",
       "oe-brothers.bsky.social",
@@ -282,7 +283,7 @@
       "yongfook.bsky.social",
       "mubashariqbal.com",
       "fekri.io",
-      "gabloai.bsky.social",
+      "gablomo.com",
       "sarwech.bsky.social",
       "bynapkin.com",
       "ciarawearen.bsky.social",
@@ -366,7 +367,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1736385485958
+    "timestamp": 1736472025634
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -401,7 +402,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1736385485957
+    "timestamp": 1736472025634
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -452,6 +453,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "lwoleksii.bsky.social",
+      "license-token.com",
+      "ashikpt.bsky.social",
       "joshuanoronha.bsky.social",
       "logan1x.bsky.social",
       "smartpix.bsky.social",
@@ -556,6 +560,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "license-token.com",
+      "lwoleksii.bsky.social",
+      "ashikpt.bsky.social",
       "joshuanoronha.bsky.social",
       "logan1x.bsky.social",
       "smartpix.bsky.social",
@@ -659,7 +666,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1736385485957
+    "timestamp": 1736472025633
   },
   "theyearprogress.bsky.social": {
     "followers": [
