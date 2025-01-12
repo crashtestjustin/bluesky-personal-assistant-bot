@@ -13,12 +13,12 @@
   },
   "jde.blue": {
     "followers": [
+      "kelianmos.bsky.social",
       "travdes.bsky.social",
       "l-m1.bsky.social",
       "logan1x.bsky.social",
       "ryanhefner.com",
       "tenuity.bsky.social",
-      "dailycorrelation.bsky.social",
       "kaplich.me",
       "dmoorewv.bsky.social",
       "julianding.bsky.social",
@@ -50,7 +50,7 @@
       "myspacetom2003.bsky.social",
       "ciarawearen.bsky.social",
       "dailystatsdm.bsky.social",
-      "drjlivingston.bsky.social",
+      "juliepatchouly.bsky.social",
       "s3th.me",
       "techtexan.bsky.social",
       "isabelajones.bsky.social",
@@ -253,6 +253,9 @@
       "blog.volunge.net"
     ],
     "follows": [
+      "rhyskentish.bsky.social",
+      "kelianmos.bsky.social",
+      "workato.bsky.social",
       "lindmaa.bsky.social",
       "kaplich.me",
       "krissmanngupta.bsky.social",
@@ -365,10 +368,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1736558325759
+    "timestamp": 1736645128772
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "jam-i-am.me",
       "logan1x.bsky.social",
       "kaplich.me",
       "hadars.bsky.social",
@@ -385,6 +389,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "jam-i-am.me",
       "logan1x.bsky.social",
       "kaplich.me",
       "hadars.bsky.social",
@@ -400,7 +405,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1736558325758
+    "timestamp": 1736645128771
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -451,6 +456,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "aycaakman.bsky.social",
+      "alexzdevs.bsky.social",
+      "evelynso.bsky.social",
       "nelioleone.bsky.social",
       "lwoleksii.bsky.social",
       "license-token.com",
@@ -499,7 +507,7 @@
       "stevo14u.bsky.social",
       "dailystatsdm.bsky.social",
       "ashpak.bsky.social",
-      "drjlivingston.bsky.social",
+      "juliepatchouly.bsky.social",
       "leeps.bsky.social",
       "stratecta.exchange",
       "zachdaniel.dev",
@@ -557,6 +565,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "aycaakman.bsky.social",
+      "alexzdevs.bsky.social",
+      "evelynso.bsky.social",
       "nelioleone.bsky.social",
       "license-token.com",
       "lwoleksii.bsky.social",
@@ -603,7 +614,7 @@
       "stevo14u.bsky.social",
       "dailystatsdm.bsky.social",
       "ashpak.bsky.social",
-      "drjlivingston.bsky.social",
+      "juliepatchouly.bsky.social",
       "leeps.bsky.social",
       "stratecta.exchange",
       "zachdaniel.dev",
@@ -662,7 +673,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1736558325757
+    "timestamp": 1736645128771
   },
   "theyearprogress.bsky.social": {
     "followers": [
