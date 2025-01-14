@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "trustworthydev.bsky.social",
+      "myfollower.bsky.social",
       "entrepreneura.bsky.social",
       "kelianmos.bsky.social",
       "travdes.bsky.social",
@@ -369,10 +371,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1736731331842
+    "timestamp": 1736817305634
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
       "kaplich.me",
@@ -390,6 +393,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
       "kaplich.me",
@@ -406,7 +410,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1736731331841
+    "timestamp": 1736817305633
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -542,7 +546,6 @@
       "fullperm.com",
       "modou15.bsky.social",
       "ayrtongampfer.bsky.social",
-      "redsky.pirhoo.com",
       "drcigarette.bsky.social",
       "hotshotqq.bsky.social",
       "sparkstone.bsky.social",
@@ -682,7 +685,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1736731331841
+    "timestamp": 1736817305633
   },
   "theyearprogress.bsky.social": {
     "followers": [
