@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "caffeinemike.bsky.social",
+      "happyirish.bsky.social",
       "trustworthydev.bsky.social",
       "myfollower.bsky.social",
       "entrepreneura.bsky.social",
@@ -371,7 +373,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1736817305634
+    "timestamp": 1736903806055
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -410,7 +412,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1736817305633
+    "timestamp": 1736903806054
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -462,7 +464,6 @@
   "biptopposts.bsky.social": {
     "followers": [
       "goodbinary.bsky.social",
-      "alecrimi.bsky.social",
       "indieceo.bsky.social",
       "dariodigregorio.bsky.social",
       "aycaakman.bsky.social",
@@ -574,7 +575,6 @@
     ],
     "follows": [
       "goodbinary.bsky.social",
-      "alecrimi.bsky.social",
       "indieceo.bsky.social",
       "dariodigregorio.bsky.social",
       "aycaakman.bsky.social",
@@ -685,7 +685,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1736817305633
+    "timestamp": 1736903806054
   },
   "theyearprogress.bsky.social": {
     "followers": [
