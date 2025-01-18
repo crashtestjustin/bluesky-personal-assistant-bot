@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "socialrails.bsky.social",
       "yonatanlavy.bsky.social",
       "nealriley.bsky.social",
       "caffeinemike.bsky.social",
@@ -255,7 +256,7 @@
       "philippkeller.com",
       "finallychicagoan.bsky.social",
       "telizmarypr.bsky.social",
-      "blog.volunge.net"
+      "cyberpunk.tools"
     ],
     "follows": [
       "rhyskentish.bsky.social",
@@ -369,14 +370,22 @@
       "lukashermann.dev",
       "andreboso.bsky.social",
       "philippkeller.com",
-      "blog.volunge.net",
+      "cyberpunk.tools",
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737076549959
+    "timestamp": 1737162842925
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "bubblylias.bsky.social",
+      "liathespark.bsky.social",
+      "spinespinoperas.bsky.social",
+      "jadelvg.bsky.social",
+      "lukium.substack.com",
+      "indiekevin.bsky.social",
+      "mago57.bsky.social",
+      "sweetbee.vip",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
@@ -395,6 +404,14 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "spinespinoperas.bsky.social",
+      "liathespark.bsky.social",
+      "bubblylias.bsky.social",
+      "lukium.substack.com",
+      "jadelvg.bsky.social",
+      "mago57.bsky.social",
+      "indiekevin.bsky.social",
+      "sweetbee.vip",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
@@ -412,7 +429,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737076549959
+    "timestamp": 1737162842924
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -463,6 +480,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "gwenshap.bsky.social",
+      "mago57.bsky.social",
       "nikitavorontsov.bsky.social",
       "mazault.bsky.social",
       "socialrails.bsky.social",
@@ -531,7 +550,7 @@
       "vulct.bsky.social",
       "creativewith.in",
       "sundip.bsky.social",
-      "blog.volunge.net",
+      "cyberpunk.tools",
       "czied.bsky.social",
       "dropservicing.bsky.social",
       "downpay.bsky.social",
@@ -577,6 +596,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "gwenshap.bsky.social",
+      "mago57.bsky.social",
       "mazault.bsky.social",
       "nikitavorontsov.bsky.social",
       "socialrails.bsky.social",
@@ -643,7 +664,7 @@
       "vulct.bsky.social",
       "creativewith.in",
       "czied.bsky.social",
-      "blog.volunge.net",
+      "cyberpunk.tools",
       "sundip.bsky.social",
       "dropservicing.bsky.social",
       "downpay.bsky.social",
@@ -691,7 +712,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737076549958
+    "timestamp": 1737162842924
   },
   "theyearprogress.bsky.social": {
     "followers": [
