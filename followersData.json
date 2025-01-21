@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "citrongrau.com",
+      "rnkgrn.bsky.social",
       "marianomiguel.com",
       "xfiles1992.bsky.social",
       "windycedars.bsky.social",
@@ -128,7 +130,6 @@
       "tylerborchers.com",
       "professorbenkenobi.bsky.social",
       "drthurber.bsky.social",
-      "sassylassiein2024.bsky.social",
       "asmartbear.com",
       "raulferrer.dev",
       "robfromtempo.bsky.social",
@@ -386,17 +387,23 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737335840388
+    "timestamp": 1737422159330
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "merimakedonskaa.bsky.social",
+      "onlyonecomment.bsky.social",
+      "katarinakriz.bsky.social",
+      "cmar0561.bsky.social",
+      "pawbaby2.bsky.social",
+      "kathleen-perez.bsky.social",
+      "mlauriat.bsky.social",
       "tommasinaresist.bsky.social",
       "brewminate.bsky.social",
       "janiceforalaska.bsky.social",
       "demsoldier.bsky.social",
       "decoded.documatric.com",
       "fedyarakov.bsky.social",
-      "mellowmadeline.bsky.social",
       "robertson100.bsky.social",
       "jadelvg.bsky.social",
       "lukium.substack.com",
@@ -420,13 +427,19 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "merimakedonskaa.bsky.social",
+      "onlyonecomment.bsky.social",
+      "cmar0561.bsky.social",
+      "katarinakriz.bsky.social",
+      "mlauriat.bsky.social",
+      "kathleen-perez.bsky.social",
+      "pawbaby2.bsky.social",
       "decoded.documatric.com",
       "demsoldier.bsky.social",
       "janiceforalaska.bsky.social",
       "brewminate.bsky.social",
       "tommasinaresist.bsky.social",
       "fedyarakov.bsky.social",
-      "mellowmadeline.bsky.social",
       "robertson100.bsky.social",
       "lukium.substack.com",
       "jadelvg.bsky.social",
@@ -449,7 +462,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737335840387
+    "timestamp": 1737422159330
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -500,6 +513,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "michaelgrimmio.bsky.social",
+      "dariopratola.bsky.social",
+      "glenfordwilliams.com",
       "rachblondon.bsky.social",
       "gwenshap.bsky.social",
       "mago57.bsky.social",
@@ -617,6 +633,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "michaelgrimmio.bsky.social",
+      "dariopratola.bsky.social",
+      "glenfordwilliams.com",
       "rachblondon.bsky.social",
       "gwenshap.bsky.social",
       "mago57.bsky.social",
@@ -734,7 +753,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737335840387
+    "timestamp": 1737422159329
   },
   "theyearprogress.bsky.social": {
     "followers": [
