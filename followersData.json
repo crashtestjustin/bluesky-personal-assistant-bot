@@ -13,7 +13,10 @@
   },
   "jde.blue": {
     "followers": [
-      "darkknightttt.bsky.social",
+      "platypuz.bsky.social",
+      "heymattia.bsky.social",
+      "vschmalbach.bsky.social",
+      "blue-pilot.bsky.social",
       "desertpapillon.bsky.social",
       "reiht-aug.bsky.social",
       "rnkgrn.bsky.social",
@@ -350,7 +353,7 @@
       "dagorenouf.com",
       "rrhoover.bsky.social",
       "szymonraczka.com",
-      "ramen.tools",
+      "handle.invalid",
       "threehourcoffee.bsky.social",
       "petecodes.bsky.social",
       "isora.me",
@@ -387,11 +390,15 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737594979909
+    "timestamp": 1737681395144
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "2soffiexx.bsky.social",
+      "alecrimi.bsky.social",
+      "xalicexbunny.bsky.social",
+      "farrahnaykaashlin.bsky.social",
+      "goodbinary.bsky.social",
+      "curvybabyy.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "merimakedonskaa.bsky.social",
@@ -430,7 +437,11 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "2soffiexx.bsky.social",
+      "alecrimi.bsky.social",
+      "xalicexbunny.bsky.social",
+      "goodbinary.bsky.social",
+      "farrahnaykaashlin.bsky.social",
+      "curvybabyy.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "merimakedonskaa.bsky.social",
@@ -468,7 +479,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737594979908
+    "timestamp": 1737681395143
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -519,6 +530,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "kevon.fyi",
+      "titabudol.bsky.social",
       "allieefacee.bsky.social",
       "maplethorpe.bsky.social",
       "michaelgrimmio.bsky.social",
@@ -639,6 +652,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "titabudol.bsky.social",
+      "kevon.fyi",
       "allieefacee.bsky.social",
       "maplethorpe.bsky.social",
       "michaelgrimmio.bsky.social",
@@ -759,7 +774,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737594979908
+    "timestamp": 1737681395143
   },
   "theyearprogress.bsky.social": {
     "followers": [
