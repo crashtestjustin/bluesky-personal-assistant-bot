@@ -206,7 +206,6 @@
       "totalremoto.bsky.social",
       "dorian.blue",
       "oe-brothers.bsky.social",
-      "roddy.appdeco.ca",
       "marcsdev.bsky.social",
       "kmarkfield.bsky.social",
       "victorperalta.bsky.social",
@@ -353,7 +352,7 @@
       "dagorenouf.com",
       "rrhoover.bsky.social",
       "szymonraczka.com",
-      "handle.invalid",
+      "ramen.tools",
       "threehourcoffee.bsky.social",
       "petecodes.bsky.social",
       "isora.me",
@@ -390,12 +389,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737681395144
+    "timestamp": 1737767578156
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "dakinigoddess.bsky.social",
+      "maifowler.com",
+      "hiddenglow.bsky.social",
+      "corrinaleeb.bsky.social",
+      "whipsandbri.bsky.social",
       "alecrimi.bsky.social",
-      "xalicexbunny.bsky.social",
       "farrahnaykaashlin.bsky.social",
       "goodbinary.bsky.social",
       "curvybabyy.bsky.social",
@@ -437,8 +440,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "dakinigoddess.bsky.social",
+      "maifowler.com",
+      "corrinaleeb.bsky.social",
+      "hiddenglow.bsky.social",
+      "whipsandbri.bsky.social",
       "alecrimi.bsky.social",
-      "xalicexbunny.bsky.social",
       "goodbinary.bsky.social",
       "farrahnaykaashlin.bsky.social",
       "curvybabyy.bsky.social",
@@ -479,7 +486,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737681395143
+    "timestamp": 1737767578155
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -530,6 +537,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "devarno.com",
+      "imlunahey.com",
       "kevon.fyi",
       "titabudol.bsky.social",
       "allieefacee.bsky.social",
@@ -652,6 +661,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "devarno.com",
+      "imlunahey.com",
       "titabudol.bsky.social",
       "kevon.fyi",
       "allieefacee.bsky.social",
@@ -774,7 +785,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737681395143
+    "timestamp": 1737767578155
   },
   "theyearprogress.bsky.social": {
     "followers": [
