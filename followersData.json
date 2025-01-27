@@ -129,7 +129,6 @@
       "ibrahimbagalwa.bsky.social",
       "stanmangohr.bsky.social",
       "leonardom.com",
-      "eshat.bsky.social",
       "the-last-username.bsky.social",
       "stackfactor.bsky.social",
       "tylerborchers.com",
@@ -391,7 +390,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737854332774
+    "timestamp": 1737940653371
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -404,7 +403,6 @@
       "whipsandbri.bsky.social",
       "farrahnaykaashlin.bsky.social",
       "goodbinary.bsky.social",
-      "curvybabyy.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "merimakedonskaa.bsky.social",
@@ -452,7 +450,6 @@
       "whipsandbri.bsky.social",
       "goodbinary.bsky.social",
       "farrahnaykaashlin.bsky.social",
-      "curvybabyy.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "merimakedonskaa.bsky.social",
@@ -490,7 +487,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737854332773
+    "timestamp": 1737940653371
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -541,6 +538,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "rat-deco.bsky.social",
+      "maifowler.com",
+      "neoprenecowboy.bsky.social",
       "devarno.com",
       "imlunahey.com",
       "kevon.fyi",
@@ -665,6 +665,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "rat-deco.bsky.social",
+      "maifowler.com",
+      "neoprenecowboy.bsky.social",
       "devarno.com",
       "imlunahey.com",
       "titabudol.bsky.social",
@@ -789,7 +792,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737854332773
+    "timestamp": 1737940653370
   },
   "theyearprogress.bsky.social": {
     "followers": [
