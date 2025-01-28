@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "freephysicsreading.bsky.social",
       "brunopedro.com",
       "rozzsanz.bsky.social",
       "yonatanlavy.bsky.social",
@@ -240,7 +241,6 @@
       "eelco.dev",
       "amp-engineer.bsky.social",
       "wartburggraaf.bsky.social",
-      "handle.invalid",
       "mathcoder.bsky.social",
       "dimarubanov.com",
       "tomhacks.com",
@@ -390,10 +390,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1737940653371
+    "timestamp": 1738026981660
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "mikelnhao.bsky.social",
       "potusbumblephuq.bsky.social",
       "cynthiaharless.bsky.social",
       "rat-deco.bsky.social",
@@ -405,7 +406,6 @@
       "goodbinary.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
-      "merimakedonskaa.bsky.social",
       "onlyonecomment.bsky.social",
       "katarinakriz.bsky.social",
       "cmar0561.bsky.social",
@@ -422,7 +422,6 @@
       "jadelvg.bsky.social",
       "lukium.substack.com",
       "mago57.bsky.social",
-      "sweetbee.vip",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
@@ -441,6 +440,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mikelnhao.bsky.social",
       "cynthiaharless.bsky.social",
       "potusbumblephuq.bsky.social",
       "rat-deco.bsky.social",
@@ -452,7 +452,6 @@
       "farrahnaykaashlin.bsky.social",
       "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
-      "merimakedonskaa.bsky.social",
       "onlyonecomment.bsky.social",
       "cmar0561.bsky.social",
       "katarinakriz.bsky.social",
@@ -469,7 +468,6 @@
       "lukium.substack.com",
       "jadelvg.bsky.social",
       "mago57.bsky.social",
-      "sweetbee.vip",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
       "logan1x.bsky.social",
@@ -487,7 +485,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1737940653371
+    "timestamp": 1738026981659
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -538,6 +536,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "reviewedworld.bsky.social",
+      "blue-pilot.bsky.social",
       "rat-deco.bsky.social",
       "maifowler.com",
       "neoprenecowboy.bsky.social",
@@ -665,6 +665,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "reviewedworld.bsky.social",
+      "blue-pilot.bsky.social",
       "rat-deco.bsky.social",
       "maifowler.com",
       "neoprenecowboy.bsky.social",
@@ -792,7 +794,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1737940653370
+    "timestamp": 1738026981659
   },
   "theyearprogress.bsky.social": {
     "followers": [
