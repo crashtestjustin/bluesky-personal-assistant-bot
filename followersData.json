@@ -25,7 +25,6 @@
       "platypuz.bsky.social",
       "heymattia.bsky.social",
       "vschmalbach.bsky.social",
-      "blue-pilot.bsky.social",
       "desertpapillon.bsky.social",
       "reiht-aug.bsky.social",
       "rnkgrn.bsky.social",
@@ -395,10 +394,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738113369776
+    "timestamp": 1738199717637
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "antykyles.bsky.social",
+      "iyanvelji.bsky.social",
       "greentechnetwork.bsky.social",
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
@@ -418,7 +419,6 @@
       "katarinakriz.bsky.social",
       "cmar0561.bsky.social",
       "pawbaby2.bsky.social",
-      "kathleen-perez.bsky.social",
       "mlauriat.bsky.social",
       "tommasinaresist.bsky.social",
       "brewminate.bsky.social",
@@ -448,6 +448,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "antykyles.bsky.social",
+      "iyanvelji.bsky.social",
       "reviewedworld.bsky.social",
       "mt3n.bsky.social",
       "greentechnetwork.bsky.social",
@@ -467,7 +469,6 @@
       "cmar0561.bsky.social",
       "katarinakriz.bsky.social",
       "mlauriat.bsky.social",
-      "kathleen-perez.bsky.social",
       "pawbaby2.bsky.social",
       "decoded.documatric.com",
       "demsoldier.bsky.social",
@@ -496,7 +497,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738113369776
+    "timestamp": 1738199717637
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -547,6 +548,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "spencerek.bsky.social",
       "warpbin.bsky.social",
       "lbwtest.com",
       "mt3n.bsky.social",
@@ -645,6 +647,7 @@
       "devtechnews.bsky.social",
       "thearchivalone.bsky.social",
       "tyrendie.bsky.social",
+      "devavocado.bsky.social",
       "rebeccabardess.bsky.social",
       "bucklajean.bsky.social",
       "the-writer-dev.bsky.social",
@@ -679,6 +682,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "spencerek.bsky.social",
       "warpbin.bsky.social",
       "lbwtest.com",
       "mt3n.bsky.social",
@@ -774,6 +778,7 @@
       "bonsontimus.bsky.social",
       "devtechnews.bsky.social",
       "thearchivalone.bsky.social",
+      "devavocado.bsky.social",
       "tyrendie.bsky.social",
       "rebeccabardess.bsky.social",
       "bucklajean.bsky.social",
@@ -811,7 +816,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738113369775
+    "timestamp": 1738199717636
   },
   "theyearprogress.bsky.social": {
     "followers": [
