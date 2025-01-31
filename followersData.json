@@ -63,7 +63,6 @@
       "tigs812.bsky.social",
       "samthoyre.bsky.social",
       "directforpets.bsky.social",
-      "oldman-sac.bsky.social",
       "deano-uk.bsky.social",
       "growthmarketing.me",
       "alisonkmurray.bsky.social",
@@ -394,10 +393,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738199717637
+    "timestamp": 1738286202636
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "meryyrluca.bsky.social",
       "antykyles.bsky.social",
       "iyanvelji.bsky.social",
       "greentechnetwork.bsky.social",
@@ -406,7 +406,6 @@
       "mikelnhao.bsky.social",
       "potusbumblephuq.bsky.social",
       "cynthiaharless.bsky.social",
-      "rat-deco.bsky.social",
       "dakinigoddess.bsky.social",
       "hiddenglow.bsky.social",
       "corrinaleeb.bsky.social",
@@ -434,7 +433,6 @@
       "jam-i-am.me",
       "logan1x.bsky.social",
       "kaplich.me",
-      "hadars.bsky.social",
       "jithinjude.bsky.social",
       "growthmarketing.me",
       "beasuperdad.bsky.social",
@@ -448,6 +446,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "meryyrluca.bsky.social",
       "antykyles.bsky.social",
       "iyanvelji.bsky.social",
       "reviewedworld.bsky.social",
@@ -456,7 +455,6 @@
       "mikelnhao.bsky.social",
       "cynthiaharless.bsky.social",
       "potusbumblephuq.bsky.social",
-      "rat-deco.bsky.social",
       "dakinigoddess.bsky.social",
       "corrinaleeb.bsky.social",
       "hiddenglow.bsky.social",
@@ -497,7 +495,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738199717637
+    "timestamp": 1738286202636
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -548,6 +546,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mor777.bsky.social",
+      "georgejose.bsky.social",
       "spencerek.bsky.social",
       "warpbin.bsky.social",
       "lbwtest.com",
@@ -682,6 +682,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "georgejose.bsky.social",
       "spencerek.bsky.social",
       "warpbin.bsky.social",
       "lbwtest.com",
@@ -816,7 +817,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738199717636
+    "timestamp": 1738286202635
   },
   "theyearprogress.bsky.social": {
     "followers": [
