@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "urdamautern.bsky.social",
+      "creativenavy.bsky.social",
       "punktoady.bsky.social",
       "sinedl3marin.bsky.social",
       "mt3n.bsky.social",
@@ -393,11 +395,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738286202636
+    "timestamp": 1738372832669
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "meryyrluca.bsky.social",
+      "duck-flying.bsky.social",
+      "mellow-cammy41.bsky.social",
+      "akadome0123.bsky.social",
       "antykyles.bsky.social",
       "iyanvelji.bsky.social",
       "greentechnetwork.bsky.social",
@@ -446,7 +450,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "meryyrluca.bsky.social",
+      "duck-flying.bsky.social",
+      "mellow-cammy41.bsky.social",
+      "akadome0123.bsky.social",
       "antykyles.bsky.social",
       "iyanvelji.bsky.social",
       "reviewedworld.bsky.social",
@@ -495,7 +501,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738286202636
+    "timestamp": 1738372832668
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -546,7 +552,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "mor777.bsky.social",
+      "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
       "warpbin.bsky.social",
@@ -682,6 +688,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
       "warpbin.bsky.social",
@@ -817,7 +824,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738286202635
+    "timestamp": 1738372832668
   },
   "theyearprogress.bsky.social": {
     "followers": [
