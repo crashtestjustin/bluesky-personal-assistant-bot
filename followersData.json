@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "bahbilee.bsky.social",
       "urdamautern.bsky.social",
       "creativenavy.bsky.social",
       "punktoady.bsky.social",
@@ -26,7 +27,6 @@
       "adamriha.com",
       "platypuz.bsky.social",
       "heymattia.bsky.social",
-      "vschmalbach.bsky.social",
       "desertpapillon.bsky.social",
       "reiht-aug.bsky.social",
       "rnkgrn.bsky.social",
@@ -216,7 +216,6 @@
       "marcsdev.bsky.social",
       "kmarkfield.bsky.social",
       "victorperalta.bsky.social",
-      "kyleplatt.bsky.social",
       "gabbbe33.bsky.social",
       "crashtestjustin.bsky.social",
       "sav-posts.bsky.social",
@@ -395,11 +394,10 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738545450793
+    "timestamp": 1738631798699
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "lunatrixii.bsky.social",
       "scythianna.bsky.social",
       "duck-flying.bsky.social",
       "mellow-cammy41.bsky.social",
@@ -436,7 +434,6 @@
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
-      "logan1x.bsky.social",
       "kaplich.me",
       "jithinjude.bsky.social",
       "growthmarketing.me",
@@ -451,7 +448,6 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "lunatrixii.bsky.social",
       "scythianna.bsky.social",
       "duck-flying.bsky.social",
       "mellow-cammy41.bsky.social",
@@ -503,7 +499,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738545450792
+    "timestamp": 1738631798699
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -554,6 +550,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "componentlibraries.bsky.social",
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
@@ -602,7 +599,6 @@
       "laiew.bsky.social",
       "covexapps.com",
       "indiekevin.bsky.social",
-      "nuez.io",
       "theethanyu.bsky.social",
       "johnnybuilds.bsky.social",
       "growthmarketing.me",
@@ -689,6 +685,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "componentlibraries.bsky.social",
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
@@ -736,7 +733,6 @@
       "itszavier.bsky.social",
       "indiekevin.bsky.social",
       "covexapps.com",
-      "nuez.io",
       "theethanyu.bsky.social",
       "growthmarketing.me",
       "mustafacandan.bsky.social",
@@ -824,7 +820,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738545450791
+    "timestamp": 1738631798698
   },
   "theyearprogress.bsky.social": {
     "followers": [
