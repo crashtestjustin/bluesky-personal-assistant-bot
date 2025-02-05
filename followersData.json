@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "smaksked.bsky.social",
       "bahbilee.bsky.social",
       "urdamautern.bsky.social",
       "creativenavy.bsky.social",
@@ -394,10 +395,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738631798699
+    "timestamp": 1738718270433
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "parispaname.bsky.social",
+      "runintowilds.bsky.social",
+      "cherrywild.bsky.social",
       "scythianna.bsky.social",
       "duck-flying.bsky.social",
       "mellow-cammy41.bsky.social",
@@ -430,7 +434,7 @@
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "jadelvg.bsky.social",
-      "lukium.substack.com",
+      "americanmanifesto.news",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
@@ -448,6 +452,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "parispaname.bsky.social",
+      "cherrywild.bsky.social",
+      "runintowilds.bsky.social",
       "scythianna.bsky.social",
       "duck-flying.bsky.social",
       "mellow-cammy41.bsky.social",
@@ -479,7 +486,7 @@
       "tommasinaresist.bsky.social",
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
-      "lukium.substack.com",
+      "americanmanifesto.news",
       "jadelvg.bsky.social",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
@@ -499,7 +506,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738631798699
+    "timestamp": 1738718270433
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -550,6 +557,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "florestankorp.bsky.social",
       "componentlibraries.bsky.social",
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
@@ -653,7 +661,7 @@
       "devavocado.bsky.social",
       "rebeccabardess.bsky.social",
       "bucklajean.bsky.social",
-      "the-writer-dev.bsky.social",
+      "aipreneur-j.bsky.social",
       "markos.dev",
       "fullperm.com",
       "modou15.bsky.social",
@@ -685,6 +693,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "florestankorp.bsky.social",
       "componentlibraries.bsky.social",
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
@@ -786,7 +795,7 @@
       "tyrendie.bsky.social",
       "rebeccabardess.bsky.social",
       "bucklajean.bsky.social",
-      "the-writer-dev.bsky.social",
+      "aipreneur-j.bsky.social",
       "markos.dev",
       "modou15.bsky.social",
       "fullperm.com",
@@ -820,7 +829,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738631798698
+    "timestamp": 1738718270432
   },
   "theyearprogress.bsky.social": {
     "followers": [
