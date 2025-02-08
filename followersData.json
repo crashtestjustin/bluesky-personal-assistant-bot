@@ -394,10 +394,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1738891075898
+    "timestamp": 1738977335061
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ellilanderson.bsky.social",
+      "chillprov1.bsky.social",
+      "roxyridesagain.bsky.social",
       "emberollers.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
@@ -435,6 +438,7 @@
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "jadelvg.bsky.social",
+      "americanmanifesto.news",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
@@ -452,6 +456,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "roxyridesagain.bsky.social",
+      "chillprov1.bsky.social",
+      "ellilanderson.bsky.social",
       "emberollers.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
@@ -488,6 +495,7 @@
       "tommasinaresist.bsky.social",
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
+      "americanmanifesto.news",
       "jadelvg.bsky.social",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
@@ -507,7 +515,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1738891075898
+    "timestamp": 1738977335061
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -558,6 +566,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "felipefreitag.bsky.social",
+      "brefi.eu",
       "vangelis00.bsky.social",
       "florestankorp.bsky.social",
       "componentlibraries.bsky.social",
@@ -694,6 +704,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "felipefreitag.bsky.social",
+      "brefi.eu",
       "vangelis00.bsky.social",
       "florestankorp.bsky.social",
       "componentlibraries.bsky.social",
@@ -831,7 +843,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1738891075897
+    "timestamp": 1738977335060
   },
   "theyearprogress.bsky.social": {
     "followers": [
