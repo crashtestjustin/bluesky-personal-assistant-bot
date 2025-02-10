@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "dammitdougsmith.bsky.social",
+      "codywiseman.bsky.social",
       "resistfacismnow.bsky.social",
       "rescuedoghowling.bsky.social",
       "smaksked.bsky.social",
@@ -33,7 +35,6 @@
       "desertpapillon.bsky.social",
       "reiht-aug.bsky.social",
       "rnkgrn.bsky.social",
-      "marianomiguel.com",
       "xfiles1992.bsky.social",
       "windycedars.bsky.social",
       "kelownagirl.bsky.social",
@@ -129,7 +130,6 @@
       "chikyufoundation.bsky.social",
       "devtechnews.bsky.social",
       "xmascountdown.bsky.social",
-      "throneconsulting.com",
       "biptopposts.bsky.social",
       "laiew.bsky.social",
       "ibrahimbagalwa.bsky.social",
@@ -279,6 +279,7 @@
       "cyberpunk.tools"
     ],
     "follows": [
+      "laiew.bsky.social",
       "rhyskentish.bsky.social",
       "kelianmos.bsky.social",
       "workato.bsky.social",
@@ -393,16 +394,17 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739064083893
+    "timestamp": 1739150324627
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "niaslutty.bsky.social",
+      "miasaunders22215.bsky.social",
       "meerlylume.bsky.social",
       "laiew.bsky.social",
       "ellilanderson.bsky.social",
       "chillprov1.bsky.social",
       "roxyridesagain.bsky.social",
-      "emberollers.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
       "cherrywild.bsky.social",
@@ -455,12 +457,13 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "niaslutty.bsky.social",
+      "miasaunders22215.bsky.social",
       "meerlylume.bsky.social",
       "laiew.bsky.social",
       "roxyridesagain.bsky.social",
       "chillprov1.bsky.social",
       "ellilanderson.bsky.social",
-      "emberollers.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
       "cherrywild.bsky.social",
@@ -514,7 +517,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739064083893
+    "timestamp": 1739150324627
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -565,6 +568,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "dammitdougsmith.bsky.social",
+      "framian.fi",
       "codywiseman.bsky.social",
       "seacatwiz.bsky.social",
       "felipefreitag.bsky.social",
@@ -705,6 +710,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "dammitdougsmith.bsky.social",
+      "framian.fi",
       "codywiseman.bsky.social",
       "seacatwiz.bsky.social",
       "felipefreitag.bsky.social",
@@ -846,7 +853,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739064083892
+    "timestamp": 1739150324626
   },
   "theyearprogress.bsky.social": {
     "followers": [
