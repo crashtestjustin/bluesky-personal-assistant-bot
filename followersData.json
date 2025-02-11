@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "cloudspot.bsky.social",
+      "lloydmill.bsky.social",
       "dammitdougsmith.bsky.social",
       "codywiseman.bsky.social",
       "resistfacismnow.bsky.social",
@@ -25,7 +27,6 @@
       "sinedl3marin.bsky.social",
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
-      "freephysicsreading.bsky.social",
       "brunopedro.com",
       "rozzone.bsky.social",
       "yonatanlavy.bsky.social",
@@ -141,6 +142,7 @@
       "tylerborchers.com",
       "professorbenkenobi.bsky.social",
       "drthurber.bsky.social",
+      "sassylassiein2024.bsky.social",
       "asmartbear.com",
       "raulferrer.dev",
       "robfromtempo.bsky.social",
@@ -394,13 +396,17 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739150324627
+    "timestamp": 1739236642925
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "niaslutty.bsky.social",
+      "saelwinn.bsky.social",
+      "technotramp.bsky.social",
+      "prvnihore.bsky.social",
+      "goxhicc.tweets.games",
+      "miasaunders48005.bsky.social",
+      "darthslr.bsky.social",
       "miasaunders22215.bsky.social",
-      "meerlylume.bsky.social",
       "laiew.bsky.social",
       "ellilanderson.bsky.social",
       "chillprov1.bsky.social",
@@ -457,9 +463,13 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "niaslutty.bsky.social",
+      "saelwinn.bsky.social",
+      "prvnihore.bsky.social",
+      "technotramp.bsky.social",
+      "darthslr.bsky.social",
+      "miasaunders48005.bsky.social",
+      "goxhicc.tweets.games",
       "miasaunders22215.bsky.social",
-      "meerlylume.bsky.social",
       "laiew.bsky.social",
       "roxyridesagain.bsky.social",
       "chillprov1.bsky.social",
@@ -517,7 +527,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739150324627
+    "timestamp": 1739236642924
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -568,6 +578,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
       "codywiseman.bsky.social",
@@ -710,6 +721,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
       "codywiseman.bsky.social",
@@ -853,7 +865,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739150324626
+    "timestamp": 1739236642924
   },
   "theyearprogress.bsky.social": {
     "followers": [
