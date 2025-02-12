@@ -396,10 +396,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739236642925
+    "timestamp": 1739323057265
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "prettilysweet.bsky.social",
+      "hedrickart.bsky.social",
+      "bruno.rocha.social",
+      "rolandbrunner.bsky.social",
       "saelwinn.bsky.social",
       "technotramp.bsky.social",
       "prvnihore.bsky.social",
@@ -463,6 +467,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "prettilysweet.bsky.social",
+      "bruno.rocha.social",
+      "hedrickart.bsky.social",
+      "rolandbrunner.bsky.social",
       "saelwinn.bsky.social",
       "prvnihore.bsky.social",
       "technotramp.bsky.social",
@@ -527,7 +535,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739236642924
+    "timestamp": 1739323057264
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -578,6 +586,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "vrcqt.bsky.social",
+      "platypuz.bsky.social",
+      "stevepeltonen.com",
       "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
@@ -721,6 +732,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "platypuz.bsky.social",
+      "vrcqt.bsky.social",
+      "stevepeltonen.com",
       "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
@@ -865,7 +879,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739236642924
+    "timestamp": 1739323057264
   },
   "theyearprogress.bsky.social": {
     "followers": [
