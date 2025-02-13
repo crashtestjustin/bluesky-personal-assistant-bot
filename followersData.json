@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "vital-elevation.bsky.social",
       "cloudspot.bsky.social",
       "lloydmill.bsky.social",
       "dammitdougsmith.bsky.social",
@@ -396,15 +397,15 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739323057265
+    "timestamp": 1739409494658
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "imlunahey.com",
       "prettilysweet.bsky.social",
       "hedrickart.bsky.social",
       "bruno.rocha.social",
       "rolandbrunner.bsky.social",
-      "saelwinn.bsky.social",
       "technotramp.bsky.social",
       "prvnihore.bsky.social",
       "goxhicc.tweets.games",
@@ -448,7 +449,6 @@
       "decoded.documatric.com",
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
-      "jadelvg.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
@@ -467,11 +467,11 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "imlunahey.com",
       "prettilysweet.bsky.social",
       "bruno.rocha.social",
       "hedrickart.bsky.social",
       "rolandbrunner.bsky.social",
-      "saelwinn.bsky.social",
       "prvnihore.bsky.social",
       "technotramp.bsky.social",
       "darthslr.bsky.social",
@@ -516,7 +516,6 @@
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "americanmanifesto.news",
-      "jadelvg.bsky.social",
       "mago57.bsky.social",
       "paulcochrane87.bsky.social",
       "jam-i-am.me",
@@ -535,7 +534,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739323057264
+    "timestamp": 1739409494657
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -586,7 +585,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "vrcqt.bsky.social",
+      "nisargk.bsky.social",
       "platypuz.bsky.social",
       "stevepeltonen.com",
       "guidemewithai.bsky.social",
@@ -732,8 +731,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "nisargk.bsky.social",
       "platypuz.bsky.social",
-      "vrcqt.bsky.social",
       "stevepeltonen.com",
       "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
@@ -879,7 +878,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739323057264
+    "timestamp": 1739409494656
   },
   "theyearprogress.bsky.social": {
     "followers": [
