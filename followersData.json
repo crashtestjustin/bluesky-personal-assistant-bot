@@ -397,7 +397,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739409494658
+    "timestamp": 1739495873824
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -409,9 +409,7 @@
       "technotramp.bsky.social",
       "prvnihore.bsky.social",
       "goxhicc.tweets.games",
-      "miasaunders48005.bsky.social",
       "darthslr.bsky.social",
-      "miasaunders22215.bsky.social",
       "laiew.bsky.social",
       "ellilanderson.bsky.social",
       "chillprov1.bsky.social",
@@ -435,7 +433,6 @@
       "whipsandbri.bsky.social",
       "farrahnaykaashlin.bsky.social",
       "goodbinary.bsky.social",
-      "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "onlyonecomment.bsky.social",
       "katarinakriz.bsky.social",
@@ -475,9 +472,7 @@
       "prvnihore.bsky.social",
       "technotramp.bsky.social",
       "darthslr.bsky.social",
-      "miasaunders48005.bsky.social",
       "goxhicc.tweets.games",
-      "miasaunders22215.bsky.social",
       "laiew.bsky.social",
       "roxyridesagain.bsky.social",
       "chillprov1.bsky.social",
@@ -501,7 +496,6 @@
       "whipsandbri.bsky.social",
       "goodbinary.bsky.social",
       "farrahnaykaashlin.bsky.social",
-      "cum2mebabe.bsky.social",
       "jodiepp1948.bsky.social",
       "onlyonecomment.bsky.social",
       "cmar0561.bsky.social",
@@ -534,7 +528,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739409494657
+    "timestamp": 1739495873823
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -585,6 +579,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mammothrolls.bsky.social",
+      "slavon-coding.bsky.social",
+      "solnic.dev",
       "nisargk.bsky.social",
       "platypuz.bsky.social",
       "stevepeltonen.com",
@@ -731,6 +728,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "mammothrolls.bsky.social",
+      "slavon-coding.bsky.social",
+      "solnic.dev",
       "nisargk.bsky.social",
       "platypuz.bsky.social",
       "stevepeltonen.com",
@@ -878,7 +878,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739409494656
+    "timestamp": 1739495873822
   },
   "theyearprogress.bsky.social": {
     "followers": [
