@@ -13,8 +13,9 @@
   },
   "jde.blue": {
     "followers": [
-      "vital-elevation.bsky.social",
       "cloudspot.bsky.social",
+      "michelle5651.bsky.social",
+      "vital-elevation.bsky.social",
       "lloydmill.bsky.social",
       "dammitdougsmith.bsky.social",
       "codywiseman.bsky.social",
@@ -50,6 +51,7 @@
       "nealriley.bsky.social",
       "caffeinemike.bsky.social",
       "happyirish.bsky.social",
+      "lovesaarahcute825.bsky.social",
       "trustworthydev.bsky.social",
       "entrepreneura.bsky.social",
       "kelianmos.bsky.social",
@@ -143,7 +145,6 @@
       "tylerborchers.com",
       "professorbenkenobi.bsky.social",
       "drthurber.bsky.social",
-      "sassylassiein2024.bsky.social",
       "asmartbear.com",
       "raulferrer.dev",
       "robfromtempo.bsky.social",
@@ -397,10 +398,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739495873824
+    "timestamp": 1739582218739
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "smcacademy.bsky.social",
       "imlunahey.com",
       "prettilysweet.bsky.social",
       "hedrickart.bsky.social",
@@ -464,6 +466,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "smcacademy.bsky.social",
       "imlunahey.com",
       "prettilysweet.bsky.social",
       "bruno.rocha.social",
@@ -528,7 +531,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739495873823
+    "timestamp": 1739582218738
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -878,7 +881,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739495873822
+    "timestamp": 1739582218737
   },
   "theyearprogress.bsky.social": {
     "followers": [
