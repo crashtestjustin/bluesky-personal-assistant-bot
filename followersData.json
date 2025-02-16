@@ -398,7 +398,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739582218739
+    "timestamp": 1739669043648
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -531,7 +531,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739582218738
+    "timestamp": 1739669043646
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -582,6 +582,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "siidorow.dev",
       "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
       "solnic.dev",
@@ -606,7 +607,6 @@
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
       "blue-pilot.bsky.social",
-      "rat-deco.bsky.social",
       "neoprenecowboy.bsky.social",
       "devarno.com",
       "imlunahey.com",
@@ -731,6 +731,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "siidorow.dev",
       "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
       "solnic.dev",
@@ -755,7 +756,6 @@
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
       "blue-pilot.bsky.social",
-      "rat-deco.bsky.social",
       "neoprenecowboy.bsky.social",
       "devarno.com",
       "imlunahey.com",
@@ -881,7 +881,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739582218737
+    "timestamp": 1739669043646
   },
   "theyearprogress.bsky.social": {
     "followers": [
