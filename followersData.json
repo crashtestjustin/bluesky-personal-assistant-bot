@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "bethjohanson.bsky.social",
+      "liberaltothecore.bsky.social",
+      "trash-talk-steve-g.bsky.social",
       "siidorow.dev",
       "cloudspot.bsky.social",
       "michelle5651.bsky.social",
@@ -399,10 +402,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739755236780
+    "timestamp": 1739841474667
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
       "siidorow.dev",
@@ -468,6 +472,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
       "siidorow.dev",
@@ -534,7 +539,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739755236780
+    "timestamp": 1739841474667
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -585,6 +590,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "ivanbreet.bsky.social",
       "siidorow.dev",
       "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
@@ -733,6 +739,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "ivanbreet.bsky.social",
       "siidorow.dev",
       "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
@@ -883,7 +890,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739755236779
+    "timestamp": 1739841474666
   },
   "theyearprogress.bsky.social": {
     "followers": [
