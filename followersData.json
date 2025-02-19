@@ -402,10 +402,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739841474667
+    "timestamp": 1739927907870
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
@@ -472,6 +473,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
@@ -539,7 +541,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739841474667
+    "timestamp": 1739927907869
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -622,7 +624,7 @@
       "kevon.fyi",
       "titabudol.bsky.social",
       "allieefacee.bsky.social",
-      "maplethorpe.bsky.social",
+      "jerad.io",
       "michaelgrimmio.bsky.social",
       "dariopratola.bsky.social",
       "glenfordwilliams.com",
@@ -771,7 +773,7 @@
       "titabudol.bsky.social",
       "kevon.fyi",
       "allieefacee.bsky.social",
-      "maplethorpe.bsky.social",
+      "jerad.io",
       "michaelgrimmio.bsky.social",
       "dariopratola.bsky.social",
       "glenfordwilliams.com",
@@ -890,7 +892,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739841474666
+    "timestamp": 1739927907869
   },
   "theyearprogress.bsky.social": {
     "followers": [
