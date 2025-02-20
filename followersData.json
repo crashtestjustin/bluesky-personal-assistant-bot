@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "albertvilella.bsky.social",
+      "markoconnell.bsky.social",
       "bethjohanson.bsky.social",
       "liberaltothecore.bsky.social",
       "trash-talk-steve-g.bsky.social",
@@ -402,10 +404,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1739927907870
+    "timestamp": 1740014324261
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "bustydriver.bsky.social",
+      "olthings.bsky.social",
       "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
@@ -473,6 +477,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "bustydriver.bsky.social",
+      "olthings.bsky.social",
       "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
@@ -541,7 +547,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1739927907869
+    "timestamp": 1740014324261
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -592,6 +598,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
       "mammothrolls.bsky.social",
@@ -671,7 +678,6 @@
       "itskofio.bsky.social",
       "nursingfront.com",
       "emdis.bsky.social",
-      "littledesignhut.bsky.social",
       "peleliu.bsky.social",
       "codingjet.bsky.social",
       "rough.app",
@@ -741,6 +747,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
       "mammothrolls.bsky.social",
@@ -820,7 +827,6 @@
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
-      "littledesignhut.bsky.social",
       "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
@@ -892,7 +898,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1739927907869
+    "timestamp": 1740014324260
   },
   "theyearprogress.bsky.social": {
     "followers": [
