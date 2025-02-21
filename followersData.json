@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "ecs23.bsky.social",
       "albertvilella.bsky.social",
       "markoconnell.bsky.social",
       "bethjohanson.bsky.social",
@@ -79,7 +80,7 @@
       "samthoyre.bsky.social",
       "directforpets.bsky.social",
       "deano-uk.bsky.social",
-      "growthmarketing.me",
+      "ahlemmahroua.bsky.social",
       "alisonkmurray.bsky.social",
       "traveldream.bsky.social",
       "jaydog609.bsky.social",
@@ -404,12 +405,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740014324261
+    "timestamp": 1740100736036
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "redwildcatx.bsky.social",
+      "candiannie.bsky.social",
       "bustydriver.bsky.social",
-      "olthings.bsky.social",
+      "things.overlordshop.com",
       "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
@@ -465,7 +468,7 @@
       "jam-i-am.me",
       "kaplich.me",
       "jithinjude.bsky.social",
-      "growthmarketing.me",
+      "ahlemmahroua.bsky.social",
       "beasuperdad.bsky.social",
       "joshuanoronha.bsky.social",
       "alexi.build",
@@ -477,8 +480,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "candiannie.bsky.social",
+      "redwildcatx.bsky.social",
       "bustydriver.bsky.social",
-      "olthings.bsky.social",
+      "things.overlordshop.com",
       "quakerpeace.bsky.social",
       "madco.me",
       "czepalla.bsky.social",
@@ -537,7 +542,7 @@
       "hadars.bsky.social",
       "jithinjude.bsky.social",
       "beasuperdad.bsky.social",
-      "growthmarketing.me",
+      "ahlemmahroua.bsky.social",
       "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
@@ -547,7 +552,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740014324261
+    "timestamp": 1740100736035
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -598,6 +603,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "phen.dev",
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
@@ -666,7 +672,7 @@
       "indiekevin.bsky.social",
       "theethanyu.bsky.social",
       "johnnybuilds.bsky.social",
-      "growthmarketing.me",
+      "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "iremkaraoglu.bsky.social",
@@ -747,6 +753,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "phen.dev",
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
@@ -813,7 +820,7 @@
       "indiekevin.bsky.social",
       "covexapps.com",
       "theethanyu.bsky.social",
-      "growthmarketing.me",
+      "ahlemmahroua.bsky.social",
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
@@ -898,7 +905,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740014324260
+    "timestamp": 1740100736035
   },
   "theyearprogress.bsky.social": {
     "followers": [
