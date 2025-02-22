@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "theejennifernicks.bsky.social",
       "ecs23.bsky.social",
       "albertvilella.bsky.social",
       "markoconnell.bsky.social",
@@ -405,10 +406,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740100736036
+    "timestamp": 1740186989637
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "mosesg.bsky.social",
+      "aikobunny.bsky.social",
       "redwildcatx.bsky.social",
       "candiannie.bsky.social",
       "bustydriver.bsky.social",
@@ -480,6 +483,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mosesg.bsky.social",
+      "aikobunny.bsky.social",
       "candiannie.bsky.social",
       "redwildcatx.bsky.social",
       "bustydriver.bsky.social",
@@ -552,7 +557,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740100736035
+    "timestamp": 1740186989635
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -905,7 +910,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740100736035
+    "timestamp": 1740186989634
   },
   "theyearprogress.bsky.social": {
     "followers": [
