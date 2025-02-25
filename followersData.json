@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "tyodsgn.bsky.social",
       "surajc.com",
       "theejennifernicks.bsky.social",
       "ecs23.bsky.social",
@@ -407,7 +408,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740360047393
+    "timestamp": 1740446416155
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -479,7 +480,6 @@
       "joshuanoronha.bsky.social",
       "alexi.build",
       "builditn0w.bsky.social",
-      "s3th.me",
       "theyearprogress.bsky.social",
       "crashtestjustin.bsky.social",
       "jde.blue",
@@ -562,7 +562,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740360047392
+    "timestamp": 1740446416154
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -613,6 +613,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "pycraftdev.bsky.social",
       "itsbehnam.dev",
       "maifowler.com",
       "oscb.bsky.social",
@@ -769,6 +770,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "pycraftdev.bsky.social",
       "oscb.bsky.social",
       "maifowler.com",
       "itsbehnam.dev",
@@ -927,7 +929,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740360047392
+    "timestamp": 1740446416153
   },
   "theyearprogress.bsky.social": {
     "followers": [
