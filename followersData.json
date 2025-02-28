@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "madco.me",
+      "expertplus.creator.blue",
       "tyodsgn.bsky.social",
       "surajc.com",
       "theejennifernicks.bsky.social",
@@ -407,10 +409,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740619214731
+    "timestamp": 1740705631098
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "culdejument.bsky.social",
+      "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
       "hansellsohot.bsky.social",
       "mosesg.bsky.social",
@@ -419,7 +423,6 @@
       "candiannie.bsky.social",
       "bustydriver.bsky.social",
       "things.overlordshop.com",
-      "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
       "siidorow.dev",
@@ -482,6 +485,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "culdejument.bsky.social",
+      "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
       "hansellsohot.bsky.social",
       "mosesg.bsky.social",
@@ -490,7 +495,6 @@
       "redwildcatx.bsky.social",
       "bustydriver.bsky.social",
       "things.overlordshop.com",
-      "madco.me",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
       "siidorow.dev",
@@ -555,7 +559,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740619214730
+    "timestamp": 1740705631097
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -606,6 +610,12 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mangotabby.bsky.social",
+      "madco.me",
+      "chuongle.bsky.social",
+      "jakemanger.bsky.social",
+      "prsnlbrandexp.bsky.social",
+      "expertplus.creator.blue",
       "pycraftdev.bsky.social",
       "itsbehnam.dev",
       "maifowler.com",
@@ -763,6 +773,12 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "madco.me",
+      "mangotabby.bsky.social",
+      "jakemanger.bsky.social",
+      "chuongle.bsky.social",
+      "expertplus.creator.blue",
+      "prsnlbrandexp.bsky.social",
       "pycraftdev.bsky.social",
       "oscb.bsky.social",
       "maifowler.com",
@@ -922,7 +938,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740619214730
+    "timestamp": 1740705631097
   },
   "theyearprogress.bsky.social": {
     "followers": [
