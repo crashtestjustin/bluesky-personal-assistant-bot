@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "m0zstuff.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
       "madco.me",
@@ -410,7 +411,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740792317293
+    "timestamp": 1740878687020
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -559,7 +560,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740792317292
+    "timestamp": 1740878687019
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -610,6 +611,10 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "majiy00.bsky.social",
+      "jackiefreedom.bsky.social",
+      "mor777.bsky.social",
+      "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
       "mangotabby.bsky.social",
@@ -629,7 +634,6 @@
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
-      "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
       "solnic.dev",
       "nisargk.bsky.social",
@@ -775,6 +779,10 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "majiy00.bsky.social",
+      "jackiefreedom.bsky.social",
+      "mor777.bsky.social",
+      "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
       "madco.me",
@@ -794,7 +802,6 @@
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
       "siidorow.dev",
-      "mammothrolls.bsky.social",
       "slavon-coding.bsky.social",
       "solnic.dev",
       "nisargk.bsky.social",
@@ -942,7 +949,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740792317292
+    "timestamp": 1740878687018
   },
   "theyearprogress.bsky.social": {
     "followers": [
