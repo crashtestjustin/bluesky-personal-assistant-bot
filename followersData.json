@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "legalwanderer.com",
       "m0zstuff.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
@@ -87,7 +88,6 @@
       "directforpets.bsky.social",
       "deano-uk.bsky.social",
       "ahlemmahroua.bsky.social",
-      "alisonkmurray.bsky.social",
       "traveldream.bsky.social",
       "jaydog609.bsky.social",
       "softwareengineering.ca",
@@ -411,10 +411,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740878687020
+    "timestamp": 1740964971017
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "amaraglow.bsky.social",
+      "cyanmystique.bsky.social",
+      "skyblooms.bsky.social",
+      "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
@@ -486,6 +490,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "cyanmystique.bsky.social",
+      "amaraglow.bsky.social",
+      "skyblooms.bsky.social",
+      "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
@@ -560,7 +568,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740878687019
+    "timestamp": 1740964971016
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -949,7 +957,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740878687018
+    "timestamp": 1740964971016
   },
   "theyearprogress.bsky.social": {
     "followers": [
