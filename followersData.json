@@ -411,11 +411,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1740964971017
+    "timestamp": 1741051286961
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "amaraglow.bsky.social",
+      "viviawren.bsky.social",
+      "bluehorizonlady.bsky.social",
       "cyanmystique.bsky.social",
       "skyblooms.bsky.social",
       "codywiseman.bsky.social",
@@ -490,8 +491,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "viviawren.bsky.social",
+      "bluehorizonlady.bsky.social",
       "cyanmystique.bsky.social",
-      "amaraglow.bsky.social",
       "skyblooms.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
@@ -568,7 +570,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1740964971016
+    "timestamp": 1741051286960
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -619,6 +621,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
       "mor777.bsky.social",
@@ -787,6 +790,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
       "mor777.bsky.social",
@@ -957,7 +961,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1740964971016
+    "timestamp": 1741051286960
   },
   "theyearprogress.bsky.social": {
     "followers": [
