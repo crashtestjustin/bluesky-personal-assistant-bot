@@ -13,7 +13,9 @@
   },
   "jde.blue": {
     "followers": [
-      "legalwanderer.com",
+      "adrianacostapr.bsky.social",
+      "alexisbouchez.com",
+      "ariagarde.bsky.social",
       "m0zstuff.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
@@ -411,13 +413,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741051286961
+    "timestamp": 1741137679128
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "viviawren.bsky.social",
-      "bluehorizonlady.bsky.social",
-      "cyanmystique.bsky.social",
+      "dailyrefahist.bsky.social",
+      "miamix1.bsky.social",
+      "skylinesiren.bsky.social",
+      "pinkbutterflyvr.bsky.social",
       "skyblooms.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
@@ -491,9 +494,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "viviawren.bsky.social",
-      "bluehorizonlady.bsky.social",
-      "cyanmystique.bsky.social",
+      "dailyrefahist.bsky.social",
+      "miamix1.bsky.social",
+      "skylinesiren.bsky.social",
+      "pinkbutterflyvr.bsky.social",
       "skyblooms.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
@@ -570,7 +574,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741051286960
+    "timestamp": 1741137679127
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -621,6 +625,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "waleedtalha.bsky.social",
       "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
@@ -790,6 +795,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "waleedtalha.bsky.social",
       "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
@@ -961,7 +967,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741051286960
+    "timestamp": 1741137679126
   },
   "theyearprogress.bsky.social": {
     "followers": [
