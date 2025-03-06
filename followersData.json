@@ -298,6 +298,7 @@
       "cyberpunk.tools"
     ],
     "follows": [
+      "adrianacostapr.bsky.social",
       "ewalf.com",
       "rhyskentish.bsky.social",
       "kelianmos.bsky.social",
@@ -413,15 +414,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741137679128
+    "timestamp": 1741224099952
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "moonwoven.bsky.social",
+      "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
       "miamix1.bsky.social",
       "skylinesiren.bsky.social",
       "pinkbutterflyvr.bsky.social",
-      "skyblooms.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
@@ -437,7 +439,6 @@
       "tomkoeln.bsky.social",
       "siidorow.dev",
       "smcacademy.bsky.social",
-      "imlunahey.com",
       "hedrickart.bsky.social",
       "bruno.rocha.social",
       "rolandbrunner.bsky.social",
@@ -494,11 +495,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "moonwoven.bsky.social",
+      "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
       "miamix1.bsky.social",
       "skylinesiren.bsky.social",
       "pinkbutterflyvr.bsky.social",
-      "skyblooms.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
@@ -514,7 +516,6 @@
       "tomkoeln.bsky.social",
       "siidorow.dev",
       "smcacademy.bsky.social",
-      "imlunahey.com",
       "bruno.rocha.social",
       "hedrickart.bsky.social",
       "rolandbrunner.bsky.social",
@@ -574,7 +575,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741137679127
+    "timestamp": 1741224099951
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -625,6 +626,11 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "jerome-etienne.bsky.social",
+      "ai-tech-news.bsky.social",
+      "erenbehs262610.bsky.social",
+      "valkirilov.bsky.social",
+      "jukkisahonen.bsky.social",
       "waleedtalha.bsky.social",
       "devshorts.in",
       "majiy00.bsky.social",
@@ -795,6 +801,11 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "erenbehs262610.bsky.social",
+      "ai-tech-news.bsky.social",
+      "jerome-etienne.bsky.social",
+      "jukkisahonen.bsky.social",
+      "valkirilov.bsky.social",
       "waleedtalha.bsky.social",
       "devshorts.in",
       "majiy00.bsky.social",
@@ -967,7 +978,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741137679126
+    "timestamp": 1741224099950
   },
   "theyearprogress.bsky.social": {
     "followers": [
