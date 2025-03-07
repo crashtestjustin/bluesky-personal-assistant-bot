@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "luciaromano.bsky.social",
+      "dailyrefahist.bsky.social",
       "adrianacostapr.bsky.social",
       "alexisbouchez.com",
       "ariagarde.bsky.social",
@@ -166,7 +168,7 @@
       "ilikekillnerds.com",
       "rasulkireev.com",
       "icebearlabs.com",
-      "harpreetparmar.bsky.social",
+      "handle.invalid",
       "theyearprogress.bsky.social",
       "briacdev.bsky.social",
       "techonosophy.bsky.social",
@@ -414,14 +416,15 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741224099952
+    "timestamp": 1741310527501
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "lwrdahaagh.bsky.social",
+      "luciaromano.bsky.social",
       "moonwoven.bsky.social",
       "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
-      "miamix1.bsky.social",
       "skylinesiren.bsky.social",
       "pinkbutterflyvr.bsky.social",
       "codywiseman.bsky.social",
@@ -495,10 +498,11 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "lwrdahaagh.bsky.social",
+      "luciaromano.bsky.social",
       "moonwoven.bsky.social",
       "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
-      "miamix1.bsky.social",
       "skylinesiren.bsky.social",
       "pinkbutterflyvr.bsky.social",
       "codywiseman.bsky.social",
@@ -575,7 +579,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741224099951
+    "timestamp": 1741310527501
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -626,6 +630,11 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "oz-s.bsky.social",
+      "the-memebyss.bsky.social",
+      "brunopedro.com",
+      "curtcodeio.bsky.social",
+      "dailyrefahist.bsky.social",
       "jerome-etienne.bsky.social",
       "ai-tech-news.bsky.social",
       "erenbehs262610.bsky.social",
@@ -648,7 +657,7 @@
       "pycraftdev.bsky.social",
       "itsbehnam.dev",
       "maifowler.com",
-      "oscb.bsky.social",
+      "handle.invalid",
       "russwilcox.bsky.social",
       "alecrimi.bsky.social",
       "antoniowar.bsky.social",
@@ -801,6 +810,11 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "the-memebyss.bsky.social",
+      "oz-s.bsky.social",
+      "curtcodeio.bsky.social",
+      "brunopedro.com",
+      "dailyrefahist.bsky.social",
       "erenbehs262610.bsky.social",
       "ai-tech-news.bsky.social",
       "jerome-etienne.bsky.social",
@@ -821,7 +835,7 @@
       "expertplus.creator.blue",
       "prsnlbrandexp.bsky.social",
       "pycraftdev.bsky.social",
-      "oscb.bsky.social",
+      "handle.invalid",
       "maifowler.com",
       "itsbehnam.dev",
       "russwilcox.bsky.social",
@@ -978,7 +992,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741224099950
+    "timestamp": 1741310527500
   },
   "theyearprogress.bsky.social": {
     "followers": [
