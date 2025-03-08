@@ -69,7 +69,6 @@
       "nealriley.bsky.social",
       "caffeinemike.bsky.social",
       "happyirish.bsky.social",
-      "lovesaarahcute825.bsky.social",
       "trustworthydev.bsky.social",
       "entrepreneura.bsky.social",
       "kelianmos.bsky.social",
@@ -196,7 +195,7 @@
       "socialatm.bsky.social",
       "vinodmathew.bsky.social",
       "bestman-free46.bsky.social",
-      "backxben.bsky.social",
+      "benbackx.com",
       "gauravkanoongo.bsky.social",
       "cravanoids.bsky.social",
       "kyrre.dev",
@@ -416,7 +415,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741310527501
+    "timestamp": 1741395943227
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -579,7 +578,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741310527501
+    "timestamp": 1741395943226
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -630,6 +629,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bytevagabond.com",
+      "barbasebigodes.bsky.social",
       "oz-s.bsky.social",
       "the-memebyss.bsky.social",
       "brunopedro.com",
@@ -657,9 +658,8 @@
       "pycraftdev.bsky.social",
       "itsbehnam.dev",
       "maifowler.com",
-      "handle.invalid",
+      "oscb.bsky.social",
       "russwilcox.bsky.social",
-      "alecrimi.bsky.social",
       "antoniowar.bsky.social",
       "phen.dev",
       "jamesmillar.bsky.social",
@@ -810,6 +810,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "barbasebigodes.bsky.social",
       "the-memebyss.bsky.social",
       "oz-s.bsky.social",
       "curtcodeio.bsky.social",
@@ -835,11 +836,10 @@
       "expertplus.creator.blue",
       "prsnlbrandexp.bsky.social",
       "pycraftdev.bsky.social",
-      "handle.invalid",
+      "oscb.bsky.social",
       "maifowler.com",
       "itsbehnam.dev",
       "russwilcox.bsky.social",
-      "alecrimi.bsky.social",
       "antoniowar.bsky.social",
       "phen.dev",
       "jamesmillar.bsky.social",
@@ -992,7 +992,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741310527500
+    "timestamp": 1741395943226
   },
   "theyearprogress.bsky.social": {
     "followers": [
