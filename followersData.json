@@ -14,7 +14,6 @@
   "jde.blue": {
     "followers": [
       "luciaromano.bsky.social",
-      "dailyrefahist.bsky.social",
       "adrianacostapr.bsky.social",
       "alexisbouchez.com",
       "ariagarde.bsky.social",
@@ -415,7 +414,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741395943227
+    "timestamp": 1741482681109
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -425,7 +424,6 @@
       "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
       "skylinesiren.bsky.social",
-      "pinkbutterflyvr.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
@@ -503,7 +501,6 @@
       "adrianacostapr.bsky.social",
       "dailyrefahist.bsky.social",
       "skylinesiren.bsky.social",
-      "pinkbutterflyvr.bsky.social",
       "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
@@ -578,7 +575,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741395943226
+    "timestamp": 1741482681108
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -629,6 +626,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "timbedsole.bsky.social",
       "bytevagabond.com",
       "barbasebigodes.bsky.social",
       "oz-s.bsky.social",
@@ -810,6 +808,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "timbedsole.bsky.social",
+      "bytevagabond.com",
       "barbasebigodes.bsky.social",
       "the-memebyss.bsky.social",
       "oz-s.bsky.social",
@@ -992,7 +992,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741395943226
+    "timestamp": 1741482681108
   },
   "theyearprogress.bsky.social": {
     "followers": [
