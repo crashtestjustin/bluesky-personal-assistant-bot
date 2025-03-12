@@ -69,7 +69,6 @@
       "caffeinemike.bsky.social",
       "happyirish.bsky.social",
       "trustworthydev.bsky.social",
-      "entrepreneura.bsky.social",
       "kelianmos.bsky.social",
       "travdes.bsky.social",
       "l-m1.bsky.social",
@@ -345,7 +344,7 @@
       "jszenithly.bsky.social",
       "kedarn.bsky.social",
       "valsopi.com",
-      "timb.com",
+      "handle.invalid",
       "adamriha.com",
       "hugotions.bsky.social",
       "avfrosta.bsky.social",
@@ -414,10 +413,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741656122771
+    "timestamp": 1741742471475
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "hungscandic.xxx",
+      "mor777.bsky.social",
       "wonderingwillow.bsky.social",
       "itistherealjas.bsky.social",
       "maifowler.com",
@@ -499,6 +500,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "hungscandic.xxx",
+      "mor777.bsky.social",
       "itistherealjas.bsky.social",
       "wonderingwillow.bsky.social",
       "maifowler.com",
@@ -583,7 +586,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741656122771
+    "timestamp": 1741742471474
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -817,6 +820,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "robertfrontend.bsky.social",
       "tai2chris.bsky.social",
       "timbedsole.bsky.social",
       "bytevagabond.com",
@@ -1001,7 +1005,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741656122770
+    "timestamp": 1741742471474
   },
   "theyearprogress.bsky.social": {
     "followers": [
