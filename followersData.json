@@ -13,8 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "mangoform.bsky.social",
       "imlunahey.com",
-      "framian.fi",
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "ariagarde.bsky.social",
@@ -413,10 +413,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1741742471475
+    "timestamp": 1741828960948
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "lovecumshots.bsky.social",
+      "tom-of-ptown.bsky.social",
       "hungscandic.xxx",
       "mor777.bsky.social",
       "wonderingwillow.bsky.social",
@@ -445,7 +447,6 @@
       "siidorow.dev",
       "smcacademy.bsky.social",
       "hedrickart.bsky.social",
-      "bruno.rocha.social",
       "rolandbrunner.bsky.social",
       "technotramp.bsky.social",
       "prvnihore.bsky.social",
@@ -500,6 +501,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "lovecumshots.bsky.social",
+      "tom-of-ptown.bsky.social",
       "hungscandic.xxx",
       "mor777.bsky.social",
       "itistherealjas.bsky.social",
@@ -527,7 +530,6 @@
       "tomkoeln.bsky.social",
       "siidorow.dev",
       "smcacademy.bsky.social",
-      "bruno.rocha.social",
       "hedrickart.bsky.social",
       "rolandbrunner.bsky.social",
       "prvnihore.bsky.social",
@@ -586,7 +588,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1741742471474
+    "timestamp": 1741828960947
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -637,8 +639,10 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
-      "robertfrontend.bsky.social",
       "bytevagabond.com",
+      "mangoform.bsky.social",
+      "contentmagick.ai",
+      "robertfrontend.bsky.social",
       "tai2chris.bsky.social",
       "timbedsole.bsky.social",
       "barbasebigodes.bsky.social",
@@ -820,6 +824,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "mangoform.bsky.social",
+      "contentmagick.ai",
       "robertfrontend.bsky.social",
       "tai2chris.bsky.social",
       "timbedsole.bsky.social",
@@ -1005,7 +1011,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1741742471474
+    "timestamp": 1741828960947
   },
   "theyearprogress.bsky.social": {
     "followers": [
