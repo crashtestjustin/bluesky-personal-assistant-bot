@@ -40,7 +40,6 @@
       "codywiseman.bsky.social",
       "resistfacismnow.bsky.social",
       "rescuedoghowling.bsky.social",
-      "smaksked.bsky.social",
       "bahbilee.bsky.social",
       "urdamautern.bsky.social",
       "creativenavy.bsky.social",
@@ -415,15 +414,18 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742001644475
+    "timestamp": 1742088460615
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "nathansrealm.bsky.social",
+      "loere.needs.gifts",
+      "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
       "ryanmccrystal.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
-      "hungscandic.xxx",
+      "theviking.xxx",
       "mor777.bsky.social",
       "wonderingwillow.bsky.social",
       "itistherealjas.bsky.social",
@@ -503,11 +505,14 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "nathansrealm.bsky.social",
+      "loere.needs.gifts",
+      "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
       "ryanmccrystal.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
-      "hungscandic.xxx",
+      "theviking.xxx",
       "mor777.bsky.social",
       "itistherealjas.bsky.social",
       "wonderingwillow.bsky.social",
@@ -590,7 +595,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742001644475
+    "timestamp": 1742088460613
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -641,6 +646,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "justinborge.bsky.social",
       "questioneveryday.bsky.social",
       "bytevagabond.com",
       "mangoform.bsky.social",
@@ -759,7 +765,7 @@
       "nursingfront.com",
       "emdis.bsky.social",
       "peleliu.bsky.social",
-      "handle.invalid",
+      "codingjet.bsky.social",
       "rough.app",
       "fedyarakov.bsky.social",
       "ciarawearen.bsky.social",
@@ -827,6 +833,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "justinborge.bsky.social",
       "questioneveryday.bsky.social",
       "mangoform.bsky.social",
       "contentmagick.ai",
@@ -946,7 +953,7 @@
       "peleliu.bsky.social",
       "fedyarakov.bsky.social",
       "rough.app",
-      "handle.invalid",
+      "codingjet.bsky.social",
       "notanomad.bsky.social",
       "knsl-io.bsky.social",
       "ciarawearen.bsky.social",
@@ -1015,7 +1022,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742001644474
+    "timestamp": 1742088460612
   },
   "theyearprogress.bsky.social": {
     "followers": [
