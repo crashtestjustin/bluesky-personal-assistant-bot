@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "angusakatiger.bsky.social",
       "rwehavingfunyet.bsky.social",
       "claudiadd.bsky.social",
       "mangoform.bsky.social",
@@ -414,15 +415,15 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742088460615
+    "timestamp": 1742174671623
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "angusakatiger.bsky.social",
       "nathansrealm.bsky.social",
       "loere.needs.gifts",
       "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
-      "ryanmccrystal.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
       "theviking.xxx",
@@ -505,11 +506,11 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "angusakatiger.bsky.social",
       "nathansrealm.bsky.social",
       "loere.needs.gifts",
       "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
-      "ryanmccrystal.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
       "theviking.xxx",
@@ -595,7 +596,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742088460613
+    "timestamp": 1742174671623
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -646,6 +647,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "victorinfocus.bsky.social",
+      "alexdeb23.bsky.social",
       "justinborge.bsky.social",
       "questioneveryday.bsky.social",
       "bytevagabond.com",
@@ -833,6 +836,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "victorinfocus.bsky.social",
+      "alexdeb23.bsky.social",
       "justinborge.bsky.social",
       "questioneveryday.bsky.social",
       "mangoform.bsky.social",
@@ -1022,7 +1027,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742088460612
+    "timestamp": 1742174671622
   },
   "theyearprogress.bsky.social": {
     "followers": [
