@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "bellysaurusthejust.bsky.social",
+      "plkachu.bsky.social",
       "angusakatiger.bsky.social",
       "rwehavingfunyet.bsky.social",
       "claudiadd.bsky.social",
@@ -415,12 +417,18 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742174671623
+    "timestamp": 1742260945626
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "thomasczikmantori.bsky.social",
+      "pixelonix.bsky.social",
+      "mutantfate.bsky.social",
+      "debayoorr.bsky.social",
+      "ifuckedyr.mom",
+      "harrisonwriter.bsky.social",
+      "plkachu.bsky.social",
       "angusakatiger.bsky.social",
-      "nathansrealm.bsky.social",
       "loere.needs.gifts",
       "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
@@ -506,8 +514,14 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "pixelonix.bsky.social",
+      "thomasczikmantori.bsky.social",
+      "debayoorr.bsky.social",
+      "mutantfate.bsky.social",
+      "ifuckedyr.mom",
+      "plkachu.bsky.social",
+      "harrisonwriter.bsky.social",
       "angusakatiger.bsky.social",
-      "nathansrealm.bsky.social",
       "loere.needs.gifts",
       "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
@@ -596,7 +610,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742174671623
+    "timestamp": 1742260945625
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -649,7 +663,7 @@
     "followers": [
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
-      "justinborge.bsky.social",
+      "justinbor.ge",
       "questioneveryday.bsky.social",
       "bytevagabond.com",
       "mangoform.bsky.social",
@@ -686,7 +700,7 @@
       "itsbehnam.dev",
       "oscb.bsky.social",
       "russwilcox.bsky.social",
-      "handle.invalid",
+      "antoniowar.bsky.social",
       "phen.dev",
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
@@ -838,7 +852,7 @@
     "follows": [
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
-      "justinborge.bsky.social",
+      "justinbor.ge",
       "questioneveryday.bsky.social",
       "mangoform.bsky.social",
       "contentmagick.ai",
@@ -875,7 +889,7 @@
       "oscb.bsky.social",
       "itsbehnam.dev",
       "russwilcox.bsky.social",
-      "handle.invalid",
+      "antoniowar.bsky.social",
       "phen.dev",
       "jamesmillar.bsky.social",
       "ivanbreet.bsky.social",
@@ -1027,7 +1041,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742174671622
+    "timestamp": 1742260945624
   },
   "theyearprogress.bsky.social": {
     "followers": [
