@@ -13,6 +13,9 @@
   },
   "jde.blue": {
     "followers": [
+      "rscott1.bsky.social",
+      "frostybcommentator.bsky.social",
+      "arumar108.bsky.social",
       "bellysaurusthejust.bsky.social",
       "plkachu.bsky.social",
       "angusakatiger.bsky.social",
@@ -417,10 +420,18 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742260945626
+    "timestamp": 1742347390017
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "amiebadjie.bsky.social",
+      "timizar.bsky.social",
+      "aquaharmony.bsky.social",
+      "rws1685.bsky.social",
+      "painteroflight.bsky.social",
+      "nathansreverie.bsky.social",
+      "frostybcommentator.bsky.social",
+      "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
       "pixelonix.bsky.social",
       "mutantfate.bsky.social",
@@ -430,7 +441,6 @@
       "plkachu.bsky.social",
       "angusakatiger.bsky.social",
       "loere.needs.gifts",
-      "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
@@ -444,7 +454,6 @@
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "enesersoy.bsky.social",
-      "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
@@ -514,6 +523,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "painteroflight.bsky.social",
+      "rws1685.bsky.social",
+      "aquaharmony.bsky.social",
+      "nathansreverie.bsky.social",
+      "madeindex.bsky.social",
+      "frostybcommentator.bsky.social",
       "pixelonix.bsky.social",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
@@ -523,7 +538,6 @@
       "harrisonwriter.bsky.social",
       "angusakatiger.bsky.social",
       "loere.needs.gifts",
-      "nathansbliss.bsky.social",
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
@@ -537,7 +551,6 @@
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "enesersoy.bsky.social",
-      "codywiseman.bsky.social",
       "culdejument.bsky.social",
       "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
@@ -610,7 +623,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742260945625
+    "timestamp": 1742347390016
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -661,6 +674,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "frostybcommentator.bsky.social",
+      "madeindex.bsky.social",
+      "angusakatiger.bsky.social",
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
       "justinbor.ge",
@@ -850,6 +866,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "frostybcommentator.bsky.social",
+      "madeindex.bsky.social",
+      "angusakatiger.bsky.social",
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
       "justinbor.ge",
@@ -1041,7 +1060,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742260945624
+    "timestamp": 1742347390016
   },
   "theyearprogress.bsky.social": {
     "followers": [
