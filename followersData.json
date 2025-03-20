@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "infowealth.bsky.social",
       "rscott1.bsky.social",
       "frostybcommentator.bsky.social",
       "arumar108.bsky.social",
@@ -420,10 +421,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742347390017
+    "timestamp": 1742433715874
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "qasirzkhan.bsky.social",
       "amiebadjie.bsky.social",
       "timizar.bsky.social",
       "aquaharmony.bsky.social",
@@ -523,6 +525,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "qasirzkhan.bsky.social",
+      "timizar.bsky.social",
+      "amiebadjie.bsky.social",
       "painteroflight.bsky.social",
       "rws1685.bsky.social",
       "aquaharmony.bsky.social",
@@ -623,7 +628,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742347390016
+    "timestamp": 1742433715874
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1060,7 +1065,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742347390016
+    "timestamp": 1742433715873
   },
   "theyearprogress.bsky.social": {
     "followers": [
