@@ -421,14 +421,17 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742433715874
+    "timestamp": 1742520224920
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "techcartel.net",
+      "damilarree.bsky.social",
+      "sakuranoyume.bsky.social",
+      "nathansbluesky.bsky.social",
       "qasirzkhan.bsky.social",
       "amiebadjie.bsky.social",
       "timizar.bsky.social",
-      "aquaharmony.bsky.social",
       "rws1685.bsky.social",
       "painteroflight.bsky.social",
       "nathansreverie.bsky.social",
@@ -525,12 +528,15 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "techcartel.net",
+      "damilarree.bsky.social",
+      "nathansbluesky.bsky.social",
+      "sakuranoyume.bsky.social",
       "qasirzkhan.bsky.social",
       "timizar.bsky.social",
       "amiebadjie.bsky.social",
       "painteroflight.bsky.social",
       "rws1685.bsky.social",
-      "aquaharmony.bsky.social",
       "nathansreverie.bsky.social",
       "madeindex.bsky.social",
       "frostybcommentator.bsky.social",
@@ -628,7 +634,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742433715874
+    "timestamp": 1742520224919
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -679,6 +685,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "angusakatiger.bsky.social",
@@ -871,6 +878,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "angusakatiger.bsky.social",
@@ -1065,7 +1073,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742433715873
+    "timestamp": 1742520224919
   },
   "theyearprogress.bsky.social": {
     "followers": [
