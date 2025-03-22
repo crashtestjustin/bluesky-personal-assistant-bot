@@ -13,6 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "oldman-sac.bsky.social",
+      "nallanos.bsky.social",
       "infowealth.bsky.social",
       "rscott1.bsky.social",
       "frostybcommentator.bsky.social",
@@ -23,7 +25,6 @@
       "rwehavingfunyet.bsky.social",
       "claudiadd.bsky.social",
       "mangoform.bsky.social",
-      "imlunahey.com",
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "ariagarde.bsky.social",
@@ -421,20 +422,20 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742520224920
+    "timestamp": 1742606500481
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "lucky8.bsky.social",
+      "real2024life.bsky.social",
       "techcartel.net",
       "damilarree.bsky.social",
       "sakuranoyume.bsky.social",
-      "nathansbluesky.bsky.social",
       "qasirzkhan.bsky.social",
       "amiebadjie.bsky.social",
       "timizar.bsky.social",
       "rws1685.bsky.social",
       "painteroflight.bsky.social",
-      "nathansreverie.bsky.social",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
@@ -454,7 +455,6 @@
       "wonderingwillow.bsky.social",
       "itistherealjas.bsky.social",
       "maifowler.com",
-      "imlunahey.com",
       "alexa-kei-art.and.lgbt",
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
@@ -528,16 +528,16 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "lucky8.bsky.social",
+      "real2024life.bsky.social",
       "techcartel.net",
       "damilarree.bsky.social",
-      "nathansbluesky.bsky.social",
       "sakuranoyume.bsky.social",
       "qasirzkhan.bsky.social",
       "timizar.bsky.social",
       "amiebadjie.bsky.social",
       "painteroflight.bsky.social",
       "rws1685.bsky.social",
-      "nathansreverie.bsky.social",
       "madeindex.bsky.social",
       "frostybcommentator.bsky.social",
       "pixelonix.bsky.social",
@@ -557,7 +557,6 @@
       "itistherealjas.bsky.social",
       "wonderingwillow.bsky.social",
       "maifowler.com",
-      "imlunahey.com",
       "alexa-kei-art.and.lgbt",
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
@@ -634,7 +633,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742520224919
+    "timestamp": 1742606500480
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1073,7 +1072,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742520224919
+    "timestamp": 1742606500479
   },
   "theyearprogress.bsky.social": {
     "followers": [
