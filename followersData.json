@@ -422,10 +422,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742606500481
+    "timestamp": 1742693731870
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
       "techcartel.net",
@@ -528,6 +529,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
       "techcartel.net",
@@ -633,7 +635,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742606500480
+    "timestamp": 1742693731869
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -684,6 +686,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "ostapbrehin.com",
       "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
@@ -877,6 +880,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "ostapbrehin.com",
       "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
@@ -1072,7 +1076,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742606500479
+    "timestamp": 1742693731868
   },
   "theyearprogress.bsky.social": {
     "followers": [
