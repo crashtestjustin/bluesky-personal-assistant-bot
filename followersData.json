@@ -424,10 +424,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1742952218737
+    "timestamp": 1743038604985
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "velvet001.bsky.social",
+      "picturethispost.com",
       "stepmommysex.bsky.social",
       "jackiefreedom.bsky.social",
       "travisstreet.com",
@@ -445,13 +447,11 @@
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
       "pixelonix.bsky.social",
-      "mutantfate.bsky.social",
       "debayoorr.bsky.social",
       "ifuckedyr.mom",
       "harrisonwriter.bsky.social",
       "plkachu.bsky.social",
       "angusakatiger.bsky.social",
-      "videoxxx.bsky.social",
       "loere.needs.gifts",
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
@@ -533,6 +533,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "picturethispost.com",
+      "velvet001.bsky.social",
       "stepmommysex.bsky.social",
       "jackiefreedom.bsky.social",
       "travisstreet.com",
@@ -551,12 +553,10 @@
       "pixelonix.bsky.social",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
-      "mutantfate.bsky.social",
       "ifuckedyr.mom",
       "plkachu.bsky.social",
       "harrisonwriter.bsky.social",
       "angusakatiger.bsky.social",
-      "videoxxx.bsky.social",
       "loere.needs.gifts",
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
@@ -641,7 +641,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1742952218736
+    "timestamp": 1743038604984
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -692,6 +692,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "dinday.bsky.social",
+      "parsley197.bsky.social",
       "travisstreet.com",
       "loveree.bsky.social",
       "nxg.bsky.social",
@@ -891,6 +893,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "dinday.bsky.social",
+      "parsley197.bsky.social",
       "loveree.bsky.social",
       "travisstreet.com",
       "nxg.bsky.social",
@@ -1092,7 +1096,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1742952218735
+    "timestamp": 1743038604984
   },
   "theyearprogress.bsky.social": {
     "followers": [
