@@ -13,13 +13,18 @@
   },
   "jde.blue": {
     "followers": [
+      "notoriousron.bsky.social",
+      "liberaloldlady.bsky.social",
+      "larrish.bsky.social",
+      "stevenwild.bsky.social",
+      "dsdaman.bsky.social",
+      "lovecyclng.bsky.social",
+      "francfella.bsky.social",
       "kayleeeastman.bsky.social",
       "nxg.bsky.social",
       "dhumisani-msiska.bsky.social",
       "cnicodeme.com",
       "pycraftdev.bsky.social",
-      "oldman-sac.bsky.social",
-      "nallanos.bsky.social",
       "infowealth.bsky.social",
       "rscott1.bsky.social",
       "frostybcommentator.bsky.social",
@@ -427,10 +432,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1743125001968
+    "timestamp": 1743211358229
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "aseanbusiness13.bsky.social",
+      "drhaup.bsky.social",
+      "bajortski.net",
+      "terilg.bsky.social",
+      "letatcestmoi.bsky.social",
+      "thejenniwren.teamlh.social",
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
       "midwestmom27.bsky.social",
@@ -440,7 +451,6 @@
       "picturethispost.com",
       "stepmommysex.bsky.social",
       "jackiefreedom.bsky.social",
-      "travisstreet.com",
       "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
@@ -449,7 +459,6 @@
       "sakuranoyume.bsky.social",
       "qasirzkhan.bsky.social",
       "timizar.bsky.social",
-      "guywithnoeyebrows.bsky.social",
       "painteroflight.bsky.social",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
@@ -540,6 +549,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "drhaup.bsky.social",
+      "aseanbusiness13.bsky.social",
+      "thejenniwren.teamlh.social",
+      "letatcestmoi.bsky.social",
+      "terilg.bsky.social",
+      "bajortski.net",
       "dittie.bsky.social",
       "midwestmom27.bsky.social",
       "metalreputationfan.swifties.social",
@@ -549,7 +564,6 @@
       "velvet001.bsky.social",
       "stepmommysex.bsky.social",
       "jackiefreedom.bsky.social",
-      "travisstreet.com",
       "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
@@ -559,7 +573,6 @@
       "qasirzkhan.bsky.social",
       "timizar.bsky.social",
       "painteroflight.bsky.social",
-      "guywithnoeyebrows.bsky.social",
       "madeindex.bsky.social",
       "frostybcommentator.bsky.social",
       "pixelonix.bsky.social",
@@ -652,7 +665,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1743125001967
+    "timestamp": 1743211358228
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -703,6 +716,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "tony-m-meijer.bsky.social",
+      "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
@@ -905,6 +920,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "tony-m-meijer.bsky.social",
+      "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
@@ -1109,7 +1126,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1743125001966
+    "timestamp": 1743211358228
   },
   "theyearprogress.bsky.social": {
     "followers": [
