@@ -13,10 +13,10 @@
   },
   "jde.blue": {
     "followers": [
+      "nic-davisson.bsky.social",
+      "donadam.bsky.social",
       "notoriousron.bsky.social",
       "liberaloldlady.bsky.social",
-      "larrish.bsky.social",
-      "stevenwild.bsky.social",
       "dsdaman.bsky.social",
       "lovecyclng.bsky.social",
       "francfella.bsky.social",
@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1743211358229
+    "timestamp": 1743298651127
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -665,7 +665,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1743211358228
+    "timestamp": 1743298651126
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1126,7 +1126,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1743211358228
+    "timestamp": 1743298651125
   },
   "theyearprogress.bsky.social": {
     "followers": [
