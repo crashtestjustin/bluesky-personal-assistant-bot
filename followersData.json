@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "algocentric.bsky.social",
       "nic-davisson.bsky.social",
       "donadam.bsky.social",
       "notoriousron.bsky.social",
@@ -34,7 +35,6 @@
       "angusakatiger.bsky.social",
       "rwehavingfunyet.bsky.social",
       "claudiadd.bsky.social",
-      "mangoform.bsky.social",
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "ariagarde.bsky.social",
@@ -432,10 +432,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1743298651127
+    "timestamp": 1743384473359
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ericjhensal.bsky.social",
       "aseanbusiness13.bsky.social",
       "drhaup.bsky.social",
       "bajortski.net",
@@ -473,7 +474,6 @@
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
-      "theviking.xxx",
       "mor777.bsky.social",
       "wonderingwillow.bsky.social",
       "itistherealjas.bsky.social",
@@ -549,6 +549,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "ericjhensal.bsky.social",
       "drhaup.bsky.social",
       "aseanbusiness13.bsky.social",
       "thejenniwren.teamlh.social",
@@ -586,7 +587,6 @@
       "brocktalksff.bsky.social",
       "lovecumshots.bsky.social",
       "tom-of-ptown.bsky.social",
-      "theviking.xxx",
       "mor777.bsky.social",
       "itistherealjas.bsky.social",
       "wonderingwillow.bsky.social",
@@ -665,7 +665,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1743298651126
+    "timestamp": 1743384473358
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -716,19 +716,19 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "onehumanbryan.bsky.social",
       "tony-m-meijer.bsky.social",
       "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
-      "parsley197.bsky.social",
+      "moonood.bsky.social",
       "travisstreet.com",
       "loveree.bsky.social",
       "nxg.bsky.social",
       "infowealth.bsky.social",
       "tuomasj.bsky.social",
       "ostapbrehin.com",
-      "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "angusakatiger.bsky.social",
@@ -737,7 +737,6 @@
       "justinbor.ge",
       "questioneveryday.bsky.social",
       "bytevagabond.com",
-      "mangoform.bsky.social",
       "contentmagick.ai",
       "robertfrontend.bsky.social",
       "tai2chris.bsky.social",
@@ -920,19 +919,19 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "onehumanbryan.bsky.social",
       "tony-m-meijer.bsky.social",
       "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
-      "parsley197.bsky.social",
+      "moonood.bsky.social",
       "loveree.bsky.social",
       "travisstreet.com",
       "nxg.bsky.social",
       "infowealth.bsky.social",
       "tuomasj.bsky.social",
       "ostapbrehin.com",
-      "sandhillroadjournal.com",
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "angusakatiger.bsky.social",
@@ -940,7 +939,6 @@
       "alexdeb23.bsky.social",
       "justinbor.ge",
       "questioneveryday.bsky.social",
-      "mangoform.bsky.social",
       "contentmagick.ai",
       "robertfrontend.bsky.social",
       "tai2chris.bsky.social",
@@ -1126,7 +1124,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1743298651125
+    "timestamp": 1743384473357
   },
   "theyearprogress.bsky.social": {
     "followers": [
