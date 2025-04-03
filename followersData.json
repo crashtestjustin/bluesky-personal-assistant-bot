@@ -433,10 +433,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1743557124496
+    "timestamp": 1743643436999
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
       "aseanbusiness13.bsky.social",
       "drhaup.bsky.social",
@@ -465,7 +466,7 @@
       "frostybcommentator.bsky.social",
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
-      "pixelonix.bsky.social",
+      "pixelionix.com",
       "debayoorr.bsky.social",
       "ifuckedyr.mom",
       "harrisonwriter.bsky.social",
@@ -549,6 +550,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
       "drhaup.bsky.social",
       "aseanbusiness13.bsky.social",
@@ -576,7 +578,7 @@
       "painteroflight.bsky.social",
       "madeindex.bsky.social",
       "frostybcommentator.bsky.social",
-      "pixelonix.bsky.social",
+      "pixelionix.com",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
       "ifuckedyr.mom",
@@ -663,7 +665,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1743557124495
+    "timestamp": 1743643436998
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -756,7 +758,6 @@
       "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
-      "mor777.bsky.social",
       "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
@@ -962,7 +963,6 @@
       "devshorts.in",
       "majiy00.bsky.social",
       "jackiefreedom.bsky.social",
-      "mor777.bsky.social",
       "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
@@ -1128,7 +1128,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1743557124494
+    "timestamp": 1743643436997
   },
   "theyearprogress.bsky.social": {
     "followers": [
