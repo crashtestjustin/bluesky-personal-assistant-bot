@@ -13,8 +13,8 @@
   },
   "jde.blue": {
     "followers": [
+      "spoont51.bsky.social",
       "jamesburdge.bsky.social",
-      "paulcochrane87.bsky.social",
       "algocentric.bsky.social",
       "nic-davisson.bsky.social",
       "donadam.bsky.social",
@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1743903380729
+    "timestamp": 1743989197533
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -668,7 +668,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1743903380728
+    "timestamp": 1743989197532
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -719,6 +719,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "kiranova.bsky.social",
       "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
@@ -929,6 +930,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "kiranova.bsky.social",
+      "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
       "gagajohn.bsky.social",
@@ -1140,7 +1143,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1743903380728
+    "timestamp": 1743989197531
   },
   "theyearprogress.bsky.social": {
     "followers": [
