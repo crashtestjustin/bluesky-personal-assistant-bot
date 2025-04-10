@@ -14,7 +14,6 @@
   "jde.blue": {
     "followers": [
       "spoont51.bsky.social",
-      "jamesburdge.bsky.social",
       "algocentric.bsky.social",
       "nic-davisson.bsky.social",
       "donadam.bsky.social",
@@ -39,7 +38,6 @@
       "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "ariagarde.bsky.social",
-      "m0zstuff.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
       "madco.me",
@@ -432,11 +430,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744161893087
+    "timestamp": 1744248269621
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "avaehii.bsky.social",
+      "y-exclamationpoint.bsky.social",
+      "vickythedev.bsky.social",
       "mone22.bsky.social",
       "seattlegirlreno.bsky.social",
       "jamesburdge.bsky.social",
@@ -506,7 +505,7 @@
       "chillprov1.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
-      "scythianna.bsky.social",
+      "cherrywild.bsky.social",
       "duck-flying.bsky.social",
       "akadome0123.bsky.social",
       "iyanvelji.bsky.social",
@@ -550,7 +549,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "avaehii.bsky.social",
+      "y-exclamationpoint.bsky.social",
+      "vickythedev.bsky.social",
       "mone22.bsky.social",
       "seattlegirlreno.bsky.social",
       "jamesburdge.bsky.social",
@@ -620,6 +620,7 @@
       "ellilanderson.bsky.social",
       "sillymickel.bsky.social",
       "parispaname.bsky.social",
+      "cherrywild.bsky.social",
       "scythianna.bsky.social",
       "duck-flying.bsky.social",
       "akadome0123.bsky.social",
@@ -666,7 +667,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744161893086
+    "timestamp": 1744248269619
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -717,6 +718,10 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mikedg0.bsky.social",
+      "elschubi.bsky.social",
+      "vickythedev.bsky.social",
+      "ya712.bsky.social",
       "cooklang.bsky.social",
       "umiitkose.com",
       "susieinoz.bsky.social",
@@ -732,7 +737,7 @@
       "spreen.co",
       "zerohumanlabs.com",
       "tony-m-meijer.bsky.social",
-      "jaxonevans.bsky.social",
+      "jaxon-evans.com",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
@@ -902,7 +907,6 @@
       "bucklajean.bsky.social",
       "markos.dev",
       "fullperm.com",
-      "modou15.bsky.social",
       "ayrtongampfer.bsky.social",
       "drcigarette.bsky.social",
       "hotshotqq.bsky.social",
@@ -931,6 +935,10 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "mikedg0.bsky.social",
+      "elschubi.bsky.social",
+      "vickythedev.bsky.social",
+      "ya712.bsky.social",
       "cooklang.bsky.social",
       "susieinoz.bsky.social",
       "umiitkose.com",
@@ -946,7 +954,7 @@
       "spreen.co",
       "zerohumanlabs.com",
       "tony-m-meijer.bsky.social",
-      "jaxonevans.bsky.social",
+      "jaxon-evans.com",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
@@ -1115,7 +1123,6 @@
       "bucklajean.bsky.social",
       "aipreneur-j.bsky.social",
       "markos.dev",
-      "modou15.bsky.social",
       "fullperm.com",
       "ayrtongampfer.bsky.social",
       "redsky.pirhoo.com",
@@ -1147,7 +1154,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744161893085
+    "timestamp": 1744248269618
   },
   "theyearprogress.bsky.social": {
     "followers": [
