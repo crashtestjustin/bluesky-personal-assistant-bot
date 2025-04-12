@@ -430,15 +430,15 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744334715425
+    "timestamp": 1744420999426
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
       "mone22.bsky.social",
       "seattlegirlreno.bsky.social",
-      "jamesburdge.bsky.social",
       "papirayden.bsky.social",
       "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
@@ -548,11 +548,11 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
       "mone22.bsky.social",
       "seattlegirlreno.bsky.social",
-      "jamesburdge.bsky.social",
       "papirayden.bsky.social",
       "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
@@ -665,7 +665,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744334715424
+    "timestamp": 1744420999425
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -716,6 +716,10 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "natespilman.com",
+      "adrianacostapr.bsky.social",
+      "brandtnewlabs.com",
+      "seburbandev.bsky.social",
       "mikedg0.bsky.social",
       "elschubi.bsky.social",
       "vickythedev.bsky.social",
@@ -933,6 +937,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "brandtnewlabs.com",
+      "adrianacostapr.bsky.social",
+      "seburbandev.bsky.social",
       "mikedg0.bsky.social",
       "elschubi.bsky.social",
       "vickythedev.bsky.social",
@@ -1152,7 +1159,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744334715423
+    "timestamp": 1744420999425
   },
   "theyearprogress.bsky.social": {
     "followers": [
