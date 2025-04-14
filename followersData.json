@@ -429,10 +429,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744512744688
+    "timestamp": 1744594068617
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "hentaixd.bsky.social",
+      "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
@@ -546,6 +548,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "hentaixd.bsky.social",
+      "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
@@ -662,7 +666,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744512744687
+    "timestamp": 1744594068616
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -713,6 +717,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "hotelclash.bsky.social",
       "natespilman.com",
       "adrianacostapr.bsky.social",
       "brandtnewlabs.com",
@@ -934,6 +939,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "hotelclash.bsky.social",
       "natespilman.com",
       "brandtnewlabs.com",
       "adrianacostapr.bsky.social",
@@ -1157,7 +1163,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744512744687
+    "timestamp": 1744594068616
   },
   "theyearprogress.bsky.social": {
     "followers": [
