@@ -429,10 +429,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744594068617
+    "timestamp": 1744680432229
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "jaxon-evans.com",
+      "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
@@ -527,7 +529,7 @@
       "mlauriat.bsky.social",
       "tommasinaresist.bsky.social",
       "brewminate.bsky.social",
-      "janiceforalaska.bsky.social",
+      "janiceinanchorage.bsky.social",
       "demsoldier.bsky.social",
       "decoded.documatric.com",
       "fedyarakov.bsky.social",
@@ -548,6 +550,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
@@ -643,7 +646,7 @@
       "pawbaby2.bsky.social",
       "decoded.documatric.com",
       "demsoldier.bsky.social",
-      "janiceforalaska.bsky.social",
+      "janiceinanchorage.bsky.social",
       "brewminate.bsky.social",
       "tommasinaresist.bsky.social",
       "fedyarakov.bsky.social",
@@ -666,7 +669,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744594068616
+    "timestamp": 1744680432228
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1163,7 +1166,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744594068616
+    "timestamp": 1744680432227
   },
   "theyearprogress.bsky.social": {
     "followers": [
