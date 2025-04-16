@@ -429,10 +429,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744680432229
+    "timestamp": 1744766802044
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "stevepeltonen.com",
       "jaxon-evans.com",
       "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
@@ -550,6 +551,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "stevepeltonen.com",
+      "jaxon-evans.com",
       "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
@@ -669,7 +672,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744680432228
+    "timestamp": 1744766802043
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1166,7 +1169,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744680432227
+    "timestamp": 1744766802042
   },
   "theyearprogress.bsky.social": {
     "followers": [
