@@ -28,7 +28,7 @@
       "pycraftdev.bsky.social",
       "infowealth.bsky.social",
       "rscott1.bsky.social",
-      "frostybcommentator.bsky.social",
+      "bfrostycommentator.bsky.social",
       "arumar108.bsky.social",
       "bellysaurusthejust.bsky.social",
       "plkachu.bsky.social",
@@ -39,7 +39,7 @@
       "ariagarde.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
-      "madco.me",
+      "handle.invalid",
       "expertplus.creator.blue",
       "tyodsgn.bsky.social",
       "surajc.com",
@@ -270,7 +270,7 @@
       "bluesky-scheduler.bsky.social",
       "saadeghi.bsky.social",
       "titxo.bsky.social",
-      "arnab.metacast.app",
+      "handle.invalid",
       "jszenithly.bsky.social",
       "jelloslinger.bsky.social",
       "marcin.com.au",
@@ -429,10 +429,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744766802044
+    "timestamp": 1744853143541
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "babapranga.bsky.social",
+      "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
       "jaxon-evans.com",
       "blue-pilot.bsky.social",
@@ -467,7 +469,7 @@
       "qasirzkhan.bsky.social",
       "timizar.bsky.social",
       "painteroflight.bsky.social",
-      "frostybcommentator.bsky.social",
+      "bfrostycommentator.bsky.social",
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
@@ -551,6 +553,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "babapranga.bsky.social",
+      "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
       "jaxon-evans.com",
       "blue-pilot.bsky.social",
@@ -586,7 +590,7 @@
       "timizar.bsky.social",
       "painteroflight.bsky.social",
       "madeindex.bsky.social",
-      "frostybcommentator.bsky.social",
+      "bfrostycommentator.bsky.social",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
       "ifuckedyr.mom",
@@ -672,7 +676,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744766802043
+    "timestamp": 1744853143541
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -732,7 +736,6 @@
       "elschubi.bsky.social",
       "vickythedev.bsky.social",
       "ya712.bsky.social",
-      "cooklang.bsky.social",
       "umiitkose.com",
       "susieinoz.bsky.social",
       "kiranova.bsky.social",
@@ -758,7 +761,7 @@
       "infowealth.bsky.social",
       "tuomasj.bsky.social",
       "ostapbrehin.com",
-      "frostybcommentator.bsky.social",
+      "bfrostycommentator.bsky.social",
       "madeindex.bsky.social",
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
@@ -787,7 +790,7 @@
       "vrgz.me",
       "oliha.dev",
       "mangotabby.bsky.social",
-      "madco.me",
+      "handle.invalid",
       "chuongle.bsky.social",
       "jakemanger.bsky.social",
       "prsnlbrandexp.bsky.social",
@@ -954,7 +957,6 @@
       "elschubi.bsky.social",
       "vickythedev.bsky.social",
       "ya712.bsky.social",
-      "cooklang.bsky.social",
       "susieinoz.bsky.social",
       "umiitkose.com",
       "kiranova.bsky.social",
@@ -980,7 +982,7 @@
       "infowealth.bsky.social",
       "tuomasj.bsky.social",
       "ostapbrehin.com",
-      "frostybcommentator.bsky.social",
+      "bfrostycommentator.bsky.social",
       "madeindex.bsky.social",
       "victorinfocus.bsky.social",
       "alexdeb23.bsky.social",
@@ -1008,7 +1010,7 @@
       "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
-      "madco.me",
+      "handle.invalid",
       "mangotabby.bsky.social",
       "jakemanger.bsky.social",
       "chuongle.bsky.social",
@@ -1169,7 +1171,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744766802042
+    "timestamp": 1744853143540
   },
   "theyearprogress.bsky.social": {
     "followers": [
