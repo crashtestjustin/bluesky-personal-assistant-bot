@@ -39,7 +39,7 @@
       "ariagarde.bsky.social",
       "justalxs.bsky.social",
       "janu.lol",
-      "handle.invalid",
+      "madco.me",
       "expertplus.creator.blue",
       "tyodsgn.bsky.social",
       "surajc.com",
@@ -429,15 +429,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744853143541
+    "timestamp": 1744939491077
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
-      "jaxon-evans.com",
-      "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
@@ -556,8 +554,6 @@
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
-      "jaxon-evans.com",
-      "blue-pilot.bsky.social",
       "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
@@ -676,7 +672,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744853143541
+    "timestamp": 1744939491076
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -727,6 +723,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "chrisbeecto.bsky.social",
+      "rob2729.bsky.social",
       "hotelclash.bsky.social",
       "natespilman.com",
       "adrianacostapr.bsky.social",
@@ -790,7 +788,7 @@
       "vrgz.me",
       "oliha.dev",
       "mangotabby.bsky.social",
-      "handle.invalid",
+      "madco.me",
       "chuongle.bsky.social",
       "jakemanger.bsky.social",
       "prsnlbrandexp.bsky.social",
@@ -809,7 +807,6 @@
       "nisargk.bsky.social",
       "platypuz.bsky.social",
       "stevepeltonen.com",
-      "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
       "codywiseman.bsky.social",
@@ -948,6 +945,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "rob2729.bsky.social",
       "hotelclash.bsky.social",
       "natespilman.com",
       "brandtnewlabs.com",
@@ -1010,7 +1008,7 @@
       "jasperh8g.bsky.social",
       "vrgz.me",
       "oliha.dev",
-      "handle.invalid",
+      "madco.me",
       "mangotabby.bsky.social",
       "jakemanger.bsky.social",
       "chuongle.bsky.social",
@@ -1030,7 +1028,6 @@
       "nisargk.bsky.social",
       "platypuz.bsky.social",
       "stevepeltonen.com",
-      "guidemewithai.bsky.social",
       "dammitdougsmith.bsky.social",
       "framian.fi",
       "codywiseman.bsky.social",
@@ -1171,7 +1168,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744853143540
+    "timestamp": 1744939491075
   },
   "theyearprogress.bsky.social": {
     "followers": [
