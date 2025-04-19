@@ -270,7 +270,7 @@
       "bluesky-scheduler.bsky.social",
       "saadeghi.bsky.social",
       "titxo.bsky.social",
-      "handle.invalid",
+      "arnab.metacast.app",
       "jszenithly.bsky.social",
       "jelloslinger.bsky.social",
       "marcin.com.au",
@@ -429,10 +429,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1744939491077
+    "timestamp": 1745025751177
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "berrybabe24.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
@@ -551,6 +552,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "berrybabe24.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
@@ -672,7 +674,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1744939491076
+    "timestamp": 1745025751176
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -869,7 +871,6 @@
       "mustafacandan.bsky.social",
       "jithinjude.bsky.social",
       "iremkaraoglu.bsky.social",
-      "brunyview.bsky.social",
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
@@ -945,6 +946,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "chrisbeecto.bsky.social",
       "rob2729.bsky.social",
       "hotelclash.bsky.social",
       "natespilman.com",
@@ -1089,7 +1091,6 @@
       "jithinjude.bsky.social",
       "olof-loves-ai.bsky.social",
       "iremkaraoglu.bsky.social",
-      "brunyview.bsky.social",
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
@@ -1168,7 +1169,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1744939491075
+    "timestamp": 1745025751176
   },
   "theyearprogress.bsky.social": {
     "followers": [
