@@ -429,11 +429,10 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745025751177
+    "timestamp": 1745113141848
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "berrybabe24.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
@@ -552,7 +551,6 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "berrybabe24.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
@@ -674,7 +672,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745025751176
+    "timestamp": 1745113141848
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -725,6 +723,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "robert-watkin.bsky.social",
+      "vigorwealth.bsky.social",
       "chrisbeecto.bsky.social",
       "rob2729.bsky.social",
       "hotelclash.bsky.social",
@@ -946,6 +946,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "robert-watkin.bsky.social",
+      "vigorwealth.bsky.social",
       "chrisbeecto.bsky.social",
       "rob2729.bsky.social",
       "hotelclash.bsky.social",
@@ -1169,7 +1171,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745025751176
+    "timestamp": 1745113141847
   },
   "theyearprogress.bsky.social": {
     "followers": [
