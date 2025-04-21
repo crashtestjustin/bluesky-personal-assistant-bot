@@ -429,7 +429,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745113141848
+    "timestamp": 1745199506013
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -461,7 +461,6 @@
       "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
-      "techcartel.net",
       "damilarree.bsky.social",
       "sakuranoyume.bsky.social",
       "qasirzkhan.bsky.social",
@@ -579,7 +578,6 @@
       "imlunahey.com",
       "lucky8.bsky.social",
       "real2024life.bsky.social",
-      "techcartel.net",
       "damilarree.bsky.social",
       "sakuranoyume.bsky.social",
       "qasirzkhan.bsky.social",
@@ -672,7 +670,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745113141848
+    "timestamp": 1745199506012
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -723,6 +721,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "joeclearfix.bsky.social",
+      "myoara.bsky.social",
       "robert-watkin.bsky.social",
       "vigorwealth.bsky.social",
       "chrisbeecto.bsky.social",
@@ -905,7 +905,6 @@
       "sundip.bsky.social",
       "cyberpunk.tools",
       "czied.bsky.social",
-      "dropservicing.bsky.social",
       "downpay.bsky.social",
       "manishsaraan.bsky.social",
       "colwildotcom.bsky.social",
@@ -946,6 +945,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "joeclearfix.bsky.social",
+      "myoara.bsky.social",
       "robert-watkin.bsky.social",
       "vigorwealth.bsky.social",
       "chrisbeecto.bsky.social",
@@ -1127,7 +1128,6 @@
       "czied.bsky.social",
       "cyberpunk.tools",
       "sundip.bsky.social",
-      "dropservicing.bsky.social",
       "downpay.bsky.social",
       "manishsaraan.bsky.social",
       "colwildotcom.bsky.social",
@@ -1171,7 +1171,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745113141847
+    "timestamp": 1745199506012
   },
   "theyearprogress.bsky.social": {
     "followers": [
