@@ -428,10 +428,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745285175033
+    "timestamp": 1745371584620
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "blue-pilot.bsky.social",
+      "kerdchatcom.bsky.social",
       "politicalodor.bsky.social",
       "cherryblossom08.bsky.social",
       "babapranga.bsky.social",
@@ -551,6 +553,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "kerdchatcom.bsky.social",
+      "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "cherryblossom08.bsky.social",
       "babapranga.bsky.social",
@@ -673,7 +677,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745285175033
+    "timestamp": 1745371584619
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1176,7 +1180,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745285175032
+    "timestamp": 1745371584618
   },
   "theyearprogress.bsky.social": {
     "followers": [
