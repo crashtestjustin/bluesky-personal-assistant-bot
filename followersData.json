@@ -428,10 +428,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745371584620
+    "timestamp": 1745458003055
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
       "kerdchatcom.bsky.social",
       "politicalodor.bsky.social",
@@ -523,7 +524,6 @@
       "corrinaleeb.bsky.social",
       "whipsandbri.bsky.social",
       "farrahnaykaashlin.bsky.social",
-      "goodbinary.bsky.social",
       "jodiepp1948.bsky.social",
       "onlyonecomment.bsky.social",
       "katarinakriz.bsky.social",
@@ -553,6 +553,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "kontrazone.bsky.social",
       "kerdchatcom.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
@@ -677,7 +678,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745371584619
+    "timestamp": 1745458003054
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -728,6 +729,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "shadowink1.bsky.social",
       "aravindmetku.bsky.social",
       "joeclearfix.bsky.social",
       "myoara.bsky.social",
@@ -882,7 +884,7 @@
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
-      "handle.invalid",
+      "razvanmuntian.com",
       "itskofio.bsky.social",
       "nursingfront.com",
       "emdis.bsky.social",
@@ -953,6 +955,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "shadowink1.bsky.social",
       "aravindmetku.bsky.social",
       "joeclearfix.bsky.social",
       "myoara.bsky.social",
@@ -1107,7 +1110,7 @@
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
       "itskofio.bsky.social",
-      "handle.invalid",
+      "razvanmuntian.com",
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
@@ -1180,7 +1183,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745371584618
+    "timestamp": 1745458003054
   },
   "theyearprogress.bsky.social": {
     "followers": [
