@@ -428,19 +428,17 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745458003055
+    "timestamp": 1745544445224
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
-      "kerdchatcom.bsky.social",
       "politicalodor.bsky.social",
       "cherryblossom08.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
-      "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
@@ -457,7 +455,7 @@
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
       "midwestmom27.bsky.social",
-      "dittie.bsky.social",
+      "dittie.sheshed.rocks",
       "nxg.bsky.social",
       "picturethispost.com",
       "stepmommysex.bsky.social",
@@ -554,14 +552,12 @@
     ],
     "follows": [
       "kontrazone.bsky.social",
-      "kerdchatcom.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "cherryblossom08.bsky.social",
       "babapranga.bsky.social",
       "cosmicinvasion.bsky.social",
       "stevepeltonen.com",
-      "hentaixd.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
@@ -575,7 +571,7 @@
       "letatcestmoi.bsky.social",
       "terilg.bsky.social",
       "bajortski.net",
-      "dittie.bsky.social",
+      "dittie.sheshed.rocks",
       "midwestmom27.bsky.social",
       "metalreputationfan.swifties.social",
       "therealslimswiftie.swifties.social",
@@ -678,7 +674,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745458003054
+    "timestamp": 1745544445224
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -729,6 +725,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "marciac95.bsky.social",
       "shadowink1.bsky.social",
       "aravindmetku.bsky.social",
       "joeclearfix.bsky.social",
@@ -1183,7 +1180,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745458003054
+    "timestamp": 1745544445223
   },
   "theyearprogress.bsky.social": {
     "followers": [
