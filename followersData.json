@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "vrondak.is",
       "spoont51.bsky.social",
       "nic-davisson.bsky.social",
       "donadam.bsky.social",
@@ -428,10 +429,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745544445224
+    "timestamp": 1745630656387
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
@@ -551,6 +553,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
@@ -674,7 +677,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745544445224
+    "timestamp": 1745630656387
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -725,6 +728,10 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "lukakopajtic.com",
+      "sebastianjanas.bsky.social",
+      "vrondak.is",
+      "sakanate.bsky.social",
       "marciac95.bsky.social",
       "shadowink1.bsky.social",
       "aravindmetku.bsky.social",
@@ -952,6 +959,11 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "lukakopajtic.com",
+      "vrondak.is",
+      "sebastianjanas.bsky.social",
+      "sakanate.bsky.social",
+      "marciac95.bsky.social",
       "shadowink1.bsky.social",
       "aravindmetku.bsky.social",
       "joeclearfix.bsky.social",
@@ -1180,7 +1192,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745544445223
+    "timestamp": 1745630656386
   },
   "theyearprogress.bsky.social": {
     "followers": [
