@@ -429,10 +429,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745717969688
+    "timestamp": 1745804271810
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "kerdchat.bsky.social",
       "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
@@ -553,6 +554,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "kerdchat.bsky.social",
       "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
@@ -677,7 +679,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745717969687
+    "timestamp": 1745804271809
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -728,6 +730,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "stevexciv.com",
+      "haris.kyst.app",
       "lukakopajtic.com",
       "sebastianjanas.bsky.social",
       "vrondak.is",
@@ -959,6 +963,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "haris.kyst.app",
       "lukakopajtic.com",
       "vrondak.is",
       "sebastianjanas.bsky.social",
@@ -1192,7 +1197,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745717969686
+    "timestamp": 1745804271808
   },
   "theyearprogress.bsky.social": {
     "followers": [
