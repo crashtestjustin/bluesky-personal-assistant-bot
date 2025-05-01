@@ -431,10 +431,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1745976443803
+    "timestamp": 1746063794083
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "arminakraak.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "kerdchat.bsky.social",
       "vrondak.is",
@@ -556,6 +558,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "arminakraak.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "kerdchat.bsky.social",
       "vrondak.is",
@@ -681,7 +685,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1745976443803
+    "timestamp": 1746063794082
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -732,6 +736,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "arminakraak.bsky.social",
+      "puffinwalker.bsky.social",
+      "rasgaard.com",
       "frankcalise.bsky.social",
       "stevexciv.com",
       "haris.kyst.app",
@@ -941,7 +948,7 @@
       "ayrtongampfer.bsky.social",
       "drcigarette.bsky.social",
       "hotshotqq.bsky.social",
-      "sparkstone.bsky.social",
+      "sparkstonepdx.com",
       "sebastyijan.fi",
       "panosangel.bsky.social",
       "builditn0w.bsky.social",
@@ -966,6 +973,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "arminakraak.bsky.social",
+      "rasgaard.com",
+      "puffinwalker.bsky.social",
       "frankcalise.bsky.social",
       "stevexciv.com",
       "haris.kyst.app",
@@ -1176,7 +1186,7 @@
       "redsky.pirhoo.com",
       "drcigarette.bsky.social",
       "hotshotqq.bsky.social",
-      "sparkstone.bsky.social",
+      "sparkstonepdx.com",
       "sebastyijan.fi",
       "panosangel.bsky.social",
       "builditn0w.bsky.social",
@@ -1202,7 +1212,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1745976443802
+    "timestamp": 1746063794082
   },
   "theyearprogress.bsky.social": {
     "followers": [
