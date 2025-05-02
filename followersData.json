@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
       "sjcdems.bsky.social",
       "vrondak.is",
@@ -26,7 +27,7 @@
       "francfella.bsky.social",
       "kayleeeastman.bsky.social",
       "nxg.bsky.social",
-      "dhumisani-msiska.bsky.social",
+      "dhumisanimsiska.bsky.social",
       "cnicodeme.com",
       "pycraftdev.bsky.social",
       "infowealth.bsky.social",
@@ -431,14 +432,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746063794083
+    "timestamp": 1746149273212
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
-      "kerdchat.bsky.social",
       "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
@@ -478,7 +479,6 @@
       "bfrostycommentator.bsky.social",
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
-      "debayoorr.bsky.social",
       "ifuckedyr.mom",
       "harrisonwriter.bsky.social",
       "plkachu.bsky.social",
@@ -558,10 +558,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
-      "kerdchat.bsky.social",
       "vrondak.is",
       "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
@@ -685,7 +685,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746063794082
+    "timestamp": 1746149273211
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -736,6 +736,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "keithwhite832.bsky.social",
       "arminakraak.bsky.social",
       "puffinwalker.bsky.social",
       "rasgaard.com",
@@ -973,6 +974,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "keithwhite832.bsky.social",
       "arminakraak.bsky.social",
       "rasgaard.com",
       "puffinwalker.bsky.social",
@@ -1212,7 +1214,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746063794082
+    "timestamp": 1746149273211
   },
   "theyearprogress.bsky.social": {
     "followers": [
