@@ -432,10 +432,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746149273212
+    "timestamp": 1746235547280
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "andy.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -558,6 +559,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "andy.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -685,7 +687,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746149273211
+    "timestamp": 1746235547279
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1214,7 +1216,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746149273211
+    "timestamp": 1746235547278
   },
   "theyearprogress.bsky.social": {
     "followers": [
