@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746323027452
+    "timestamp": 1746409192586
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -687,7 +687,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746323027452
+    "timestamp": 1746409192585
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -738,6 +738,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mandasmews.bsky.social",
       "keithwhite832.bsky.social",
       "arminakraak.bsky.social",
       "puffinwalker.bsky.social",
@@ -1216,7 +1217,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746323027451
+    "timestamp": 1746409192584
   },
   "theyearprogress.bsky.social": {
     "followers": [
