@@ -432,11 +432,10 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746495395880
+    "timestamp": 1746581843977
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "andy.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -558,7 +557,6 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "andy.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -686,7 +684,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746495395879
+    "timestamp": 1746581843976
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -737,6 +735,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "williamherrera.bsky.social",
+      "kayjo.co",
       "mandasmews.bsky.social",
       "keithwhite832.bsky.social",
       "arminakraak.bsky.social",
@@ -975,6 +975,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "williamherrera.bsky.social",
+      "kayjo.co",
       "mandasmews.bsky.social",
       "keithwhite832.bsky.social",
       "arminakraak.bsky.social",
@@ -1216,7 +1218,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746495395878
+    "timestamp": 1746581843975
   },
   "theyearprogress.bsky.social": {
     "followers": [
