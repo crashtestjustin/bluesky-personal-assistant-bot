@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "followblue.app",
       "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
       "sjcdems.bsky.social",
@@ -432,16 +433,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746668264296
+    "timestamp": 1746754632999
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "followblue.app",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
-      "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "babapranga.bsky.social",
@@ -556,12 +557,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "followblue.app",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
-      "kontrazone.bsky.social",
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "babapranga.bsky.social",
@@ -682,7 +683,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746668264295
+    "timestamp": 1746754632999
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -733,6 +734,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "trajecta.bsky.social",
+      "buildwithkuro.bsky.social",
       "williamherrera.bsky.social",
       "kayjo.co",
       "mandasmews.bsky.social",
@@ -973,6 +976,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "trajecta.bsky.social",
+      "buildwithkuro.bsky.social",
       "williamherrera.bsky.social",
       "kayjo.co",
       "mandasmews.bsky.social",
@@ -1216,7 +1221,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746668264295
+    "timestamp": 1746754632998
   },
   "theyearprogress.bsky.social": {
     "followers": [
