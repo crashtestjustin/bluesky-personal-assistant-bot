@@ -433,7 +433,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746754632999
+    "timestamp": 1746840345111
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -452,7 +452,6 @@
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
-      "seattlegirlreno.bsky.social",
       "papirayden.bsky.social",
       "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
@@ -572,7 +571,6 @@
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
       "vickythedev.bsky.social",
-      "seattlegirlreno.bsky.social",
       "papirayden.bsky.social",
       "redxcountess.bsky.social",
       "ericjhensal.bsky.social",
@@ -683,7 +681,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746754632999
+    "timestamp": 1746840345110
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -734,6 +732,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "indieorca.bsky.social",
+      "rokk.bsky.social",
       "trajecta.bsky.social",
       "buildwithkuro.bsky.social",
       "williamherrera.bsky.social",
@@ -976,6 +976,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "indieorca.bsky.social",
+      "rokk.bsky.social",
       "trajecta.bsky.social",
       "buildwithkuro.bsky.social",
       "williamherrera.bsky.social",
@@ -1221,7 +1223,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746754632998
+    "timestamp": 1746840345110
   },
   "theyearprogress.bsky.social": {
     "followers": [
