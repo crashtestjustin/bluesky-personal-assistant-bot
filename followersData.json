@@ -13,7 +13,6 @@
   },
   "jde.blue": {
     "followers": [
-      "followblue.app",
       "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
       "sjcdems.bsky.social",
@@ -433,11 +432,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746840345111
+    "timestamp": 1746927718194
   },
   "dailystatsdm.bsky.social": {
     "followers": [
-      "followblue.app",
+      "midyakemal.bsky.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -556,7 +555,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
-      "followblue.app",
+      "midyakemal.bsky.social",
       "ysora.bsky.social",
       "arminakraak.bsky.social",
       "juanguzman.es",
@@ -681,7 +680,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746840345110
+    "timestamp": 1746927718193
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1223,7 +1222,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746840345110
+    "timestamp": 1746927718192
   },
   "theyearprogress.bsky.social": {
     "followers": [
