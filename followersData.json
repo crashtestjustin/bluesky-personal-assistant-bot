@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1746927718194
+    "timestamp": 1747014057794
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -680,7 +680,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1746927718193
+    "timestamp": 1747014057793
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -731,6 +731,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "lalitm.bsky.social",
+      "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
       "trajecta.bsky.social",
@@ -975,6 +977,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "lalitm.bsky.social",
+      "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
       "trajecta.bsky.social",
@@ -1222,7 +1226,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1746927718192
+    "timestamp": 1747014057792
   },
   "theyearprogress.bsky.social": {
     "followers": [
