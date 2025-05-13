@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747014057794
+    "timestamp": 1747100307564
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -538,7 +538,6 @@
       "janiceinanchorage.bsky.social",
       "demsoldier.bsky.social",
       "decoded.documatric.com",
-      "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
@@ -660,7 +659,6 @@
       "janiceinanchorage.bsky.social",
       "brewminate.bsky.social",
       "tommasinaresist.bsky.social",
-      "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
@@ -680,7 +678,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747014057793
+    "timestamp": 1747100307563
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -731,6 +729,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "heidihazelton.bsky.social",
+      "followblue.app",
       "lalitm.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
@@ -775,7 +775,7 @@
       "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
-      "gagajohn.bsky.social",
+      "handle.invalid",
       "buouui.bsky.social",
       "vladiantio.com",
       "paulcochrane87.bsky.social",
@@ -913,7 +913,6 @@
       "peleliu.bsky.social",
       "codingjet.bsky.social",
       "rough.app",
-      "fedyarakov.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
       "notanomad.bsky.social",
@@ -977,6 +976,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "followblue.app",
+      "heidihazelton.bsky.social",
       "lalitm.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
@@ -1021,7 +1022,7 @@
       "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
-      "gagajohn.bsky.social",
+      "handle.invalid",
       "buouui.bsky.social",
       "vladiantio.com",
       "paulcochrane87.bsky.social",
@@ -1157,7 +1158,6 @@
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
-      "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
       "notanomad.bsky.social",
@@ -1226,7 +1226,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747014057792
+    "timestamp": 1747100307562
   },
   "theyearprogress.bsky.social": {
     "followers": [
