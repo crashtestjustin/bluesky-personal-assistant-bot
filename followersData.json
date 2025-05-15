@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747186645718
+    "timestamp": 1747272438262
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -677,7 +677,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747186645717
+    "timestamp": 1747272438262
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -728,9 +728,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "lux.bsky.social",
       "dinday.bsky.social",
       "heidihazelton.bsky.social",
-      "followblue.app",
       "lalitm.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
@@ -975,7 +975,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
-      "followblue.app",
+      "lux.bsky.social",
       "heidihazelton.bsky.social",
       "lalitm.bsky.social",
       "obvio.bsky.social",
@@ -1225,7 +1225,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747186645716
+    "timestamp": 1747272438261
   },
   "theyearprogress.bsky.social": {
     "followers": [
