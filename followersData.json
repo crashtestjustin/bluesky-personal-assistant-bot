@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "icedaft.bsky.social",
       "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
       "sjcdems.bsky.social",
@@ -432,13 +433,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747272438262
+    "timestamp": 1747359500891
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
@@ -537,6 +537,7 @@
       "janiceinanchorage.bsky.social",
       "demsoldier.bsky.social",
       "decoded.documatric.com",
+      "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
@@ -555,7 +556,6 @@
     "follows": [
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "arminakraak.bsky.social",
       "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
@@ -658,6 +658,7 @@
       "janiceinanchorage.bsky.social",
       "brewminate.bsky.social",
       "tommasinaresist.bsky.social",
+      "fedyarakov.bsky.social",
       "robertson100.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
@@ -677,7 +678,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747272438262
+    "timestamp": 1747359500891
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -728,6 +729,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "jessecruz.dev",
       "lux.bsky.social",
       "dinday.bsky.social",
       "heidihazelton.bsky.social",
@@ -741,7 +743,6 @@
       "kayjo.co",
       "mandasmews.bsky.social",
       "keithwhite832.bsky.social",
-      "arminakraak.bsky.social",
       "puffinwalker.bsky.social",
       "rasgaard.com",
       "frankcalise.bsky.social",
@@ -912,6 +913,7 @@
       "peleliu.bsky.social",
       "codingjet.bsky.social",
       "rough.app",
+      "fedyarakov.bsky.social",
       "ciarawearen.bsky.social",
       "knsl-io.bsky.social",
       "notanomad.bsky.social",
@@ -975,6 +977,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "jessecruz.dev",
       "lux.bsky.social",
       "heidihazelton.bsky.social",
       "lalitm.bsky.social",
@@ -987,7 +990,6 @@
       "kayjo.co",
       "mandasmews.bsky.social",
       "keithwhite832.bsky.social",
-      "arminakraak.bsky.social",
       "rasgaard.com",
       "puffinwalker.bsky.social",
       "frankcalise.bsky.social",
@@ -1157,6 +1159,7 @@
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
+      "fedyarakov.bsky.social",
       "rough.app",
       "codingjet.bsky.social",
       "notanomad.bsky.social",
@@ -1225,7 +1228,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747272438261
+    "timestamp": 1747359500890
   },
   "theyearprogress.bsky.social": {
     "followers": [
