@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "travisstreet.com",
       "icedaft.bsky.social",
       "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
@@ -289,7 +290,6 @@
       "queriestation.com",
       "heyvictor.bsky.social",
       "avfrosta.bsky.social",
-      "travisstreet.com",
       "maxvdvloet.bsky.social",
       "adamel.dev",
       "dermacure.bsky.social",
@@ -433,10 +433,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747359500891
+    "timestamp": 1747445266276
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "claraqueer.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
       "juanguzman.es",
@@ -554,6 +555,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "claraqueer.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
       "juanguzman.es",
@@ -678,7 +680,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747359500891
+    "timestamp": 1747445266275
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1228,7 +1230,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747359500890
+    "timestamp": 1747445266275
   },
   "theyearprogress.bsky.social": {
     "followers": [
