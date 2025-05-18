@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "jrhizor.dev",
       "travisstreet.com",
       "icedaft.bsky.social",
       "keithwhite832.bsky.social",
@@ -433,10 +434,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747445266276
+    "timestamp": 1747532594768
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "tolaniynem.bsky.social",
+      "tomrisdemeter.bsky.social",
+      "loopuss.bsky.social",
       "claraqueer.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
@@ -555,6 +559,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "loopuss.bsky.social",
+      "tomrisdemeter.bsky.social",
+      "tolaniynem.bsky.social",
       "claraqueer.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
@@ -680,7 +687,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747445266275
+    "timestamp": 1747532594767
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -731,6 +738,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bruceoyugi.bsky.social",
+      "graphtracks.com",
+      "skymiku39.bsky.social",
       "jessecruz.dev",
       "lux.bsky.social",
       "dinday.bsky.social",
@@ -810,7 +820,6 @@
       "barbasebigodes.bsky.social",
       "oz-s.bsky.social",
       "the-memebyss.bsky.social",
-      "brunopedro.com",
       "curtcodeio.bsky.social",
       "jerome-etienne.bsky.social",
       "ai-tech-news.bsky.social",
@@ -979,6 +988,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "bruceoyugi.bsky.social",
+      "skymiku39.bsky.social",
+      "graphtracks.com",
       "jessecruz.dev",
       "lux.bsky.social",
       "heidihazelton.bsky.social",
@@ -1230,7 +1242,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747445266275
+    "timestamp": 1747532594767
   },
   "theyearprogress.bsky.social": {
     "followers": [
