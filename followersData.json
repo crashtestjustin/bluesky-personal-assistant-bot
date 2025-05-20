@@ -14,7 +14,6 @@
   "jde.blue": {
     "followers": [
       "jrhizor.dev",
-      "travisstreet.com",
       "icedaft.bsky.social",
       "keithwhite832.bsky.social",
       "lasagnalove.bsky.social",
@@ -261,7 +260,7 @@
       "akash03.bsky.social",
       "sdkysfzai.bsky.social",
       "alexi.build",
-      "javayhu.com",
+      "mksaas.me",
       "yairhaimo.bsky.social",
       "devarno.com",
       "mauriciorubio.com",
@@ -433,15 +432,20 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747618950266
+    "timestamp": 1747705155761
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ulgen70.bsky.social",
+      "birmaniac.bsky.social",
+      "theraaffee.bsky.social",
+      "charlotteengstorm.bsky.social",
       "tolaniynem.bsky.social",
       "tomrisdemeter.bsky.social",
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -556,11 +560,16 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "theraaffee.bsky.social",
+      "birmaniac.bsky.social",
+      "ulgen70.bsky.social",
+      "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
       "tomrisdemeter.bsky.social",
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -682,7 +691,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747618950265
+    "timestamp": 1747705155761
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -733,6 +742,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "hans-rv.bsky.social",
+      "fwiles.bsky.social",
       "bruceoyugi.bsky.social",
       "graphtracks.com",
       "skymiku39.bsky.social",
@@ -983,6 +994,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "hans-rv.bsky.social",
+      "fwiles.bsky.social",
       "bruceoyugi.bsky.social",
       "skymiku39.bsky.social",
       "graphtracks.com",
@@ -1237,7 +1250,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747618950264
+    "timestamp": 1747705155760
   },
   "theyearprogress.bsky.social": {
     "followers": [
