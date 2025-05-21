@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "lux.bsky.social",
       "jrhizor.dev",
       "icedaft.bsky.social",
       "keithwhite832.bsky.social",
@@ -432,10 +433,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747705155761
+    "timestamp": 1747791533957
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "kelimeoyunu.bsky.social",
       "ulgen70.bsky.social",
       "birmaniac.bsky.social",
       "theraaffee.bsky.social",
@@ -560,6 +562,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
       "birmaniac.bsky.social",
       "ulgen70.bsky.social",
@@ -691,7 +694,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747705155761
+    "timestamp": 1747791533957
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -742,6 +745,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "thehammer.dev",
       "hans-rv.bsky.social",
       "fwiles.bsky.social",
       "bruceoyugi.bsky.social",
@@ -794,7 +798,7 @@
       "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
-      "handle.invalid",
+      "gagajohn.bsky.social",
       "buouui.bsky.social",
       "vladiantio.com",
       "paulcochrane87.bsky.social",
@@ -994,6 +998,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "thehammer.dev",
       "hans-rv.bsky.social",
       "fwiles.bsky.social",
       "bruceoyugi.bsky.social",
@@ -1045,7 +1050,7 @@
       "naveendinushka.bsky.social",
       "xpodtech.bsky.social",
       "isbkch.bsky.social",
-      "handle.invalid",
+      "gagajohn.bsky.social",
       "buouui.bsky.social",
       "vladiantio.com",
       "paulcochrane87.bsky.social",
@@ -1250,7 +1255,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747705155760
+    "timestamp": 1747791533956
   },
   "theyearprogress.bsky.social": {
     "followers": [
