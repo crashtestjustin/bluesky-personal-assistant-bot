@@ -432,10 +432,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1747964279308
+    "timestamp": 1748050025022
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "iknurgenc.bsky.social",
       "mavidevrim.bsky.social",
       "kelimeoyunu.bsky.social",
       "ulgen70.bsky.social",
@@ -562,6 +563,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "iknurgenc.bsky.social",
       "mavidevrim.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
@@ -695,7 +697,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1747964279308
+    "timestamp": 1748050025021
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -746,6 +748,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "afiflaniro.bsky.social",
+      "moalh93.bsky.social",
       "nimbleengineer.bsky.social",
       "ryanthedeveloper.bsky.social",
       "isurulakmal.bsky.social",
@@ -837,7 +841,6 @@
       "curtcodeio.bsky.social",
       "jerome-etienne.bsky.social",
       "ai-tech-news.bsky.social",
-      "erenbehs262610.bsky.social",
       "valkirilov.bsky.social",
       "jukkisahonen.bsky.social",
       "waleedtalha.bsky.social",
@@ -1002,6 +1005,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "afiflaniro.bsky.social",
+      "moalh93.bsky.social",
       "nimbleengineer.bsky.social",
       "ryanthedeveloper.bsky.social",
       "isurulakmal.bsky.social",
@@ -1092,7 +1097,6 @@
       "oz-s.bsky.social",
       "curtcodeio.bsky.social",
       "brunopedro.com",
-      "erenbehs262610.bsky.social",
       "ai-tech-news.bsky.social",
       "jerome-etienne.bsky.social",
       "jukkisahonen.bsky.social",
@@ -1262,7 +1266,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1747964279307
+    "timestamp": 1748050025021
   },
   "theyearprogress.bsky.social": {
     "followers": [
