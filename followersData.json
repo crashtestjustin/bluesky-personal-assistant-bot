@@ -431,10 +431,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1748223669735
+    "timestamp": 1748309843200
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "tomrisdemeter.bsky.social",
+      "shortscars.bsky.social",
+      "mzt1.bsky.social",
       "stevepeltonen.com",
       "iknurgenc.bsky.social",
       "mavidevrim.bsky.social",
@@ -443,10 +446,10 @@
       "theraaffee.bsky.social",
       "charlotteengstorm.bsky.social",
       "tolaniynem.bsky.social",
-      "tomrisdemeter.bsky.social",
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -494,7 +497,6 @@
       "wonderingwillow.bsky.social",
       "itistherealjas.bsky.social",
       "alexa-kei-art.and.lgbt",
-      "luciaromano.bsky.social",
       "adrianacostapr.bsky.social",
       "expertplus.creator.blue",
       "elisahappylegs.bsky.social",
@@ -560,6 +562,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "shortscars.bsky.social",
+      "tomrisdemeter.bsky.social",
+      "mzt1.bsky.social",
       "iknurgenc.bsky.social",
       "mavidevrim.bsky.social",
       "kelimeoyunu.bsky.social",
@@ -567,10 +572,10 @@
       "birmaniac.bsky.social",
       "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
-      "tomrisdemeter.bsky.social",
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -692,7 +697,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1748223669734
+    "timestamp": 1748309843199
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1261,7 +1266,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1748223669733
+    "timestamp": 1748309843198
   },
   "theyearprogress.bsky.social": {
     "followers": [
