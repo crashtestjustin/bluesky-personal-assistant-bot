@@ -431,10 +431,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1749778857232
+    "timestamp": 1749865061647
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "takkunotori.bsky.social",
       "debby.blue-ocean.social",
       "brandonhilton.bsky.social",
       "luciaromano.bsky.social",
@@ -442,7 +443,7 @@
       "kingpapi.bsky.social",
       "jesuscaro.bsky.social",
       "leventmerdan.bsky.social",
-      "tomrisdemeter.bsky.social",
+      "tomriskarakam.bsky.social",
       "stevepeltonen.com",
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
@@ -567,13 +568,14 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "takkunotori.bsky.social",
       "debby.blue-ocean.social",
       "brandonhilton.bsky.social",
       "turkcum.bsky.social",
       "kingpapi.bsky.social",
       "jesuscaro.bsky.social",
       "leventmerdan.bsky.social",
-      "tomrisdemeter.bsky.social",
+      "tomriskarakam.bsky.social",
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
@@ -706,7 +708,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1749778857231
+    "timestamp": 1749865061646
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1284,7 +1286,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1749778857231
+    "timestamp": 1749865061646
   },
   "theyearprogress.bsky.social": {
     "followers": [
