@@ -431,7 +431,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1750038261583
+    "timestamp": 1750124493789
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -477,7 +477,6 @@
       "thejenniwren.teamlh.social",
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
-      "midwestmom27.bsky.social",
       "dittie.sheshed.rocks",
       "nxg.bsky.social",
       "picturethispost.com",
@@ -554,19 +553,7 @@
       "decoded.documatric.com",
       "fedyarakov.bsky.social",
       "robertson100.bsky.social",
-      "americanmanifesto.news",
-      "mago57.bsky.social",
-      "paulcochrane87.bsky.social",
-      "alprazojam.lol",
-      "ahlemmahroua.bsky.social",
-      "beasuperdad.bsky.social",
-      "joshuanoronha.bsky.social",
-      "alexi.build",
-      "builditn0w.bsky.social",
-      "theyearprogress.bsky.social",
-      "crashtestjustin.bsky.social",
-      "jde.blue",
-      "biptopposts.bsky.social"
+      "americanmanifesto.news"
     ],
     "follows": [
       "rosesandwispons.bsky.social",
@@ -609,7 +596,6 @@
       "terilg.bsky.social",
       "bajortski.net",
       "dittie.sheshed.rocks",
-      "midwestmom27.bsky.social",
       "metalreputationfan.swifties.social",
       "therealslimswiftie.swifties.social",
       "nxg.bsky.social",
@@ -710,7 +696,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1750038261582
+    "timestamp": 1750124493788
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -761,6 +747,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "therealwumpus.bsky.social",
       "plleonart.bsky.social",
       "turtal2.bsky.social",
       "raphinou.bsky.social",
@@ -886,7 +873,6 @@
       "solnic.dev",
       "nisargk.bsky.social",
       "platypuz.bsky.social",
-      "stevepeltonen.com",
       "dammitdougsmith.bsky.social",
       "framian.fi",
       "codywiseman.bsky.social",
@@ -1022,6 +1008,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "therealwumpus.bsky.social",
       "plleonart.bsky.social",
       "turtal2.bsky.social",
       "raphinou.bsky.social",
@@ -1289,7 +1276,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1750038261581
+    "timestamp": 1750124493788
   },
   "theyearprogress.bsky.social": {
     "followers": [
