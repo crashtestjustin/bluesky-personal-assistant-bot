@@ -431,13 +431,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1750383655369
+    "timestamp": 1750469931465
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
-      "solinofficial.bsky.social",
       "rosesandwispons.bsky.social",
       "takkunotori.bsky.social",
       "debby.blue-ocean.social",
@@ -448,6 +447,7 @@
       "jesuscaro.bsky.social",
       "leventmerdan.bsky.social",
       "tomriskarakam.bsky.social",
+      "mzt1.bsky.social",
       "stevepeltonen.com",
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
@@ -480,6 +480,7 @@
       "thejenniwren.teamlh.social",
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
+      "midwestmom27.bsky.social",
       "dittie.sheshed.rocks",
       "nxg.bsky.social",
       "picturethispost.com",
@@ -512,7 +513,6 @@
       "hansellsohot.bsky.social",
       "mosesg.bsky.social",
       "redwildcatx.bsky.social",
-      "candiannie.bsky.social",
       "bustydriver.bsky.social",
       "things.overlordshop.com",
       "czepalla.bsky.social",
@@ -573,7 +573,6 @@
     "follows": [
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
-      "solinofficial.bsky.social",
       "rosesandwispons.bsky.social",
       "takkunotori.bsky.social",
       "debby.blue-ocean.social",
@@ -583,6 +582,7 @@
       "jesuscaro.bsky.social",
       "leventmerdan.bsky.social",
       "tomriskarakam.bsky.social",
+      "mzt1.bsky.social",
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
@@ -614,6 +614,7 @@
       "terilg.bsky.social",
       "bajortski.net",
       "dittie.sheshed.rocks",
+      "midwestmom27.bsky.social",
       "metalreputationfan.swifties.social",
       "therealslimswiftie.swifties.social",
       "nxg.bsky.social",
@@ -714,7 +715,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1750383655369
+    "timestamp": 1750469931464
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -765,6 +766,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "widespreadmemes.bsky.social",
+      "vibecodedan.bsky.social",
       "greentea.bsky.social",
       "therealwumpus.bsky.social",
       "plleonart.bsky.social",
@@ -1027,6 +1030,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "widespreadmemes.bsky.social",
+      "vibecodedan.bsky.social",
       "greentea.bsky.social",
       "therealwumpus.bsky.social",
       "plleonart.bsky.social",
@@ -1296,7 +1301,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1750383655368
+    "timestamp": 1750469931464
   },
   "theyearprogress.bsky.social": {
     "followers": [
