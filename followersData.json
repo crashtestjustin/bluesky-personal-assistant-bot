@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "jrhizor.dev",
       "growthhackersgroup.bsky.social",
       "funnyofficegifts.com",
       "mmpvoirdire.bsky.social",
@@ -432,10 +433,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1750643238326
+    "timestamp": 1750729315296
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "mesutakcay.bsky.social",
+      "korkuyokumutvar.bsky.social",
       "growthhackersgroup.bsky.social",
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
@@ -573,6 +576,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mesutakcay.bsky.social",
+      "korkuyokumutvar.bsky.social",
       "growthhackersgroup.bsky.social",
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
@@ -718,7 +723,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1750643238325
+    "timestamp": 1750729315295
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -769,6 +774,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "thidean.bsky.social",
       "growthhackersgroup.bsky.social",
       "widespreadmemes.bsky.social",
       "vibecodedan.bsky.social",
@@ -1033,6 +1039,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "thidean.bsky.social",
       "growthhackersgroup.bsky.social",
       "widespreadmemes.bsky.social",
       "vibecodedan.bsky.social",
@@ -1305,7 +1312,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1750643238324
+    "timestamp": 1750729315294
   },
   "theyearprogress.bsky.social": {
     "followers": [
