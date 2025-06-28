@@ -47,7 +47,7 @@
       "adrianacostapr.bsky.social",
       "ariagarde.bsky.social",
       "justalxs.bsky.social",
-      "janu.lol",
+      "handle.invalid",
       "madco.me",
       "expertplus.creator.blue",
       "tyodsgn.bsky.social",
@@ -408,7 +408,7 @@
       "tsanlis.bsky.social",
       "builditn0w.bsky.social",
       "andrei.blue",
-      "janu.lol",
+      "handle.invalid",
       "dmytrokrasun.com",
       "justinjackson.ca",
       "jasonleow.bsky.social",
@@ -432,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1750988543423
+    "timestamp": 1751074711888
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -456,7 +456,6 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "ulgen70.bsky.social",
-      "birmaniac.bsky.social",
       "theraaffee.bsky.social",
       "charlotteengstorm.bsky.social",
       "tolaniynem.bsky.social",
@@ -469,7 +468,7 @@
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "jacksiparov.bsky.social",
-      "cosmicinvasion.bsky.social",
+      "neoszonehq.bsky.social",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
       "y-exclamationpoint.bsky.social",
@@ -593,7 +592,6 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
-      "birmaniac.bsky.social",
       "ulgen70.bsky.social",
       "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
@@ -606,7 +604,7 @@
       "blue-pilot.bsky.social",
       "politicalodor.bsky.social",
       "jacksiparov.bsky.social",
-      "cosmicinvasion.bsky.social",
+      "neoszonehq.bsky.social",
       "stevepeltonen.com",
       "naughtybutnicexx.bsky.social",
       "lukeslewis.bsky.social",
@@ -722,7 +720,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1750988543422
+    "timestamp": 1751074711887
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -773,6 +771,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bvccaneer.bsky.social",
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
       "thidean.bsky.social",
@@ -917,7 +916,7 @@
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
-      "coffeebit.bsky.social",
+      "stillspace.bsky.social",
       "lbwtest.com",
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
@@ -1040,6 +1039,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "bvccaneer.bsky.social",
+      "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
       "thidean.bsky.social",
       "growthhackersgroup.bsky.social",
@@ -1188,7 +1189,7 @@
       "akadome0123.bsky.social",
       "georgejose.bsky.social",
       "spencerek.bsky.social",
-      "coffeebit.bsky.social",
+      "stillspace.bsky.social",
       "lbwtest.com",
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
@@ -1314,7 +1315,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1750988543421
+    "timestamp": 1751074711886
   },
   "theyearprogress.bsky.social": {
     "followers": [
