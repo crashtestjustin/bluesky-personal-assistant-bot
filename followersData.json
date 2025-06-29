@@ -432,10 +432,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751074711888
+    "timestamp": 1751161856011
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "hayalciatilla.bsky.social",
+      "tsert.bsky.social",
+      "tayecealazkaman.bsky.social",
+      "amadeus0727.bsky.social",
+      "boarkkhatun.bsky.social",
+      "mexbeyret.bsky.social",
       "mesutakcay.bsky.social",
       "korkuyokumutvar.bsky.social",
       "growthhackersgroup.bsky.social",
@@ -456,6 +462,7 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "ulgen70.bsky.social",
+      "birmaniac.bsky.social",
       "theraaffee.bsky.social",
       "charlotteengstorm.bsky.social",
       "tolaniynem.bsky.social",
@@ -561,7 +568,6 @@
       "robertson100.bsky.social",
       "americanmanifesto.news",
       "mago57.bsky.social",
-      "paulcochrane87.bsky.social",
       "alprazojam.lol",
       "ahlemmahroua.bsky.social",
       "beasuperdad.bsky.social",
@@ -574,6 +580,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mexbeyret.bsky.social",
+      "boarkkhatun.bsky.social",
+      "amadeus0727.bsky.social",
+      "tayecealazkaman.bsky.social",
+      "tsert.bsky.social",
+      "hayalciatilla.bsky.social",
       "mesutakcay.bsky.social",
       "korkuyokumutvar.bsky.social",
       "growthhackersgroup.bsky.social",
@@ -592,6 +604,7 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
+      "birmaniac.bsky.social",
       "ulgen70.bsky.social",
       "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
@@ -720,7 +733,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751074711887
+    "timestamp": 1751161856010
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1315,7 +1328,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751074711886
+    "timestamp": 1751161856010
   },
   "theyearprogress.bsky.social": {
     "followers": [
