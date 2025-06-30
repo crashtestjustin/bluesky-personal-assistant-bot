@@ -432,10 +432,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751161856011
+    "timestamp": 1751248011071
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "punktoady.bsky.social",
+      "elfbetcom.bsky.social",
+      "veriylekonusan.bsky.social",
+      "feetlove1973.bsky.social",
+      "turkiyeanalisti.bsky.social",
+      "gundemakadem.bsky.social",
       "hayalciatilla.bsky.social",
       "tsert.bsky.social",
       "tayecealazkaman.bsky.social",
@@ -580,6 +586,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "punktoady.bsky.social",
+      "feetlove1973.bsky.social",
+      "veriylekonusan.bsky.social",
+      "elfbetcom.bsky.social",
+      "gundemakadem.bsky.social",
+      "turkiyeanalisti.bsky.social",
       "mexbeyret.bsky.social",
       "boarkkhatun.bsky.social",
       "amadeus0727.bsky.social",
@@ -733,7 +745,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751161856010
+    "timestamp": 1751248011070
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -784,6 +796,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "usetomas.com",
+      "ashishyadav1198.bsky.social",
       "bvccaneer.bsky.social",
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
@@ -1052,6 +1066,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "ashishyadav1198.bsky.social",
+      "usetomas.com",
       "bvccaneer.bsky.social",
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
@@ -1328,7 +1344,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751161856010
+    "timestamp": 1751248011069
   },
   "theyearprogress.bsky.social": {
     "followers": [
