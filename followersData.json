@@ -432,10 +432,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751248011071
+    "timestamp": 1751334725744
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "francasasupilott.bsky.social",
+      "shyriginadi.bsky.social",
+      "yorumbilimci.bsky.social",
+      "dailyfun.bsky.social",
       "punktoady.bsky.social",
       "elfbetcom.bsky.social",
       "veriylekonusan.bsky.social",
@@ -456,7 +460,6 @@
       "rosesandwispons.bsky.social",
       "takkunotori.bsky.social",
       "debby.blue-ocean.social",
-      "brandonhilton.bsky.social",
       "luciaromano.bsky.social",
       "turkcum.bsky.social",
       "kingpapi.bsky.social",
@@ -475,7 +478,6 @@
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -586,6 +588,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "francasasupilott.bsky.social",
+      "shyriginadi.bsky.social",
+      "yorumbilimci.bsky.social",
+      "dailyfun.bsky.social",
       "punktoady.bsky.social",
       "feetlove1973.bsky.social",
       "veriylekonusan.bsky.social",
@@ -606,7 +612,6 @@
       "rosesandwispons.bsky.social",
       "takkunotori.bsky.social",
       "debby.blue-ocean.social",
-      "brandonhilton.bsky.social",
       "turkcum.bsky.social",
       "kingpapi.bsky.social",
       "jesuscaro.bsky.social",
@@ -623,7 +628,6 @@
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -745,7 +749,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751248011070
+    "timestamp": 1751334725743
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -796,6 +800,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "cfa.bsky.social",
       "usetomas.com",
       "ashishyadav1198.bsky.social",
       "bvccaneer.bsky.social",
@@ -1066,6 +1071,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "cfa.bsky.social",
       "ashishyadav1198.bsky.social",
       "usetomas.com",
       "bvccaneer.bsky.social",
@@ -1344,7 +1350,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751248011069
+    "timestamp": 1751334725743
   },
   "theyearprogress.bsky.social": {
     "followers": [
