@@ -14,7 +14,6 @@
   "jde.blue": {
     "followers": [
       "jrhizor.dev",
-      "growthhackersgroup.bsky.social",
       "funnyofficegifts.com",
       "mmpvoirdire.bsky.social",
       "lux.bsky.social",
@@ -432,10 +431,17 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751334725744
+    "timestamp": 1751420514349
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "gunlukcozumleme.bsky.social",
+      "artofthemale.bsky.social",
+      "hocadanyorum.bsky.social",
+      "yumi-beautiful.bsky.social",
+      "livenude.bsky.social",
+      "feetlove1973.bsky.social",
+      "louisshalako.bsky.social",
       "francasasupilott.bsky.social",
       "shyriginadi.bsky.social",
       "yorumbilimci.bsky.social",
@@ -443,7 +449,6 @@
       "punktoady.bsky.social",
       "elfbetcom.bsky.social",
       "veriylekonusan.bsky.social",
-      "feetlove1973.bsky.social",
       "turkiyeanalisti.bsky.social",
       "gundemakadem.bsky.social",
       "hayalciatilla.bsky.social",
@@ -588,6 +593,12 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "artofthemale.bsky.social",
+      "gunlukcozumleme.bsky.social",
+      "yumi-beautiful.bsky.social",
+      "hocadanyorum.bsky.social",
+      "louisshalako.bsky.social",
+      "livenude.bsky.social",
       "francasasupilott.bsky.social",
       "shyriginadi.bsky.social",
       "yorumbilimci.bsky.social",
@@ -749,7 +760,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751334725743
+    "timestamp": 1751420514348
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1350,7 +1361,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751334725743
+    "timestamp": 1751420514348
   },
   "theyearprogress.bsky.social": {
     "followers": [
