@@ -431,10 +431,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751420514349
+    "timestamp": 1751506924096
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "e-fx.bsky.social",
+      "profbakisi.bsky.social",
+      "profanadolu.bsky.social",
+      "analizhocasi.bsky.social",
       "gunlukcozumleme.bsky.social",
       "artofthemale.bsky.social",
       "hocadanyorum.bsky.social",
@@ -483,6 +487,7 @@
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -593,6 +598,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "profbakisi.bsky.social",
+      "e-fx.bsky.social",
+      "profanadolu.bsky.social",
+      "analizhocasi.bsky.social",
       "artofthemale.bsky.social",
       "gunlukcozumleme.bsky.social",
       "yumi-beautiful.bsky.social",
@@ -639,6 +648,7 @@
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -760,7 +770,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751420514348
+    "timestamp": 1751506924095
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -811,6 +821,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "siddai.bsky.social",
+      "aymnab.bsky.social",
       "cfa.bsky.social",
       "usetomas.com",
       "ashishyadav1198.bsky.social",
@@ -1082,6 +1094,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "aymnab.bsky.social",
       "cfa.bsky.social",
       "ashishyadav1198.bsky.social",
       "usetomas.com",
@@ -1361,7 +1374,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751420514348
+    "timestamp": 1751506924094
   },
   "theyearprogress.bsky.social": {
     "followers": [
