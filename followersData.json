@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "growthhackersgroup.bsky.social",
       "jrhizor.dev",
       "funnyofficegifts.com",
       "mmpvoirdire.bsky.social",
@@ -160,7 +161,7 @@
       "builditn0w.bsky.social",
       "arnaud-scenius.bsky.social",
       "mycolaos.bsky.social",
-      "handle.invalid",
+      "bradyhawkins.dev",
       "apsquared.bsky.social",
       "notalenanot.bsky.social",
       "fractionalteams.bsky.social",
@@ -431,7 +432,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751506924096
+    "timestamp": 1751593291933
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -446,8 +447,6 @@
       "livenude.bsky.social",
       "feetlove1973.bsky.social",
       "louisshalako.bsky.social",
-      "francasasupilott.bsky.social",
-      "shyriginadi.bsky.social",
       "yorumbilimci.bsky.social",
       "dailyfun.bsky.social",
       "punktoady.bsky.social",
@@ -608,8 +607,6 @@
       "hocadanyorum.bsky.social",
       "louisshalako.bsky.social",
       "livenude.bsky.social",
-      "francasasupilott.bsky.social",
-      "shyriginadi.bsky.social",
       "yorumbilimci.bsky.social",
       "dailyfun.bsky.social",
       "punktoady.bsky.social",
@@ -770,7 +767,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751506924095
+    "timestamp": 1751593291933
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -821,6 +818,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "boostblue.bsky.social",
       "siddai.bsky.social",
       "aymnab.bsky.social",
       "cfa.bsky.social",
@@ -1074,7 +1072,7 @@
       "panosangel.bsky.social",
       "builditn0w.bsky.social",
       "apsquared.bsky.social",
-      "handle.invalid",
+      "bradyhawkins.dev",
       "mainguyen.bsky.social",
       "alexi.build",
       "chenglonglu.bsky.social",
@@ -1094,6 +1092,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "siddai.bsky.social",
+      "boostblue.bsky.social",
       "aymnab.bsky.social",
       "cfa.bsky.social",
       "ashishyadav1198.bsky.social",
@@ -1353,7 +1353,7 @@
       "panosangel.bsky.social",
       "builditn0w.bsky.social",
       "apsquared.bsky.social",
-      "handle.invalid",
+      "bradyhawkins.dev",
       "mainguyen.bsky.social",
       "alexi.build",
       "chenglonglu.bsky.social",
@@ -1374,7 +1374,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751506924094
+    "timestamp": 1751593291932
   },
   "theyearprogress.bsky.social": {
     "followers": [
