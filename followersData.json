@@ -432,10 +432,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751593291933
+    "timestamp": 1751679491798
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "filmcia.bsky.social",
+      "anadolucikarim.bsky.social",
       "e-fx.bsky.social",
       "profbakisi.bsky.social",
       "profanadolu.bsky.social",
@@ -504,7 +506,6 @@
       "bajortski.net",
       "terilg.bsky.social",
       "letatcestmoi.bsky.social",
-      "thejenniwren.teamlh.social",
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
       "midwestmom27.bsky.social",
@@ -597,6 +598,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "anadolucikarim.bsky.social",
+      "filmcia.bsky.social",
       "profbakisi.bsky.social",
       "e-fx.bsky.social",
       "profanadolu.bsky.social",
@@ -767,7 +770,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751593291933
+    "timestamp": 1751679491797
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1374,7 +1377,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751593291932
+    "timestamp": 1751679491796
   },
   "theyearprogress.bsky.social": {
     "followers": [
