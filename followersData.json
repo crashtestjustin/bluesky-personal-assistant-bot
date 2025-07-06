@@ -432,10 +432,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1751679491798
+    "timestamp": 1751766572301
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "mmr3cords.bsky.social",
+      "mergok.bsky.social",
       "filmcia.bsky.social",
       "anadolucikarim.bsky.social",
       "e-fx.bsky.social",
@@ -598,6 +600,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "mmr3cords.bsky.social",
+      "mergok.bsky.social",
       "anadolucikarim.bsky.social",
       "filmcia.bsky.social",
       "profbakisi.bsky.social",
@@ -770,7 +774,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1751679491797
+    "timestamp": 1751766572300
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -821,6 +825,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bidhi.bsky.social",
+      "kevcodes.bsky.social",
       "boostblue.bsky.social",
       "siddai.bsky.social",
       "aymnab.bsky.social",
@@ -1095,6 +1101,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "bidhi.bsky.social",
+      "kevcodes.bsky.social",
       "siddai.bsky.social",
       "boostblue.bsky.social",
       "aymnab.bsky.social",
@@ -1377,7 +1385,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1751679491796
+    "timestamp": 1751766572300
   },
   "theyearprogress.bsky.social": {
     "followers": [
