@@ -433,10 +433,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752111834792
+    "timestamp": 1752198305745
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "yorumdaprof.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
       "filmcia.bsky.social",
@@ -599,6 +600,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "yorumdaprof.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
       "anadolucikarim.bsky.social",
@@ -772,7 +774,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752111834791
+    "timestamp": 1752198305744
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -823,6 +825,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "volks-pmp.bsky.social",
       "xiongchun.bsky.social",
       "buildinganchor.bsky.social",
       "andriak.com",
@@ -1103,6 +1106,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "volks-pmp.bsky.social",
       "buildinganchor.bsky.social",
       "xiongchun.bsky.social",
       "andriak.com",
@@ -1391,7 +1395,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752111834791
+    "timestamp": 1752198305744
   },
   "theyearprogress.bsky.social": {
     "followers": [
