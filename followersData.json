@@ -434,10 +434,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752284799886
+    "timestamp": 1752371648487
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "zihninkaydi.bsky.social",
+      "knittingknots.bsky.social",
       "yorumdaprof.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
@@ -601,6 +603,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "knittingknots.bsky.social",
+      "zihninkaydi.bsky.social",
       "yorumdaprof.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
@@ -775,7 +779,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752284799885
+    "timestamp": 1752371648486
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1396,7 +1400,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752284799884
+    "timestamp": 1752371648485
   },
   "theyearprogress.bsky.social": {
     "followers": [
