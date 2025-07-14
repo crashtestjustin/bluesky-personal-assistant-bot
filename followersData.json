@@ -434,7 +434,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752371648487
+    "timestamp": 1752457792093
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -779,7 +779,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752371648486
+    "timestamp": 1752457792092
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -830,6 +830,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "soundsafari.bsky.social",
       "volks-pmp.bsky.social",
       "xiongchun.bsky.social",
       "buildinganchor.bsky.social",
@@ -1400,7 +1401,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752371648485
+    "timestamp": 1752457792092
   },
   "theyearprogress.bsky.social": {
     "followers": [
