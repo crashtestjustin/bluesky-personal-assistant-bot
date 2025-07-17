@@ -434,10 +434,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752630407937
+    "timestamp": 1752716862973
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "armatofu.bsky.social",
+      "dahikafalar.bsky.social",
       "kuzeyimkaraca.bsky.social",
       "drhaup.bsky.social",
       "zihninkaydi.bsky.social",
@@ -604,6 +606,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "armatofu.bsky.social",
+      "dahikafalar.bsky.social",
       "kuzeyimkaraca.bsky.social",
       "knittingknots.bsky.social",
       "zihninkaydi.bsky.social",
@@ -781,7 +785,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752630407937
+    "timestamp": 1752716862972
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -832,6 +836,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "seqre.dev",
       "nick-skriabin.bsky.social",
       "travisstreet.com",
       "dariotordoni.bsky.social",
@@ -1116,6 +1121,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "seqre.dev",
+      "nick-skriabin.bsky.social",
       "dariotordoni.bsky.social",
       "soundsafari.bsky.social",
       "volks-pmp.bsky.social",
@@ -1407,7 +1414,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752630407936
+    "timestamp": 1752716862971
   },
   "theyearprogress.bsky.social": {
     "followers": [
