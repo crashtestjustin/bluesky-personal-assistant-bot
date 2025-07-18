@@ -434,10 +434,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752716862973
+    "timestamp": 1752803335010
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "itistherealjas.bsky.social",
       "armatofu.bsky.social",
       "dahikafalar.bsky.social",
       "kuzeyimkaraca.bsky.social",
@@ -541,7 +542,6 @@
       "tom-of-ptown.bsky.social",
       "mor777.bsky.social",
       "wonderingwillow.bsky.social",
-      "itistherealjas.bsky.social",
       "alexa-kei-art.and.lgbt",
       "adrianacostapr.bsky.social",
       "expertplus.creator.blue",
@@ -785,7 +785,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752716862972
+    "timestamp": 1752803335010
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -884,7 +884,7 @@
       "lux.bsky.social",
       "dinday.bsky.social",
       "heidihazelton.bsky.social",
-      "lalitm.bsky.social",
+      "interaktt.com",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1167,7 +1167,7 @@
       "jessecruz.dev",
       "lux.bsky.social",
       "heidihazelton.bsky.social",
-      "lalitm.bsky.social",
+      "interaktt.com",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1414,7 +1414,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752716862971
+    "timestamp": 1752803335009
   },
   "theyearprogress.bsky.social": {
     "followers": [
