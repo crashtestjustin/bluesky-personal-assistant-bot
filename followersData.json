@@ -434,10 +434,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752803335010
+    "timestamp": 1752889430721
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "takkunotori.bsky.social",
       "itistherealjas.bsky.social",
       "armatofu.bsky.social",
       "dahikafalar.bsky.social",
@@ -479,7 +480,6 @@
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
       "rosesandwispons.bsky.social",
-      "takkunotori.bsky.social",
       "debby.blue-ocean.social",
       "luciaromano.bsky.social",
       "turkcum.bsky.social",
@@ -517,7 +517,6 @@
       "letatcestmoi.bsky.social",
       "therealslimswiftie.swifties.social",
       "metalreputationfan.swifties.social",
-      "midwestmom27.bsky.social",
       "dittie.sheshed.rocks",
       "nxg.bsky.social",
       "picturethispost.com",
@@ -684,7 +683,6 @@
       "terilg.bsky.social",
       "bajortski.net",
       "dittie.sheshed.rocks",
-      "midwestmom27.bsky.social",
       "metalreputationfan.swifties.social",
       "therealslimswiftie.swifties.social",
       "nxg.bsky.social",
@@ -785,7 +783,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752803335010
+    "timestamp": 1752889430720
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -884,7 +882,7 @@
       "lux.bsky.social",
       "dinday.bsky.social",
       "heidihazelton.bsky.social",
-      "interaktt.com",
+      "handle.invalid",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1167,7 +1165,7 @@
       "jessecruz.dev",
       "lux.bsky.social",
       "heidihazelton.bsky.social",
-      "interaktt.com",
+      "handle.invalid",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1414,7 +1412,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752803335009
+    "timestamp": 1752889430719
   },
   "theyearprogress.bsky.social": {
     "followers": [
