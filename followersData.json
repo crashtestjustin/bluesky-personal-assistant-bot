@@ -434,7 +434,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1752889430721
+    "timestamp": 1752976536820
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -552,7 +552,6 @@
       "things.overlordshop.com",
       "czepalla.bsky.social",
       "tomkoeln.bsky.social",
-      "siidorow.dev",
       "smcacademy.bsky.social",
       "hedrickart.bsky.social",
       "rolandbrunner.bsky.social",
@@ -783,7 +782,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1752889430720
+    "timestamp": 1752976536820
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -834,6 +833,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "bartblast.com",
       "seqre.dev",
       "nick-skriabin.bsky.social",
       "travisstreet.com",
@@ -882,7 +882,7 @@
       "lux.bsky.social",
       "dinday.bsky.social",
       "heidihazelton.bsky.social",
-      "handle.invalid",
+      "lalitt.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1119,6 +1119,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "bartblast.com",
       "seqre.dev",
       "nick-skriabin.bsky.social",
       "dariotordoni.bsky.social",
@@ -1165,7 +1166,7 @@
       "jessecruz.dev",
       "lux.bsky.social",
       "heidihazelton.bsky.social",
-      "handle.invalid",
+      "lalitt.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
       "rokk.bsky.social",
@@ -1412,7 +1413,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1752889430719
+    "timestamp": 1752976536819
   },
   "theyearprogress.bsky.social": {
     "followers": [
