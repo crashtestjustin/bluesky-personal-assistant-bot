@@ -434,7 +434,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753062788184
+    "timestamp": 1753148886226
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -784,7 +784,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753062788183
+    "timestamp": 1753148886225
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -835,6 +835,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "digiwares.bsky.social",
+      "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
       "bartblast.com",
       "seqre.dev",
@@ -1122,6 +1124,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "digiwares.bsky.social",
+      "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
       "bartblast.com",
       "seqre.dev",
@@ -1417,7 +1421,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753062788183
+    "timestamp": 1753148886224
   },
   "theyearprogress.bsky.social": {
     "followers": [
