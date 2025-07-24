@@ -434,10 +434,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753235342802
+    "timestamp": 1753321682121
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "yunusgokkurt.bsky.social",
       "xbox720conceptimg.bsky.social",
       "takkunotori.bsky.social",
       "itistherealjas.bsky.social",
@@ -605,6 +606,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "yunusgokkurt.bsky.social",
       "xbox720conceptimg.bsky.social",
       "armatofu.bsky.social",
       "dahikafalar.bsky.social",
@@ -784,7 +786,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753235342801
+    "timestamp": 1753321682121
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -835,6 +837,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "en0ne.bsky.social",
       "digiwares.bsky.social",
       "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
@@ -1124,6 +1127,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "en0ne.bsky.social",
       "digiwares.bsky.social",
       "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
@@ -1421,7 +1425,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753235342800
+    "timestamp": 1753321682120
   },
   "theyearprogress.bsky.social": {
     "followers": [
