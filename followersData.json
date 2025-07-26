@@ -16,7 +16,6 @@
       "en0ne.bsky.social",
       "travisstreet.com",
       "graphtracks.com",
-      "growthhackersgroup.bsky.social",
       "jrhizor.dev",
       "funnyofficegifts.bsky.social",
       "mmpvoirdire.bsky.social",
@@ -434,10 +433,14 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753408061530
+    "timestamp": 1753494288463
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "812farms.bsky.social",
+      "missmami91xx.bsky.social",
+      "nedaanedaa88.bsky.social",
+      "atamoguzkagan.bsky.social",
       "yunusgokkurt.bsky.social",
       "xbox720conceptimg.bsky.social",
       "takkunotori.bsky.social",
@@ -500,7 +503,6 @@
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -535,6 +537,7 @@
       "knightlyvalor.bsky.social",
       "madeindex.bsky.social",
       "thomasczikmantori.bsky.social",
+      "ifuckedyr.mom",
       "harrisonwriter.bsky.social",
       "plkachu.bsky.social",
       "loere.needs.gifts",
@@ -606,6 +609,10 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "812farms.bsky.social",
+      "nedaanedaa88.bsky.social",
+      "missmami91xx.bsky.social",
+      "atamoguzkagan.bsky.social",
       "yunusgokkurt.bsky.social",
       "xbox720conceptimg.bsky.social",
       "armatofu.bsky.social",
@@ -665,7 +672,6 @@
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juanguzman.es",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -705,6 +711,7 @@
       "knightlyvalor.bsky.social",
       "thomasczikmantori.bsky.social",
       "debayoorr.bsky.social",
+      "ifuckedyr.mom",
       "plkachu.bsky.social",
       "harrisonwriter.bsky.social",
       "loere.needs.gifts",
@@ -786,7 +793,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753408061529
+    "timestamp": 1753494288462
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -965,6 +972,7 @@
       "curtcodeio.bsky.social",
       "jerome-etienne.bsky.social",
       "ai-tech-news.bsky.social",
+      "sarituborgg.bsky.social",
       "valkirilov.bsky.social",
       "jukkisahonen.bsky.social",
       "waleedtalha.bsky.social",
@@ -1256,6 +1264,7 @@
       "oz-s.bsky.social",
       "curtcodeio.bsky.social",
       "brunopedro.com",
+      "sarituborgg.bsky.social",
       "ai-tech-news.bsky.social",
       "jerome-etienne.bsky.social",
       "jukkisahonen.bsky.social",
@@ -1425,7 +1434,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753408061528
+    "timestamp": 1753494288462
   },
   "theyearprogress.bsky.social": {
     "followers": [
