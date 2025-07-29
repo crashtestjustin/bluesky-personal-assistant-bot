@@ -433,10 +433,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753667666664
+    "timestamp": 1753754424583
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "sarituborgg.bsky.social",
+      "adanalikemalist.bsky.social",
       "812farms.bsky.social",
       "missmami91xx.bsky.social",
       "nedaanedaa88.bsky.social",
@@ -449,30 +451,18 @@
       "dahikafalar.bsky.social",
       "kuzeyimkaraca.bsky.social",
       "drhaup.bsky.social",
-      "balcabelen.bsky.social",
       "knittingknots.bsky.social",
-      "candancihan.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
       "filmcia.bsky.social",
-      "deryanurduygu.bsky.social",
       "e-fx.bsky.social",
-      "cahidecankut.bsky.social",
-      "asudeajda.bsky.social",
-      "acelyaaktay.bsky.social",
-      "dilekdidar.bsky.social",
       "artofthemale.bsky.social",
-      "ahucanaday.bsky.social",
       "livenude.bsky.social",
       "feetlove1973.bsky.social",
       "louisshalako.bsky.social",
-      "dilaydevin.bsky.social",
       "dailyfun.bsky.social",
       "punktoady.bsky.social",
       "elfbetcom.bsky.social",
-      "defnedilseren.bsky.social",
-      "behiyebelde.bsky.social",
-      "ahsenatasen.bsky.social",
       "hayalciatilla.bsky.social",
       "tsert.bsky.social",
       "tayecealazkaman.bsky.social",
@@ -610,6 +600,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "sarituborgg.bsky.social",
+      "adanalikemalist.bsky.social",
       "812farms.bsky.social",
       "nedaanedaa88.bsky.social",
       "missmami91xx.bsky.social",
@@ -620,29 +612,17 @@
       "dahikafalar.bsky.social",
       "kuzeyimkaraca.bsky.social",
       "knittingknots.bsky.social",
-      "balcabelen.bsky.social",
-      "candancihan.bsky.social",
       "mmr3cords.bsky.social",
       "mergok.bsky.social",
-      "deryanurduygu.bsky.social",
       "filmcia.bsky.social",
-      "cahidecankut.bsky.social",
       "e-fx.bsky.social",
-      "asudeajda.bsky.social",
-      "acelyaaktay.bsky.social",
       "artofthemale.bsky.social",
-      "dilekdidar.bsky.social",
-      "ahucanaday.bsky.social",
       "louisshalako.bsky.social",
       "livenude.bsky.social",
-      "dilaydevin.bsky.social",
       "dailyfun.bsky.social",
       "punktoady.bsky.social",
       "feetlove1973.bsky.social",
-      "defnedilseren.bsky.social",
       "elfbetcom.bsky.social",
-      "ahsenatasen.bsky.social",
-      "behiyebelde.bsky.social",
       "mexbeyret.bsky.social",
       "boarkkhatun.bsky.social",
       "amadeus0727.bsky.social",
@@ -795,7 +775,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753667666663
+    "timestamp": 1753754424582
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -846,6 +826,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "ph7s.bsky.social",
+      "vinceye13231.bsky.social",
       "skypilot.social",
       "robinfaber.bsky.social",
       "westsiide.bsky.social",
@@ -1141,6 +1123,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "ph7s.bsky.social",
+      "skypilot.social",
+      "vinceye13231.bsky.social",
       "robinfaber.bsky.social",
       "westsiide.bsky.social",
       "cheryl19.bsky.social",
@@ -1443,7 +1428,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753667666662
+    "timestamp": 1753754424581
   },
   "theyearprogress.bsky.social": {
     "followers": [
