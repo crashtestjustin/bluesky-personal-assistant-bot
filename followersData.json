@@ -433,7 +433,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753754424583
+    "timestamp": 1753840220090
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -775,7 +775,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753754424582
+    "timestamp": 1753840220089
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -826,6 +826,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "p-viegas.bsky.social",
       "ph7s.bsky.social",
       "vinceye13231.bsky.social",
       "skypilot.social",
@@ -859,7 +860,7 @@
       "bvccaneer.bsky.social",
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
-      "thidean.bsky.social",
+      "jpascual.kaidev.io",
       "growthhackersgroup.bsky.social",
       "widespreadmemes.bsky.social",
       "vibecodedan.bsky.social",
@@ -1123,6 +1124,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "p-viegas.bsky.social",
       "ph7s.bsky.social",
       "skypilot.social",
       "vinceye13231.bsky.social",
@@ -1155,7 +1157,7 @@
       "bvccaneer.bsky.social",
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
-      "thidean.bsky.social",
+      "jpascual.kaidev.io",
       "growthhackersgroup.bsky.social",
       "widespreadmemes.bsky.social",
       "vibecodedan.bsky.social",
@@ -1428,7 +1430,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753754424581
+    "timestamp": 1753840220089
   },
   "theyearprogress.bsky.social": {
     "followers": [
