@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "blue-pilot.bsky.social",
       "sharp-designs.bsky.social",
       "en0ne.bsky.social",
       "travisstreet.com",
@@ -434,7 +435,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1753926603621
+    "timestamp": 1754013608336
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -645,6 +646,7 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
+      "birmaniac.bsky.social",
       "ulgen70.bsky.social",
       "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
@@ -773,7 +775,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1753926603620
+    "timestamp": 1754013608335
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -824,6 +826,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "truthnothingbut.bsky.social",
       "sharp-designs.bsky.social",
       "p-viegas.bsky.social",
       "ph7s.bsky.social",
@@ -1123,6 +1126,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "truthnothingbut.bsky.social",
+      "sharp-designs.bsky.social",
       "p-viegas.bsky.social",
       "ph7s.bsky.social",
       "skypilot.social",
@@ -1429,7 +1434,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1753926603620
+    "timestamp": 1754013608335
   },
   "theyearprogress.bsky.social": {
     "followers": [
