@@ -435,10 +435,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1754013608336
+    "timestamp": 1754099104359
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "youtubevideoizle.bsky.social",
       "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "812farms.bsky.social",
@@ -601,6 +602,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "youtubevideoizle.bsky.social",
       "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "812farms.bsky.social",
@@ -775,7 +777,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1754013608335
+    "timestamp": 1754099104358
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1434,7 +1436,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1754013608335
+    "timestamp": 1754099104357
   },
   "theyearprogress.bsky.social": {
     "followers": [
