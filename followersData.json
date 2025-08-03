@@ -435,7 +435,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1754099104359
+    "timestamp": 1754186268122
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -443,7 +443,6 @@
       "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "812farms.bsky.social",
-      "nedaanedaa88.bsky.social",
       "atamoguzkagan.bsky.social",
       "ugultutepesi.bsky.social",
       "xbox720conceptimg.bsky.social",
@@ -606,7 +605,6 @@
       "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "812farms.bsky.social",
-      "nedaanedaa88.bsky.social",
       "atamoguzkagan.bsky.social",
       "ugultutepesi.bsky.social",
       "xbox720conceptimg.bsky.social",
@@ -777,7 +775,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1754099104358
+    "timestamp": 1754186268121
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -828,6 +826,9 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "alannewman.bsky.social",
+      "erzicky.bsky.social",
+      "absurd-link.bsky.social",
       "truthnothingbut.bsky.social",
       "sharp-designs.bsky.social",
       "p-viegas.bsky.social",
@@ -1128,6 +1129,9 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "alannewman.bsky.social",
+      "erzicky.bsky.social",
+      "absurd-link.bsky.social",
       "truthnothingbut.bsky.social",
       "sharp-designs.bsky.social",
       "p-viegas.bsky.social",
@@ -1436,7 +1440,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1754099104357
+    "timestamp": 1754186268120
   },
   "theyearprogress.bsky.social": {
     "followers": [
