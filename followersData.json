@@ -435,7 +435,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1754272688091
+    "timestamp": 1754358778168
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -773,7 +773,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1754272688090
+    "timestamp": 1754358778168
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -824,6 +824,8 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "darshitdudhaiya.bsky.social",
+      "root-and-ritual.bsky.social",
       "sujal-vanjare.bsky.social",
       "alannewman.bsky.social",
       "erzicky.bsky.social",
@@ -1128,6 +1130,8 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "root-and-ritual.bsky.social",
+      "darshitdudhaiya.bsky.social",
       "sujal-vanjare.bsky.social",
       "alannewman.bsky.social",
       "erzicky.bsky.social",
@@ -1440,7 +1444,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1754272688089
+    "timestamp": 1754358778167
   },
   "theyearprogress.bsky.social": {
     "followers": [
