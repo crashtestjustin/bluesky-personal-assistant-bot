@@ -13,6 +13,7 @@
   },
   "jde.blue": {
     "followers": [
+      "vonwolf.bsky.social",
       "darkwingstweet.bsky.social",
       "quinngunter.bsky.social",
       "blue-pilot.bsky.social",
@@ -73,7 +74,6 @@
       "bahbilee.bsky.social",
       "urdamautern.bsky.social",
       "creativenavy.bsky.social",
-      "punktoady.bsky.social",
       "sinedl3marin.bsky.social",
       "mt3n.bsky.social",
       "reviewedworld.bsky.social",
@@ -437,7 +437,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1754531488906
+    "timestamp": 1754617853755
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -464,7 +464,6 @@
       "feetlove1973.bsky.social",
       "louisshalako.bsky.social",
       "dailyfun.bsky.social",
-      "punktoady.bsky.social",
       "elfbetcom.bsky.social",
       "hayalciatilla.bsky.social",
       "tsert.bsky.social",
@@ -621,7 +620,6 @@
       "artofthemale.bsky.social",
       "louisshalako.bsky.social",
       "dailyfun.bsky.social",
-      "punktoady.bsky.social",
       "feetlove1973.bsky.social",
       "elfbetcom.bsky.social",
       "mexbeyret.bsky.social",
@@ -776,7 +774,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1754531488905
+    "timestamp": 1754617853753
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -827,6 +825,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "alexisbouchez.com",
       "darkwingstweet.bsky.social",
       "quinngunter.bsky.social",
       "darshitdudhaiya.bsky.social",
@@ -1135,6 +1134,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "alexisbouchez.com",
       "darkwingstweet.bsky.social",
       "quinngunter.bsky.social",
       "root-and-ritual.bsky.social",
@@ -1451,7 +1451,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1754531488905
+    "timestamp": 1754617853753
   },
   "theyearprogress.bsky.social": {
     "followers": [
