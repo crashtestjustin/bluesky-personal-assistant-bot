@@ -29,7 +29,6 @@
       "lasagnalove.bsky.social",
       "sjcdems.bsky.social",
       "vrondak.is",
-      "spoont51.bsky.social",
       "nic-davisson.bsky.social",
       "donadam.bsky.social",
       "notoriousron.bsky.social",
@@ -437,14 +436,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1754877071601
+    "timestamp": 1754962839636
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
-      "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "atamoguzkagan.bsky.social",
       "ugultuperisi.bsky.social",
@@ -605,7 +603,6 @@
       "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
-      "sarituborgg.bsky.social",
       "adanalikemalist.bsky.social",
       "atamoguzkagan.bsky.social",
       "ugultuperisi.bsky.social",
@@ -776,7 +773,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1754877071601
+    "timestamp": 1754962839636
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -827,6 +824,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "aheadsheep.bsky.social",
       "alexisbouchez.com",
       "quinngunter.bsky.social",
       "darshitdudhaiya.bsky.social",
@@ -972,7 +970,6 @@
       "curtcodeio.bsky.social",
       "jerome-etienne.bsky.social",
       "ai-tech-news.bsky.social",
-      "sarituborgg.bsky.social",
       "valkirilov.bsky.social",
       "jukkisahonen.bsky.social",
       "waleedtalha.bsky.social",
@@ -1135,6 +1132,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "aheadsheep.bsky.social",
       "alexisbouchez.com",
       "quinngunter.bsky.social",
       "root-and-ritual.bsky.social",
@@ -1281,7 +1279,6 @@
       "oz-s.bsky.social",
       "curtcodeio.bsky.social",
       "brunopedro.com",
-      "sarituborgg.bsky.social",
       "ai-tech-news.bsky.social",
       "jerome-etienne.bsky.social",
       "jukkisahonen.bsky.social",
@@ -1451,7 +1448,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1754877071600
+    "timestamp": 1754962839635
   },
   "theyearprogress.bsky.social": {
     "followers": [
