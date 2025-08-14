@@ -436,10 +436,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1755049327489
+    "timestamp": 1755135780586
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ctrlaltdamien.bsky.social",
+      "aferalartist.bsky.social",
       "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
@@ -599,6 +601,8 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "aferalartist.bsky.social",
+      "ctrlaltdamien.bsky.social",
       "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
@@ -771,7 +775,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1755049327488
+    "timestamp": 1755135780585
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -894,7 +898,6 @@
       "jessecruz.dev",
       "lux.bsky.social",
       "dinday.bsky.social",
-      "heidihazelton.bsky.social",
       "lalitt.bsky.social",
       "obvio.bsky.social",
       "indieorca.bsky.social",
@@ -1448,7 +1451,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1755049327488
+    "timestamp": 1755135780584
   },
   "theyearprogress.bsky.social": {
     "followers": [
