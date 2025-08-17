@@ -151,7 +151,6 @@
       "kjstok.bsky.social",
       "unity-vibes.bsky.social",
       "karlhorky.com",
-      "daniel-majer.github.io",
       "kristenbrowne3.bsky.social",
       "bluesterb.bsky.social",
       "jeffst.bsky.social",
@@ -437,10 +436,13 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1755308289934
+    "timestamp": 1755395306326
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "genevieve-bertu.bsky.social",
+      "amar8585.bsky.social",
+      "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
       "ctrlaltdamien.bsky.social",
@@ -604,6 +606,9 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "genevieve-bertu.bsky.social",
+      "amar8585.bsky.social",
+      "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
       "aferalartist.bsky.social",
@@ -780,7 +785,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1755308289933
+    "timestamp": 1755395306325
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1458,7 +1463,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1755308289933
+    "timestamp": 1755395306325
   },
   "theyearprogress.bsky.social": {
     "followers": [
