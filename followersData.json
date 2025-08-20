@@ -112,7 +112,6 @@
       "paulksmith.bsky.social",
       "johnnybuilds.bsky.social",
       "krissmanngupta.bsky.social",
-      "timethridge2.bsky.social",
       "tigs812.bsky.social",
       "samthoyre.bsky.social",
       "directforpets.bsky.social",
@@ -437,18 +436,16 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1755567464989
+    "timestamp": 1755653269316
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "genevieve-bertu.bsky.social",
-      "amar8585.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
       "ctrlaltdamien.bsky.social",
       "aferalartist.bsky.social",
-      "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
       "adanalikemalist.bsky.social",
@@ -608,13 +605,11 @@
     ],
     "follows": [
       "genevieve-bertu.bsky.social",
-      "amar8585.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
       "aferalartist.bsky.social",
       "ctrlaltdamien.bsky.social",
-      "azmandr.bsky.social",
       "yurtsever.org.tr",
       "mustafakemalizinde.bsky.social",
       "adanalikemalist.bsky.social",
@@ -657,7 +652,6 @@
       "iknurgenc.bsky.social",
       "kelimeoyunu.bsky.social",
       "theraaffee.bsky.social",
-      "birmaniac.bsky.social",
       "ulgen70.bsky.social",
       "charlotteengstorm.bsky.social",
       "loopuss.bsky.social",
@@ -786,7 +780,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1755567464988
+    "timestamp": 1755653269315
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1464,7 +1458,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1755567464988
+    "timestamp": 1755653269314
   },
   "theyearprogress.bsky.social": {
     "followers": [
