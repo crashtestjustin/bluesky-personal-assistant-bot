@@ -374,7 +374,7 @@
       "andraskindler.bsky.social",
       "maxvdvloet.bsky.social",
       "dannypostma.com",
-      "lacroixboi.dadguy.online",
+      "lacroixboi.dadguy.help",
       "rose.bsky.team",
       "marclou.bsky.social",
       "adamlyttleapps.com",
@@ -436,10 +436,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1755826051409
+    "timestamp": 1755912319966
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "inventegy.bsky.social",
       "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
@@ -604,6 +605,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "inventegy.bsky.social",
       "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
@@ -780,7 +782,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1755826051408
+    "timestamp": 1755912319966
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -831,6 +833,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "inventegy.bsky.social",
       "vitorschwaab.bsky.social",
       "choton99design.bsky.social",
       "janschulte.com",
@@ -1141,6 +1144,7 @@
       "theyearprogress.bsky.social"
     ],
     "follows": [
+      "inventegy.bsky.social",
       "vitorschwaab.bsky.social",
       "choton99design.bsky.social",
       "janschulte.com",
@@ -1460,7 +1464,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1755826051408
+    "timestamp": 1755912319965
   },
   "theyearprogress.bsky.social": {
     "followers": [
