@@ -435,10 +435,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1756085988175
+    "timestamp": 1756172209614
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
       "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
@@ -604,6 +605,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
       "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
@@ -781,7 +783,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1756085988174
+    "timestamp": 1756172209614
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -832,6 +834,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "mywhitereindeer.bsky.social",
       "lincolntechie.bsky.social",
       "inventegy.bsky.social",
       "vitorschwaab.bsky.social",
@@ -1464,7 +1467,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1756085988174
+    "timestamp": 1756172209613
   },
   "theyearprogress.bsky.social": {
     "followers": [
