@@ -24,7 +24,6 @@
       "graphtracks.com",
       "jrhizor.dev",
       "funnyofficegifts.bsky.social",
-      "mmpvoirdire.bsky.social",
       "lux.bsky.social",
       "icedaft.bsky.social",
       "keithwhite832.bsky.social",
@@ -257,7 +256,6 @@
       "marcsdev.bsky.social",
       "kmarkfield.bsky.social",
       "victorperalta.bsky.social",
-      "gabbbe33.bsky.social",
       "crashtestjustin.bsky.social",
       "sav-posts.bsky.social",
       "akash03.bsky.social",
@@ -435,13 +433,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1756344306495
+    "timestamp": 1756430741192
   },
   "dailystatsdm.bsky.social": {
     "followers": [
       "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
-      "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
@@ -499,7 +496,6 @@
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juangu.bsky.social",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -607,7 +603,6 @@
     "follows": [
       "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
-      "genevieve-bertu.bsky.social",
       "islamqassm.bsky.social",
       "oguzsengun.bsky.social",
       "solarisffxiv.bsky.social",
@@ -661,7 +656,6 @@
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
-      "juangu.bsky.social",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -783,7 +777,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1756344306495
+    "timestamp": 1756430741191
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -834,6 +828,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "kristianbjones.bsky.social",
       "mywhitereindeer.bsky.social",
       "lincolntechie.bsky.social",
       "inventegy.bsky.social",
@@ -861,7 +856,6 @@
       "cheryl19.bsky.social",
       "en0ne.bsky.social",
       "digiwares.bsky.social",
-      "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
       "bartblast.com",
       "seqre.dev",
@@ -952,7 +946,7 @@
       "susieinoz.bsky.social",
       "kiranova.bsky.social",
       "naveendinushka.bsky.social",
-      "xpodtech.bsky.social",
+      "xpodtech.com",
       "isbkch.bsky.social",
       "gagajohn.bsky.social",
       "buouui.bsky.social",
@@ -1171,7 +1165,6 @@
       "davidtaylor6130.bsky.social",
       "en0ne.bsky.social",
       "digiwares.bsky.social",
-      "chuchuwiiii.bsky.social",
       "zenyp.bsky.social",
       "bartblast.com",
       "seqre.dev",
@@ -1261,7 +1254,7 @@
       "umiitkose.com",
       "kiranova.bsky.social",
       "naveendinushka.bsky.social",
-      "xpodtech.bsky.social",
+      "xpodtech.com",
       "isbkch.bsky.social",
       "gagajohn.bsky.social",
       "buouui.bsky.social",
@@ -1465,7 +1458,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1756344306494
+    "timestamp": 1756430741190
   },
   "theyearprogress.bsky.social": {
     "followers": [
