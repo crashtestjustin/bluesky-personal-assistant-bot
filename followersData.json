@@ -307,7 +307,7 @@
       "leifjerami.bsky.social",
       "vedantk.bsky.social",
       "pixelhop.io",
-      "briansaetre.com",
+      "handle.invalid",
       "kevoncheung.com",
       "jasonleow.bsky.social",
       "thisismattsmith.com",
@@ -435,7 +435,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1756516882652
+    "timestamp": 1756604261556
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -777,7 +777,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1756516882652
+    "timestamp": 1756604261555
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1456,7 +1456,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1756516882651
+    "timestamp": 1756604261555
   },
   "theyearprogress.bsky.social": {
     "followers": [
