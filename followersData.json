@@ -435,7 +435,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1756604261556
+    "timestamp": 1756691219714
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -777,7 +777,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1756604261555
+    "timestamp": 1756691219714
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -828,6 +828,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "tejartr.bsky.social",
       "kristianbjones.bsky.social",
       "mywhitereindeer.bsky.social",
       "lincolntechie.bsky.social",
@@ -1456,7 +1457,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1756604261555
+    "timestamp": 1756691219713
   },
   "theyearprogress.bsky.social": {
     "followers": [
