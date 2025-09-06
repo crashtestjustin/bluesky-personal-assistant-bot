@@ -383,7 +383,7 @@
       "adambarta.bsky.social",
       "jeannen.com",
       "erwin.blue",
-      "2000.blue",
+      "2001gpu.bsky.social",
       "dorian.blue",
       "firas.blue",
       "pixelhop.io",
@@ -436,7 +436,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1757035414257
+    "timestamp": 1757121680032
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -500,6 +500,7 @@
       "loopuss.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juangu.bsky.social",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -660,6 +661,7 @@
       "tolaniynem.bsky.social",
       "midyakemal.bsky.social",
       "ysora.bsky.social",
+      "juangu.bsky.social",
       "keithwhite832.bsky.social",
       "vrondak.is",
       "blue-pilot.bsky.social",
@@ -780,7 +782,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1757035414256
+    "timestamp": 1757121680032
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -868,7 +870,7 @@
       "nick-skriabin.bsky.social",
       "travisstreet.com",
       "dariotordoni.bsky.social",
-      "soundsafari.bsky.social",
+      "soundsafari.io",
       "volks-pmp.bsky.social",
       "xiongchun.bsky.social",
       "buildinganchor.bsky.social",
@@ -1175,7 +1177,7 @@
       "seqre.dev",
       "nick-skriabin.bsky.social",
       "dariotordoni.bsky.social",
-      "soundsafari.bsky.social",
+      "soundsafari.io",
       "volks-pmp.bsky.social",
       "buildinganchor.bsky.social",
       "xiongchun.bsky.social",
@@ -1462,7 +1464,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1757035414256
+    "timestamp": 1757121680031
   },
   "theyearprogress.bsky.social": {
     "followers": [
