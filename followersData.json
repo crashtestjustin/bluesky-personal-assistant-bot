@@ -437,10 +437,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1757900204107
+    "timestamp": 1757985712224
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "chiitan-espa.bsky.social",
       "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
       "islamqassm.bsky.social",
@@ -478,7 +479,6 @@
       "mexbeyret.bsky.social",
       "mesutakcay.bsky.social",
       "korkuyokumutvar.bsky.social",
-      "growthhackersgroup.bsky.social",
       "sethfortuyn.bsky.social",
       "metsaspring.bsky.social",
       "rosesandwispons.bsky.social",
@@ -603,6 +603,7 @@
       "biptopposts.bsky.social"
     ],
     "follows": [
+      "chiitan-espa.bsky.social",
       "peterlatimer6.bsky.social",
       "inventegy.bsky.social",
       "islamqassm.bsky.social",
@@ -778,7 +779,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1757900204105
+    "timestamp": 1757985712223
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -829,6 +830,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "barbaracc324.bsky.social",
       "bread10.bsky.social",
       "allanbe.bsky.social",
       "therealtuan.bsky.social",
@@ -886,7 +888,6 @@
       "zariadev.bsky.social",
       "madhavdevlife.bsky.social",
       "jpascual.kaidev.io",
-      "growthhackersgroup.bsky.social",
       "widespreadmemes.bsky.social",
       "vibecodedan.bsky.social",
       "greentea.bsky.social",
@@ -1460,7 +1461,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1757900204104
+    "timestamp": 1757985712223
   },
   "theyearprogress.bsky.social": {
     "followers": [
