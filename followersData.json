@@ -437,7 +437,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1757985712224
+    "timestamp": 1758072120319
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -779,7 +779,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1757985712223
+    "timestamp": 1758072120318
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -830,6 +830,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "nodezone.bsky.social",
       "barbaracc324.bsky.social",
       "bread10.bsky.social",
       "allanbe.bsky.social",
@@ -961,7 +962,7 @@
       "fritzvonheineken.bsky.social",
       "spreen.co",
       "tony-m-meijer.bsky.social",
-      "jaxon-evans.com",
+      "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "loveree.bsky.social",
@@ -1268,7 +1269,7 @@
       "spreen.co",
       "zerohumanlabs.com",
       "tony-m-meijer.bsky.social",
-      "jaxon-evans.com",
+      "jaxonevans.bsky.social",
       "outsetwellness.bsky.social",
       "jpshlk.com",
       "dinday.bsky.social",
@@ -1461,7 +1462,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1757985712223
+    "timestamp": 1758072120318
   },
   "theyearprogress.bsky.social": {
     "followers": [
