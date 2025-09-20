@@ -437,7 +437,7 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1758245060183
+    "timestamp": 1758331231505
   },
   "dailystatsdm.bsky.social": {
     "followers": [
@@ -779,7 +779,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1758245060182
+    "timestamp": 1758331231505
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -830,6 +830,7 @@
   },
   "biptopposts.bsky.social": {
     "followers": [
+      "nerdydude777.bsky.social",
       "needledickrick.bsky.social",
       "nodezone.bsky.social",
       "barbaracc324.bsky.social",
@@ -1135,7 +1136,6 @@
       "apvarun.com",
       "techmag.bsky.social",
       "miracodes.bsky.social",
-      "bolonalley.bsky.social",
       "onlinedopamine.com",
       "shmiley19.bsky.social",
       "leonardom.com",
@@ -1453,7 +1453,6 @@
       "techmag.bsky.social",
       "ewalf.com",
       "onlinedopamine.com",
-      "bolonalley.bsky.social",
       "shmiley19.bsky.social",
       "leonardom.com",
       "frederikheld.bsky.social",
@@ -1463,7 +1462,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1758245060182
+    "timestamp": 1758331231504
   },
   "theyearprogress.bsky.social": {
     "followers": [
