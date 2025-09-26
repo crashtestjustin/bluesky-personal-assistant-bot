@@ -116,7 +116,6 @@
       "paulksmith.bsky.social",
       "johnnybuilds.bsky.social",
       "krissmanngupta.bsky.social",
-      "timethridge2.bsky.social",
       "tigs812.bsky.social",
       "samthoyre.bsky.social",
       "directforpets.bsky.social",
@@ -439,10 +438,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1758763437117
+    "timestamp": 1758849802734
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "byjoker.bsky.social",
       "reeseteacher.bsky.social",
       "ilyasiqbal.bsky.social",
       "gothicdolphins.bsky.social",
@@ -479,6 +479,7 @@
       "tsert.bsky.social",
       "tayecealazkaman.bsky.social",
       "amadeus0727.bsky.social",
+      "boarkkhatun.bsky.social",
       "mexbeyret.bsky.social",
       "mesutakcay.bsky.social",
       "korkuyokumutvar.bsky.social",
@@ -634,6 +635,7 @@
       "feetlove1973.bsky.social",
       "elfbetcom.bsky.social",
       "mexbeyret.bsky.social",
+      "boarkkhatun.bsky.social",
       "amadeus0727.bsky.social",
       "tayecealazkaman.bsky.social",
       "tsert.bsky.social",
@@ -782,7 +784,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1758763437116
+    "timestamp": 1758849802733
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1080,7 +1082,7 @@
       "softwareengineering.ca",
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
-      "razvanmuntian.com",
+      "handle.invalid",
       "itskofio.bsky.social",
       "nursingfront.com",
       "emdis.bsky.social",
@@ -1393,7 +1395,7 @@
       "lankeami.bsky.social",
       "frankchiller.bsky.social",
       "itskofio.bsky.social",
-      "razvanmuntian.com",
+      "handle.invalid",
       "emdis.bsky.social",
       "nursingfront.com",
       "peleliu.bsky.social",
@@ -1464,7 +1466,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1758763437116
+    "timestamp": 1758849802733
   },
   "theyearprogress.bsky.social": {
     "followers": [
