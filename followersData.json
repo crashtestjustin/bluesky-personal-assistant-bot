@@ -438,12 +438,12 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1758936015224
+    "timestamp": 1759023526676
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "ctrlaltdamien.bsky.social",
       "lillynorthmusic.bsky.social",
-      "byjoker.bsky.social",
       "reeseteacher.bsky.social",
       "ilyasiqbal.bsky.social",
       "gothicdolphins.bsky.social",
@@ -785,7 +785,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1758936015223
+    "timestamp": 1759023526675
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1467,7 +1467,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1758936015222
+    "timestamp": 1759023526674
   },
   "theyearprogress.bsky.social": {
     "followers": [
