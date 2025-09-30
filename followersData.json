@@ -379,13 +379,13 @@
       "lacroixboi.dadguy.help",
       "rose.bsky.team",
       "marclou.bsky.social",
-      "adamlyttleapps.com",
+      "handle.invalid",
       "pretzelhands.com",
       "travisstreet.com",
       "adambarta.bsky.social",
       "jeannen.com",
       "erwin.blue",
-      "2001gpu.bsky.social",
+      "brixes.bsky.social",
       "dorian.blue",
       "firas.blue",
       "pixelhop.io",
@@ -438,10 +438,11 @@
       "levels.io",
       "bsky.app"
     ],
-    "timestamp": 1759109140496
+    "timestamp": 1759195430654
   },
   "dailystatsdm.bsky.social": {
     "followers": [
+      "alvarofueyo.bsky.social",
       "ctrlaltdamien.bsky.social",
       "lillynorthmusic.bsky.social",
       "reeseteacher.bsky.social",
@@ -480,7 +481,6 @@
       "tsert.bsky.social",
       "tayecealazkaman.bsky.social",
       "amadeus0727.bsky.social",
-      "boarkkhatun.bsky.social",
       "mexbeyret.bsky.social",
       "mesutakcay.bsky.social",
       "korkuyokumutvar.bsky.social",
@@ -635,7 +635,6 @@
       "feetlove1973.bsky.social",
       "elfbetcom.bsky.social",
       "mexbeyret.bsky.social",
-      "boarkkhatun.bsky.social",
       "amadeus0727.bsky.social",
       "tayecealazkaman.bsky.social",
       "tsert.bsky.social",
@@ -783,7 +782,7 @@
       "crashtestjustin.bsky.social",
       "theyearprogress.bsky.social"
     ],
-    "timestamp": 1759109140496
+    "timestamp": 1759195430653
   },
   "xmascountdown.bsky.social": {
     "followers": [
@@ -1463,7 +1462,7 @@
       "theyearprogress.bsky.social",
       "xmascountdown.bsky.social"
     ],
-    "timestamp": 1759109140495
+    "timestamp": 1759195430652
   },
   "theyearprogress.bsky.social": {
     "followers": [
